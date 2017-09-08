@@ -1,11 +1,11 @@
 // html2print needs CSS regions
 // load a ‘polyfill’ if the browser does not support it
-if (window.chrome) {
-    console.log('running chrome, no support for css regions; loading the polyfill');
+//if (window.chrome) {
+    /*console.log('running chrome, no support for css regions; loading the polyfill');
     var script = document.createElement('script');
     script.setAttribute('src', 'assets/lib/css-regions.min.js');
-    document.getElementsByTagName('head')[0].appendChild(script);
-};
+    document.getElementsByTagName('head')[0].appendChild(script);*/
+//};
 
 $(function() {
     // ________________________________ INIT __________________________________ //
@@ -20,7 +20,40 @@ $(function() {
 
     // Loads main content into <article id="my-story">
     if (content) {
-        $("#my-story").load(content);
+
+        $("#my-story").load(content, function(){
+
+            $('.loading').removeClass('one').addClass('two').html('Mise en page...');
+
+            $(document.getNamedFlow('mystory')).one('regionoversetchange', function(){
+                $('#my-story a[href^="#"]').each(function(){
+                    var anchor = $(this).attr('href').substr(1);
+                    var target = $("#pages [id^='" + anchor + "']");
+										var $this = $(this);
+                    if(target.size()) {
+                        var pagenum = target.closest('.paper').attr('id');
+                        pagenum = pagenum.substr(5);
+                        $this.html(pagenum);
+                    }
+                });
+                $('.page').each(function(){
+                    var page = $(this),
+                        article = page.find("article"),
+												chapter = article.children().last().attr('data-chapter');
+                    page.find('.footer .chapter').html(chapter);
+                    if(article.children().first().hasClass('h4-ateliers')) {
+                        page.addClass('atelier');
+                    }
+                })
+                $('#my-story').hide().show(0);
+                $('.loading').removeClass('two').addClass('three').html('Ajustements...');
+                $(document.getNamedFlow('mystory')).on('regionoversetchange', function(e){
+                    $('.loading').hide();
+                });
+
+            });
+
+        });
     }
 
 
@@ -75,7 +108,7 @@ $(function() {
 
 
     // __________________________________ TOC __________________________________ //
-    $(".paper").each(function(){
+    /*$(".paper").each(function(){
         page = $(this).attr("id");
         $("#toc-pages").append("<li><a href='#" + page + "'>" + page.replace("-", " ") + "</a></li>")
     });
@@ -84,8 +117,7 @@ $(function() {
         e.preventDefault();
         $(this).toggleClass("button-active");
         $("#toc-pages").toggle();
-    });
-
+    });*/
 
     // __________________________________ ZOOM __________________________________ //
     $("#zoom").click(function(e){
@@ -102,5 +134,5 @@ $(function() {
     });
 
 
-    
+
 });

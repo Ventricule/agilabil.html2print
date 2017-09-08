@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en" class="normal">
+<html lang="fr" class="normal">
 <head>
     <meta charset="utf-8">
     <title>HTML2print</title>
@@ -26,10 +26,10 @@
         <input name="hi-res" value="true" type="checkbox">
 
         <label for="zoom">zoom</label>
-        <input name="zoom" value="100" type="number" min="25" max="1600" step="25">
+        <input name="zoom" value="100" type="number" min="25" max="1600" step="1">
 
         <label for="page">page</label>
-        <input name="page" value="1" type="number" min="1" max="100" step="1">
+        <input name="page" value="1" type="number" min="1" max="1000" step="1">
 
         <div class="separator"></div>
 
@@ -37,6 +37,7 @@
     </div>
 
     <!-- JAVASCRIPT -->
+    <script type="text/javascript">less = {}; less.env = 'development';</script>
     <script type="text/javascript" src="/assets/lib/jquery.min.js"></script>
     <script type="text/javascript" src="/assets/js/gui.js"></script>
 </body>

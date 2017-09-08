@@ -6,20 +6,17 @@
 
 /* __________________________________ HEADER __________________________________ */
 .header {
+    position: absolute;
     top: 0;
     margin: 0;
     padding-top: @page-margin-top;
     width: 100%;
     height: @header-height;
     text-align: left;
-
-    &:after {
-        content: @header-text;
-    }
 }
 /* __________________________________ MAIN SECTION __________________________________ */
 .body {
-    height: @page-height - @header-height - @footer-height;
+    height: @page-height;
     width: @page-width;
     margin-bottom: @page-margin-bottom;
     padding-top: @page-margin-top + @header-height;
@@ -44,6 +41,12 @@
     width: 100%;
     height: @footer-height;
     text-align: center;
+
+
+    &:before {
+        content: @header-text;
+        text-align: right;
+    }
 
     &:after {
         content: @footer-text;

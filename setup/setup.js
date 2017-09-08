@@ -1,4 +1,3 @@
 // Local settings
-var nb_page = 24;
-var content = "content.html";
-
+var nb_page = 120;
+var content = "content.php";

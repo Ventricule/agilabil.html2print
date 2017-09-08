@@ -50,14 +50,25 @@ $(function() {
             //$("#toc-pages").append("<li><a href='#" + page + "'>" + page.replace("-", " ") + "</a></li>")
         //});
 
-        $('[name="page"]').change(function() {
+        $('[name="page"]').on('input', function() {
             var pageNumber = $(this).val() - 1;
 
             var target = doc.find('.paper:eq(' + pageNumber + ')');
             var offsetTop = target.offset().top;
 
-            doc.find('body').scrollTop(offsetTop);
+            console.log(offsetTop);
+
+            doc.animate({
+                scrollTop: offsetTop
+            }, 100);
         });
+
+        /*$('input[name="page"]').change(function(){
+            console.log($(this));
+            $('html, body').animate({
+                scrollTop: $("#page-" + $( this ).val() ).offset().top
+            }, 100);
+        });*/
 
         $("#print").on('click', function() {
             $("iframe").get(0).contentWindow.print();

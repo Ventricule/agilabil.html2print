@@ -54,6 +54,7 @@
             position: absolute;
             top: 0;
             left: 0;
+            pointer-events: none;
 
             div {
                 border-style: solid;
@@ -111,6 +112,7 @@
         position: relative;
         box-sizing: border-box;
         overflow: hidden;
+        z-index: 0;
     }
 
     // TODO: changer le format du papier en spread pour pouvoir imprimer en planche
@@ -151,12 +153,12 @@
  * Helpers
  */
 
-.region-break {
+.region-break, .break-after {
     /* Apply this class to an element to put it on a new region.
      * Hint: 
      * You can also use an empty <div class="page-break"></div> 
      * if you want to put manual page breaks without attaching it to an HTML element
      */
-    -webkit-region-break-before: always;
-                   break-before: always;
+    -webkit-region-break-after: always;
+                   break-after: region;
 }
