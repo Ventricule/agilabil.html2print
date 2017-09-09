@@ -24,7 +24,7 @@ $SmartyPants->do_space_frenchquote = 2;
     <body>
         <?php
 				/*
-        //$url = "https://app.classeur.io/api/v2/files/zM69X0Rqu9DykVXs2iYL/contentRevs/last";
+        $url = "https://app.classeur.io/api/v2/files/zM69X0Rqu9DykVXs2iYL/contentRevs/last";
         //$url = "https://app.classeur.io/api/v2/files/PkzmBl1roNNneqdiEc3d/contentRevs/last";
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
@@ -43,7 +43,7 @@ $SmartyPants->do_space_frenchquote = 2;
 
 				$content = file_get_contents("agilabil.md");
 
-        $content = str_replace("\pagebreak", '<div class="break-after">&nbsp;</div>', $content);
+        //$content = str_replace("***\n", '<div class="break-after">&nbsp;</div>', $content);
 
         $content = $Parsedown->setBreaksEnabled(true)->text($content);
 
@@ -93,11 +93,7 @@ $SmartyPants->do_space_frenchquote = 2;
 
                 /*----------- ADD PAGEBREAKS -------------------*/
 
-                $('h2, h3, h4, h5.h4-ateliers').prev().addClass('break-after');
-
-
-
-
+                //$('h5.h4-ateliers').prev().addClass('break-after');
 
             });
 

@@ -25,6 +25,7 @@ article {
 		text-decoration: none;
 		border-bottom: .5pt solid;
 		display: inline-block;
+		color: red;
 	}
 
 	h1:first-child,
@@ -116,12 +117,17 @@ article {
 
 	}
 
+	hr {
+		-webkit-region-break-after: always;
+									 break-after: region;
+	}
+
 	ul, ol {
 		padding-left: 9pt;
 	}
 
 	del {
-	    font-family: 'whois' !important;
+	  font-family: 'whois' !important;
 		text-decoration: none;
 		text-align: right;
 		display: block;

@@ -16,6 +16,8 @@ Pour finir, il peut être vécu comme un « livre dont vous êtes le héros » e
 
 <span class="chemin">Pour accéder directement au premier atelier qui offre des outils afin de faire se rencontrer les membres d'un groupe de manière décalée et surtout adaptée au rassemblement en question, passez directement page [C2](#C2)</span>
 
+***
+
 ## Le projet Agilabil
 
 Envisagé comme une pépinière, un laboratoire agile, l'Agilabil est avant tout une équipe formée de membres aux statuts et aux (in)compétences diverses et complémentaires, d'âges différents et de situations variées : enseignantes et enseignants-chercheurs, étudiantes-chercheurs, artistes et artistes-étudiants, professionnels de l'Université et d'ailleurs. Avec tout ce qui en chacun.e d'entre nous cherche, apprend, crée, sait et expérimente, nous sommes : Cécile Bally, Bérangère Baucher, Alix Chouiha, Auguste Djagouri, Adèle Fouchier, Juliette Fournis, Adèle Godefroy, Stéphanie Grenier, Éva Guerda, Danièle Leclair, Hyacinthe Lesecq, Dorothée Lintner, Maud Perez-Simon, Maiwenn Raoul, Margaux Ribeaucourt, Sonia Samini, Myriam Suchet, Pierre Tandille, Emma Tricard et Samuel Tronçon.
@@ -33,6 +35,8 @@ Notre hypothèse de travail était que l'innovation consiste à faire advenir ce
 > Note : Initialement appelé « Agilab » notre projet change de nom et devient « Agilabil » pour se différencier d'une entreprise déjà existante et appelée de la même manière, qui nous contacte pour nous faire part de cette redondance — preuve que nous avons une existence visible pour l'extérieur !
 
 Cette année Agilabilienne aura confirmé pour nous l'hypothèse que l'apprentissage et la formation sont incomparablement facilités par le désir, et que ce désir se trouve suscité par l'imagination de ce que nous voulons faire. La dimension institutionnelle s'est ainsi approfondie tout au long de l'expérimentation : c'est véritablement « en Université » que nous avons réfléchi et que nous souhaitons prolonger les pistes de réflexion.
+
+***
 
 ### Les premiers pas du projet
 
@@ -57,6 +61,8 @@ Dans un monde professionnel où un bon objectif se doit d'être « Spécifique, 
 Par ailleurs, les financements de l'Université, et de la recherche sont aujourd'hui de plus en plus conditionnés par des appels à projets. On prévoit et on annonce un résultat chiffré avant de passer un temps prédéterminé à mettre tout en œuvre pour atteindre cet objectif. L' Agilabil, c'était le défi d'une « promesse en blanc », comme dans les romans arthuriens. Le pari que, par la création d'une communauté active, soudée et volontaire, on suscite une émulation qui fait bouger les cadres et renouvelle la pensée.
 
 > L'absence de résultats annoncés n'induit pas la stérilité d'un projet, bien au contraire. C'est ce que vient prouver cet ouvrage dont la réalisation n'était pas prévue au départ. Innover, ce n'est pas créer du neuf à tout pris, c'est s'enseigner les uns les autres à regarder autrement - y compris pour considérer comme un "résultat" quelque chose qui émerge et qui n'était pas programmé.
+
+***
 
 ### L'écho des questions et des désirs : rencontre avec des étudiant.e.s de l'Université Sorbonne Nouvelle à Paris
 
@@ -120,6 +126,8 @@ Je deviens ainsi à moi-même, ce qu'un archéologue peut être à ses fouilles,
 
 <span class="chemin">Pour découvrir le fonctionnement singulier du département de danse et de performance de l'Université d'art de Berlin, passez directement page [A6](#A6)</span>
 
+***
+
 ### La *mallette* : le fil rouge du projet Agilabil
 
 Dans le sillage de cette année de travail, la constitution d'une *mallette* permettra de prolonger l'expérience. Cette *mallette* s'inspire moins des kits didactiques disponibles dans le commerce que des « ouvroirs d'esprit » inventés par Robert Filliou dans le mouvement Fluxus avec pour devise : « l'art est ce qui rend la vie plus intéressante que l'art ». En termes de pédagogie, cela revient à susciter du désir et des situations : l'enjeu n'est pas tant de s'interroger sur la manière de transmettre des contenus de savoirs que de se demander, ensemble ici et maintenant, ce que l'Université a pour nous vocation à (nous) apprendre.
@@ -135,6 +143,8 @@ Chaque objet de la *mallette*, imaginé avec audace et fabriqué avec soin, cons
 Chaque équipe réunie autour de la *mallette* se compose de 10 personnes, comprenant idéalement tous les différents corps de métier et statuts de l'UniverCité (étudiant.e.s, enseignant.e.s-chercheur.e.s, et chercheur.e.s sans charge d'enseignement, vacataires, personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, etc.) et nécessairement une personne qui facilite l'activation de la *mallette* et qui sera appelée Agilabilatateur ou Agilabilitatrice. Chacun.e des membres de l'Agilab est susceptible d'endosser cette fonction, puis accréditer toute personne ayant participé à une session *mallette*. Une session se compose de 3 séances de 3h et peut se prolonger par un feed-back au moyen de l'onglet « contribuer » du site <http://www.agilabil.tumblr.com> tandis que la plateforme Insight (<http://www.resurgences.eu/les-projets/article/insight>) développée par l'agence Résurgences permettra un travail de visualisation graphique en mouvement des différentes données ainsi que de leurs interactions.
 
 La *mallette* a été conçue par le collectif Agilabil et réalisée par Margaux Ribeaucourt et Hyacinthe Lesecq.
+
+***
 
 <a id="B9">B9</a>
 
@@ -219,8 +229,6 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 **Note:** beaucoup des difficultés à (se) comprendre tiennent à l'existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d'énoncés qui sont acceptables ou non en contexte universitaire.
 
-
-
 #### Je bâtis avec_
 
 <u>( aussi appelé "Le jeu de construction" )</u>
@@ -265,21 +273,23 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 <span class="chemin"> Pour mieux vous imaginer les objets de la mallette, passez directement page [B10](#B10)</span>
 
+***
+
 ### Présentation des Agilabien.ne.s
 
 <a id="B2">B2</a>
 
-\pagebreak
+***
 &nbsp;
 ![Portraits](assets/images/portraits/portraits1.jpg){.full-page}
 
-\pagebreak
+***
 &nbsp;
 ![Portraits](assets/images/portraits/portraits2.jpg){.full-page}
 
-\pagebreak
+***
 
-\pagebreak
+***
 
 <span class="chemin"> Pour voir nos autres traits de visages, passez directement page [A3](#A3)</span>
 
@@ -325,12 +335,13 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 **Adèle Godefroy** *Enseignante et chercheuse en littérature générale et comparée (LGC) qui réfléchit à de nouvelles méthodes pédagogiques de transmission du texte littéraire par le biais des images.* — *Agilabilienne agréée* « Moins une "expérience de plus" pour alimenter mes découvertes de tel ou tel pédagogue, mais l'expérience, d'autant plus émancipatrice, qu'elle doit son effectuation au bon vouloir de ses porteurs. »
 
+**
+
 ## Première phase : Le pavé dans la mare
 
 ~~12 octobre au 7 décembre 2015~~
 
-\pagebreak
-\pagebreak
+***
 
 ~~12 octobre 2015~~
 *Réunion 1*
@@ -388,6 +399,8 @@ En voici l'inventaire.
 
 Nous finissons la réunion avec quelques questions logistiques pour l'organisation du week-end. Cette réunion (toutes d'ailleurs) sera suivi d'un échange de mail nourri ainsi que de rendez-vous skype (notamment avec les membres de l'équipe qui ne sont pas en France) et d'autres formes de communications entre les Agilabilien.ne.s en devenir. L'organisation du premier week-end d'incubation se prépare, portée par le souffle frais de l'automne et notre curiosité de se rencontrer enfin dans l'expérience de nos pratiques.
 
+***
+
 ### Premier week-end d'incubation : Rencontre au vert pour faire pousser les questions et pensées de chacun.e.
 
 ~~du 21 au 22 novembre 2015~~
@@ -398,11 +411,13 @@ Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapi
 
 Nous faisons un rapide tour des propositions émises en amont de la journée qui fait déjà naître de nouvelles idées. Travail sur l'intercommunication. Échange. On commence par le mensonge. Lors d'un premier atelier, Emma et Cécile nous guident d'une station à l'autre pour faire connaissance ( voir page....pour l'atelier "One to one")
 
-<a id="C2">C2</a>
+***
 
 #### Ateliers
 
 ##### One to One
+
+<a id="C2">C2</a>
 
 *Atelier pensé et animé par Cécile et Emma*
 
@@ -534,17 +549,13 @@ Un horizon, cependant, avait été posé d'emblée : la réalisation d'une  *mal
 
 **Animation :** L'idée était de se doter de supports matériels pour favoriser l'émergence et la formulation de questionnements qui prendraient sens dans l'interaction et la manipulation des formes. Il est difficile de ne pas présupposer les réponses, en matière de pédagogie comme en d'autres domaines. Le détour d'un objet concret qui résisterait comme une énigme semblait pouvoir permettre de procéder différemment, en faisant fuser les questions au lieu de chercher une solution.
 
-Pour mener à bien ce projet, j'ai proposé un temps de ressaisi à l'issue de chaque demi-journée de travail, pour nous efforcer de transformer ce qui avait été pensé, éprouvé, expérimenté, sous la forme d'un objet qui pourrait ensuite entrer dans la constitution de la *malette*. Ces ateliers ont permis d'explorer les matériaux à notre disposition (bois, papier, terre glaise, etc.) et d'affiner la conception de la *malette*.
+Pour mener à bien ce projet, j'ai proposé un temps de ressaisi à l'issue de chaque demi-journée de travail, pour nous efforcer de transformer ce qui avait été pensé, éprouvé, expérimenté, sous la forme d'un objet qui pourrait ensuite entrer dans la constitution de la *malette*.
 
-**Note sur le plateau de Seder :** Wikipédia liste les sept éléments énigmatiques composant le plateau du Seder : trois plaques de pain azyme disposées l'une au-dessus de l'autre, des herbes vertes, de l'eau salée, des herbes amères, un mélange fait de dates, de noix, de pommes, d'amandes, de cannelle et de vin, un os et un œuf dur. Voilà qui est fort étrange ! Que vient faire cet œuf dur ? Pourquoi les herbes sont-elles amères ?  Évidemment, dans la tradition religieuse, l’étonnement est programmé et surtout les réponses à ces questions attendues sont déjà connues. Chaque objet est déterminé pour rappeler un épisode de l’histoire du judaïsme telle que racontée dans la Torah : l’eau est salée pour rappeler le goût des larmes des enfants d'Israël pendant leur esclavage ; les herbes amères pour rappeler l'amertume de la vie en Égypte ; le mélange symbolise le mortier utilisé par les esclaves hébreux pour la fabrication des briques ; l’os évoque le sacrifice de l'agneau pascal et l’œuf la destruction du Temple de Jérusalem. Mais l’ouverture vers d’autres questions existe aussi. De la même manière (encore que totalement différemment), chacun des objets de notre mallette doit intriguer et susciter des questions - qui elles, ne programment pas leur réponse ni leur pertinence : à quoi ça sert, en quoi puis-je me l’approprier – mais aussi : que faisons-nous à nous poser ces questions et en quoi ces questions interrogent-elles ce que nous faisons ici et ce que nous voulons et pouvons en faire ensemble ?
+**Note sur le plateau de Seder :** Wikipédia liste les sept éléments énigmatiques composant le plateau du Seder : trois plaques de pain azyme disposées l'une au-dessus de l'autre, des herbes vertes, de l'eau salée, des herbes amères, un mélange fait de dates, de noix, de pommes, d'amandes, de cannelle et de vin, un os et un œuf dur. Voilà qui est fort étrange ! Que vient faire cet œuf dur ? Pourquoi les herbes sont-elles amères ?  Évidemment, dans la tradition religieuse, l’étonnement est programmé et surtout les réponses à ces questions attendues sont déjà connues. Chaque objet est déterminé pour rappeler un épisode de l’histoire du judaïsme telle que racontée dans la Torah. Mais l’ouverture vers d’autres questions existe aussi. De la même manière (encore que totalement différemment), chacun des objets de notre mallette doit intriguer et susciter des questions - qui elles, ne programment pas leur réponse ni leur pertinence : à quoi ça sert, en quoi puis-je me l’approprier – mais aussi : que faisons-nous à nous poser ces questions et en quoi ces questions interrogent-elles ce que nous faisons ici et ce que nous voulons et pouvons en faire ensemble ?
 
-> La discussion a très vite porté sur le degré d'explicitation nécessaire pour accompagner chaque objet. Au tout départ, j'imaginais de ne proposer aucun mode d'emploi, pour laisser l'imagination entièrement libre et susciter le débat. Il s'est avéré nécessaire de donner un point d'impulsion en ajoutant non pas une seule mais plusieurs notices, suggérant différents modes d'activation possible de chaque objet. Petit à petit, la collection des énigmes s'est enrichie...
+> Au tout départ, j'imaginais de ne proposer aucun mode d'emploi, pour laisser l'imagination entièrement libre et susciter le débat. Il s'est avéré nécessaire de donner un point d'impulsion en ajoutant non pas une seule mais plusieurs notices, suggérant différents modes d'activation possible de chaque objet. Petit à petit, la collection des énigmes s'est enrichie...
 
 <span class="chemin">Pour vous faire une idée des prototypes d'objets réalisés au moment de ces ateliers, passez directement page [B4](#B4)</span>
-
-Après plusieurs heures d'ateliers et de discussions à 20, nous commençons une série d'ateliers où le nombre de participants est plus réduit (5 à 6 personnes).
-Un premier groupe se forme autour de Hyacinthe et de son atelier « Improvisation sur diapositives ».
-Le deuxième groupe change de salle pour rejoindre Stéphanie et son "Remix des formations documentaires". Le troisième groupe s'aventure autour de Maud qui installe un jeu de l'oie expérimental.
 
 ##### Improvisation sur diapositives
 
@@ -626,23 +637,18 @@ Au cours de cet atelier, nous étions invité.e.s à retracer le parcours qui es
 
 **Préparation:**
 Préparer des cartes :
-
 - trois cartes : +1, +2, +3
 - deux cartes : -1, -2, -3
 - une carte : retour à la case départ, immobilisation et arrivée
-(ne mettre la carte "arrivée" dans le jeu qu'après 15mn de jeu).
 
 **Matériel nécessaire:** feuilles A4, feutres
 
 **Désir:**  Comment évoquer succès et échecs dans un parcours d'études ? Le jeu de l'oie matérialise ce parcours, dans lequel les joueurs jouent les pions. L'approche ludique permet à chacun de se poser des questions qu'il n'aurait pas su aborder autrement.
 
-**Animation:** Lorsque c'est son tour de jouer, le participant tire une carte +1, +2, +3, -1, -2, -3, retour à la case départ, immobilisation ou arrivée et se déplace du nombre de cases indiqué. Il doit ensuite formuler ce qui dans son parcours l'a amené à avancer, plus ou moins, à stagner, à avoir l'impression ou l'envie de repartir à zéro.
-
+**Animation:** Lorsque c'est son tour de jouer, le participant tire une carte +1, +2, +3, -1, -2, -3, retour à la case départ, immobilisation ou arrivée (ne mettre la carte "arrivée" dans le jeu qu'après 15mn de jeu) et se déplace du nombre de cases indiqué. Il doit ensuite formuler ce qui dans son parcours l'a amené à avancer, plus ou moins, à stagner, à avoir l'impression ou l'envie de repartir à zéro.
 La formulation orale des réponses permet à chacun d'avoir de nouvelles idées et d'éclairer des aspects de son cursus qu'il n'a pas envisagé, ou d'apprécier rétrospectivement l'impact d'une action. Toutes les réponses sont notées sur des fiches individuelles pour permettre une discussion ultérieure.
-
 Parce qu'Agilabil donne envie de créer, de nourrir les dispositifs, le jeu a évolué au fil de l'atelier:
-
--Tracer des bifurcations dans le jeu pour casser l'aspect trop linéaire que peut prendre le parcours d'études sur le plateau de jeu.
+- Tracer des bifurcations dans le jeu pour casser l'aspect trop linéaire que peut prendre le parcours d'études sur le plateau de jeu.
 - Favoriser le changement de rôle, chaque joueur pouvant décider de devenir enseignant, étudiant étranger arrivant à Paris, pourquoi pas personnel administratif en charge des inscriptions, etc.
 - Faire des cases "saynètes" dans lesquelles le joueur doit résoudre un problème par le biais d'une mise en situation dialoguée.
 
@@ -663,7 +669,7 @@ Nous avons commencé par créer les cases de notre jeu, et les cartes « situati
 
 Après une première tentative à jouer en respectant la fatalité des difficultés qui nous tombaient dessus (reculez de trois cases parce que vous avez oublié de vous réveiller pour votre partiel), nous avons essayé de jouer en nous autorisant à suggérer des solutions (vous avez oublié de vous réveiller pour le partiel, que faites-vous ?). Le jeu est alors devenu bien plus vivant et intéressant en devenant une sorte de distributeur de problèmes auxquels chacun peut trouver une résolution positive.
 
-Le jeu va devenir un objet de la *mallette* *pédagogique* puisqu'il permet bien de confronter plusieurs acteurs de l'université, il rassemble dans la mesure où certaines solutions peuvent être trouvées à plusieurs et il met face à des situations fictives, mais que tout le monde a pu vivre.
+Le jeu va devenir un objet de la *mallette pédagogique* puisqu'il permet bien de confronter plusieurs acteurs de l'université, il rassemble dans la mesure où certaines solutions peuvent être trouvées à plusieurs et il met face à des situations fictives, mais que tout le monde a pu vivre.
 
 ##### Présentation du *département de danse et de performance de l'université d'art de Berlin*
 
@@ -706,6 +712,8 @@ On commence la deuxième journée du weekend d'incubation avec un atelier ludiqu
 **Retour sur atelier « l'Université idéale » de Pierre par Hyacinthe**
 
 L'atelier consistait à imaginer, en petits groupes de trois ou quatre personnes, le fonctionnement d'une université idéale : de quoi serait-elle composée? Comment se structurerait-elle ? Pierre souhaitait que nous utilisions des formes pour incarner des valeurs, que nous jouions des correspondances entre des formes et des mots. Il a illustré sa proposition en inscrivant des mots sur des papiers découpés aux silhouettes variées, de manière à y associer un imaginaire. Au sein de mon groupe de travail, nous nous sommes assez rapidement détachés des représentations bidimensionnelles pour composer une maquette. Nous avons transformé un emballage cartonné en volume avec des extensions de fil de fer, de tiges de balsa, des morceaux de toile figurant des petits chapiteaux. Notre université insectoïde et circassienne nous a finalement servi de support pour un récit filmé. Certains groupes ont fonctionné avec des schémas, d'autres avec des formes-mots; toutes les propositions se sont animées devant la caméra.
+
+***
 
 #### Prototype de la malette
 *Prolongement de l'atelier Main à la pâte*
@@ -763,7 +771,7 @@ Boule de pâte à modeler — "modeler l'université" — jeu à deux basé sur 
 3. on (d)écrit l'objet
 4. phase de confrontation
 
-**Inspiration : ** L'atelier « one to one »
+**Inspiration :** L'atelier « one to one »
 
 ##### Objet 6 - Boite à œufs
 
@@ -816,6 +824,8 @@ Cela nous mène à une page du livre. Là on peut choisir de porter le masque so
 
 <span class="chemin">Pour suivre le processus de réflexion quant à l'élaboration de la *mallette*, reportez-vous à la fin du premier weekend d'incubation [B5](#B5)</span>
 
+***
+
 #### Conclusion du week-end
 
 Finalement le premier week-end d'incubation se termine avec un tour de feedback où chacun.e nomme une ou deux choses qu'il/elle aimerait voir se transformer et/ou garder pour les réunions à venir. En voici certaines :
@@ -843,8 +853,7 @@ Nous pouvons dire que nous avons réussi à nous autoconstituer en collectif et 
 
 <span class="chemin">Pour lire l'appel dans lequel figure cette volonté de se constituer en collectif, passez directement page [A5](#A5)</span>
 
-\pagebreak
-\pagebreak
+***
 
 ~~7 décembre 2015~~
 *Seconde réunion*
@@ -860,15 +869,13 @@ L'engouement du groupe pour tout ce qu'il nous restait encore à faire s'est res
 
 Le dernier temps de la réunion nous a permis de faire le point sur les objets à développer, nous ne voulions pas perdre de vue le projet *mallette.*
 
-\pagebreak
-\pagebreak
+***
 
 ## Seconde phase: À bras le corps
 
 ~~du 19 janvier 2016 à juillet 2016~~
 
-\pagebreak
-\pagebreak
+***
 
 ~~19 janvier 2016~~
 *Réunion 3*
@@ -881,6 +888,8 @@ Nous étions tous impatients de rencontrer Samuel que nous n'avions pas encore v
 Pour comparer notre travail à celui que d'autres groupes proposent, Alix nous a expliqué comment fonctionne l'« Aide à la réussite » de Paris 3, et Maud a parlé du projet « Talent Campus » auquel elle a participé. Cela nous a permis de nous redéfinir encore un peu plus, en regard de ces projets.
 
 La question de la communication s'est aussi posée, qu'est-il possible de faire avec les photos d'Adèle G. ? Peut-on imaginer un journal de bord de la *mallette*? Et que va devenir la *mallette* ?
+
+***
 
 ### Second week-end d'incubation : De but en blanc pour (se) comprendre et faire
 
@@ -895,6 +904,8 @@ Pour l'atelier d'Auguste, nous devions partager des objets pédagogiques par gro
 Les discussions se prolongent au sujet de la *malette* ainsi qu'au devenir de l'Agilabil: les objets doivent ils se suffirent à eux-mêmes ? Ou nécessitent-ils la présence d'un.e Agilabilien.ne ? Jusqu'où pousser l'énigme sans basculer dans l'hermétisme? Comment susciter juste assez de curiosité et de désir ? Comment le propager plus largement que dans notre cercle ?
 
 Durant le week-end, la *mallette* devra prendre forme. Mais avant tout nous faisons place à nos deux nouveaux arrivants : Bérengère et Samuel, qui ne pouvaient pas être présents lors du premier week-end. Dans le même esprit que le tout premier atelier brise-glace, Myriam anime une sorte de "rencontre éclair" afin d'entendre nos voix respectives et d'apprendre à connaître/reconnaître les uns et les autres.
+
+***
 
 #### Ateliers
 
@@ -982,9 +993,6 @@ Il est ressorti de cette expérimentation que ceux pour qui le "par coeur" étai
 
 **Matériel nécessaire :** papier, stylo, chronomètre, chaises.
 
-- Pour la première phase de l'atelier : préparer des tables pour 4, avoir un chronomètre à disposition
-- Pour la seconde phase de l'atelier : aligner des chaises en rond en fonction du nombre de participants afin de partager ce qu'ils auront précédemment fait, avoir un chronomètre à disposition.
-
 **Désir :** Comprendre en quoi nos expériences personnelles peuvent donner une autre approche liée à certaines problématiques, thématiques pédagogiques (dans notre cas).
 
 **Animation:** L'atelier se déroule en deux phases à plusieurs semaines d'intervalles.
@@ -1000,16 +1008,15 @@ Il est ressorti de cette expérimentation que ceux pour qui le "par coeur" étai
 
 **Seconde phase de l'atelier :**
 
+- Le groupe groupe entier se réunit en cercle.
 - Chaque membre de l'atelier présente son dispositif (objet) matériel ou immatériel.
 - Une discussion en petit groupe et dans le grand groupe peut s'engager pour partager les expériences.
-
-> L'organisateur peut garder chacun.e des ateliers menés dans une boîte archives (le retour sur expérience du second atelier compris, au moins en notes) s'il compte le mener à plusieurs reprises.
 
 **Retour sur atelier « faire ensemble » d'Auguste par Maud**
 
 L'atelier d'Auguste s'inscrit au cœur du dispositif agilabilien : utiliser le détour du collectif pour envisager un problème et améliorer une idée en vue de passer de la conception à la réalisation.
 
-Au sein d'un groupe de quatre personnes, chacun.e propose un "objet" à étudier : un polycopié de cours à rendre interactif, un set d'images à transformer en jeu visuel, un emploi du temps à organiser, un journal à faire faire aux élèves, une façon de mémoriser des exercices physiques, une difficulté à se mettre au travail... Chacun.e choisi ensuite un de ces objets et travaille pendant quinze jours pour se l'approprier et trouver des pistes de résolution ou d'autres questionnements. Dans le cadre d'une restitution collective au sein du groupe de quatre personnes, chaque participant suggère ses solutions à son interlocuteur. La confrontation à un nouveau regard permet une meilleure formulation des problèmes rencontrés, une prise de distance, un nouvel angle d'approche et des pistes de résolution. Les dialogues qui s'établissent au sein du groupe se croisent et se nourrissent.
+Au sein d'un groupe de quatre personnes, chacun.e propose un "objet" à étudier : un polycopié de cours à rendre interactif, un set d'images à transformer en jeu visuel, un emploi du temps à organiser, un journal à faire faire aux élèves, une façon de mémoriser des exercices physiques, une difficulté à se mettre au travail... La confrontation à un nouveau regard permet une meilleure formulation des problèmes rencontrés, une prise de distance, un nouvel angle d'approche et des pistes de résolution.
 
 ***
 
@@ -1031,20 +1038,13 @@ Nous sommes déjà rendus en milieu d'après-midi. Le projet *mallette* prend un
 
 **Matériel nécessaire :** un espace par groupe, et autant de papier, carton, scotch, feutres, peinture, fil de fer, mousse, gommettes, plumes, polystyrène, pâte à modeler, etc. que possible
 
-**Désir :** Notre souhait était que chacun d'entre nous puisse réfléchir à la thématique du stress. Ce sujet particulièrement important pour nous, fait écho à une difficulté que nous avons du mal à gérer au quotidien et dans le contexte scolaire. Nous avons voulu, à travers cet atelier chercher à trouver des solutions concrètes pour le gérer.
+**Désir :** Notre souhait était que chacun d'entre nous puisse réfléchir à la thématique du stress. Ce sujet particulièrement important pour nous, fait écho à une difficulté que nous avons du mal à gérer au quotidien et dans le contexte scolaire.
 
 **Animation :** L'atelier a pour but la création d'un objet « antistress » . Nous avons formé des groupes de deux ou trois. Chaque personne de chaque groupe a réfléchi un long moment à leurs expériences de stress et aux stratégies de chacun pour s'en débarrasser, l'aimer, le transformer ou le sublimer. Ces réflexions ont été suivies d'une création d'objets propre à chaque groupe.
 
 <span class="chemin">Pour voir l'objet antistress phare qui est sorti de cet atelier, passez directement page [C9](#C9)</span>
 
-**Retour sur atelier « Stress » de Sonia et Adèle par Cécile**
-
-Cet atelier a permis de partager des situations concrètes liées au vécu.
-Le but de l'Agilabil n'étant pas de fournir des réponses préfabriquées pouvant être réappliquées sans réflexion par la suite, l'atelier n'a pas fait ressortir de solution miracle face au stress. Chaque groupe (de 4 personnes) a plutôt réfléchi à un artefact reflétant les discussions et synthétisant souvent de manière humoristique un type de solution, des lunettes changeant la perception, un dé exprimant des situations sans paroles... Cette stratégie a sûrement permis d'éviter d'exposer des discussions intimes qui n'ont par ailleurs pas eu lieu dans tous les groupes et d'abstraire des situations trop personnelles.
-
-Laisser de la place dans un groupe à l'expression de sujets sensibles, que chacun a vécu à un moment ou un autre dans sa vie, demande une ouverture et une confiance qui n'aurait pas été possible au sein du groupe dans son ensemble. La mixité générationnelle des groupes a également permis d'étudier des phénomènes à différents stades de développement et de revenir sur des stratégies et des décisions individuelles qui ont eu des répercussions personnelles et professionnelles fortes.
-
-Voilà le résultat des quatre groupes avec les catégories proposées par Sonia et Adèle :
+**Les objets créés lors de l'atelier :**
 
 **Comment peut-on... prévenir le stress**
 Enlever le filtre du stress. Voir la vie en rose. Mettre une vraie paire de lunettes, qui a des verres roses. Comme il s'agit de prévenir le stress, faut-il porter les lunettes en permanence ?
@@ -1074,6 +1074,13 @@ Exemple :
 - situation d'arrivée : (^ _ ^)
 
 C'est du storytelling. On n'est pas obligé de le faire en vrai. Eh puis si ça t'énerve, bhen... t'écrases le dé.
+
+**Retour sur atelier « Stress » de Sonia et Adèle par Cécile**
+
+Cet atelier a permis de partager des situations concrètes liées au vécu.
+Le but de l'Agilabil n'étant pas de fournir des réponses préfabriquées pouvant être réappliquées sans réflexion par la suite, l'atelier n'a pas fait ressortir de solution miracle face au stress. Chaque groupe (de 4 personnes) a plutôt réfléchi à un artefact reflétant les discussions et synthétisant souvent de manière humoristique un type de solution, des lunettes changeant la perception, un dé exprimant des situations sans paroles... Cette stratégie a sûrement permis d'éviter d'exposer des discussions intimes qui n'ont par ailleurs pas eu lieu dans tous les groupes et d'abstraire des situations trop personnelles.
+
+Laisser de la place dans un groupe à l'expression de sujets sensibles, que chacun a vécu à un moment ou un autre dans sa vie, demande une ouverture et une confiance qui n'aurait pas été possible au sein du groupe dans son ensemble. La mixité générationnelle des groupes a également permis d'étudier des phénomènes à différents stades de développement et de revenir sur des stratégies et des décisions individuelles qui ont eu des répercussions personnelles et professionnelles fortes.
 
 **Après-coup : retour sur atelier « stress » de Sonia et Adèle par Myriam**
 Cette question, récurrente avec les étudiant.e.s comme dans l'efflorescence des conseils de développement personnel et autres conseils de *management*, peut conduire s’intéresser moins au stress en tant que tel, qu’aux usages sociaux qui l’accompagnent. Le diagnostic de stress s’avère, en effet, souvent utilisé pour faire porter une défaillance à un seul individu, comme s’il s’agissait d’une difficulté personnelle, d’une incapacité intime et non du symptôme d’un disfonctionnement qui peut être structurel. A lire, par exemple : Marie Buscatto, Marc Loriol, Jean-Marc Weller (dir.), Au-delà du stress au travail. Une sociologie des agents publics au contact des usagers, Paris, Erès, « Clinique du travail », 2008, 287 p. Ou encore : Laurence Janot-Bergugnat et Nicole Rascle, Le Stress des enseignants, Paris,  Armand Colin, 2008.
@@ -1267,8 +1274,7 @@ Comment faire un bon feedback ? Comment dire sans mal dire ? Comment critiquer s
 
 <a id="B5">B5</a>
 
-\pagebreak
-\pagebreak
+***
 
 #### Conclusion du week-end
 
@@ -1308,6 +1314,8 @@ Et même si aucun autre week-end n'est prévu, nous prenons le temps de nous fai
 
 Sans attendre, nous tentons de nous approprier les tâches nécessaires pour terminer les objets chez nous. Hyacinthe et Margaux prennent la responsabilité de la construction matérielle de la *mallette*. Emma et Pierre se mettent d'accord sur un projet d'édition. Adèle G. prendra en charge la partie visuelle avec le tri des photos et leur exploitation. Samuel propose la mise en ligne d'une plateforme pour faciliter l'archivage des données. Chacun d'entre nous promet de fournir les documents nécessaires (fiche atelier/retour sur atelier/introductions... et autres) pour l'édition.
 
+***
+
 ~~7 mars 2016~~
 *Réunion 4*
 ### Le point sur l'avancée des objets
@@ -1322,8 +1330,7 @@ Chacun.e est venu.e avec au moins un objet sous la forme de prototype. Nous inst
 
 <a id="C5">C5</a>
 
-\pagebreak
-\pagebreak
+***
 
 ~~2 mai 2016~~
 *Réunion 5*
@@ -1337,8 +1344,7 @@ Du coup, plus besoin pour la *mallette* d'être un espace d'archivage de l'anné
 
 <a id="A10">A10</a>
 
-\pagebreak
-\pagebreak
+***
 
 ## Et après coup, l'Agilabil c'est quoi pour nous ?
 
@@ -1368,9 +1374,7 @@ L'Agilabil ? C'est un OPNI, un objet pédagogique non identifié, sans parti pri
 
 <span class="chemin">Bravo, vous êtes arrivé à la fin du chemin de lecture rouge.</span>
 
-
-\pagebreak
-\pagebreak
+***
 
 ## Inspirations et autres références
 
