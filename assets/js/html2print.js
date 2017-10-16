@@ -8,53 +8,93 @@
 //};
 
 $(function() {
-    // ________________________________ INIT __________________________________ //
+
+		// ________________________________ INIT __________________________________ //
     // Creating crop marks
     $("#master-page").append("<div class='crops'><div class='crop-top-left'><span class='bleed'></span></div><div class='crop-top-right'><span class='bleed'></span></div><div class='crop-bottom-right'><span class='bleed'></span></div><div class='crop-bottom-left'><span class='bleed'></span></div></div>")
 
+		// Defining specifics masters
+		var master = {
+			"58" : "columns",
+			"59" : "columns",
+			"60" : "columns",
+			"61" : "columns",
+			"62" : "columns",
+			"63" : "columns",
+			"64" : "columns"
+		};
+
     // Cloning the master page
     for (i = 1; i < nb_page; i++){
+			if ( master[i] != null) {
+				$("#master-page-" + master[i]).clone().attr("id","page-"+i).insertBefore($("#master-page")).addClass(master[i]);
+			} else {
         $("#master-page").clone().attr("id","page-"+i).insertBefore($("#master-page"));
+			}
     }
     $("#master-page").attr("data-width", $(".paper:first-child").width()).hide();
 
     // Loads main content into <article id="my-story">
     if (content) {
+      $.get(content, function(data){
 
-        $("#my-story").load(content, function(){
+				$('.loading').hide();
 
-            $('.loading').removeClass('one').addClass('two').html('Mise en page...');
+				$("#my-story").html(data);
 
-            $(document.getNamedFlow('mystory')).one('regionoversetchange', function(){
-                $('#my-story a[href^="#"]').each(function(){
-                    var anchor = $(this).attr('href').substr(1);
-                    var target = $("#pages [id^='" + anchor + "']");
-										var $this = $(this);
-                    if(target.size()) {
-                        var pagenum = target.closest('.paper').attr('id');
-                        pagenum = pagenum.substr(5);
-                        $this.html(pagenum);
-                    }
-                });
-                $('.page').each(function(){
-                    var page = $(this),
-                        article = page.find("article"),
-												chapter = article.children().last().attr('data-chapter');
-                    page.find('.footer .chapter').html(chapter);
-                    if(article.children().first().hasClass('h4-ateliers')) {
-                        page.addClass('atelier');
-                    }
-                })
-                $('#my-story').hide().show(0);
-                $('.loading').removeClass('two').addClass('three').html('Ajustements...');
-                $(document.getNamedFlow('mystory')).on('regionoversetchange', function(e){
-                    $('.loading').hide();
-                });
+				var flow = document.webkitGetNamedFlows().namedItem('myStory');
 
-            });
+				// Cross-reference connections
+				$('#my-story a[href^="#"]').each(function(){
+						var anchor = $(this).attr('href').substr(1);
+						var target = $("#my-story [id^='" + anchor + "']");
+						var $this = $(this);
+						if(target.size()) {
+							// Get region by content
+							var region = flow.getRegionsByContent(target[0]);
+							var pagenum = $(region).closest('.paper').index() + 1;
+							//pagenum = pagenum.substr(5);
+							$this.html(pagenum);
+						}
+				});
 
-        });
-    }
+				// Remove top margins
+				/*
+				$(flow.getRegions()).each(function(){
+					$(this.getRegionFlowRanges()).first().css('margin-top', 0);
+				});
+				*/
+
+				// Absolute positionned elements
+				var elements = $('#my-story > [id], #my-story > [class]').filter(function() {
+				  return $(this).css('position').indexOf('absolute') > -1;
+				});
+				elements.each(function(){
+					$(this).css({ 'position' : 'relative', 'visibility' : 'collapse' });
+					var region = flow.getRegionsByContent(this);
+					$(this).insertBefore($(region)).css({ 'position' : 'absolute', 'visibility' : 'visible' });
+				})
+
+				// Fill page header
+				$('.page').each(function(){
+					var page = $(this),
+							article = page.find("article"),
+							chapter = article.children().last().attr('data-chapter');
+					page.find('.footer .chapter').html(chapter);
+				});
+
+				$('.paper:nth-child(n+21):nth-child(-n+35)').addClass('atelier');
+				$('.paper:nth-child(n+42):nth-child(-n+54)').addClass('atelier');
+
+				$('.paper:nth-child(13)').addClass('full-page');
+				$('.paper:nth-child(16)').addClass('full-page');
+
+				$('.paper:nth-child(17)').addClass('chapitre');
+				$('.paper:nth-child(39)').addClass('chapitre');
+
+			});
+
+		};
 
 
     // ________________________________ PREVIEW __________________________________ //
@@ -136,3 +176,11 @@ $(function() {
 
 
 });
+
+String.prototype.stripAccents = function() {
+		var translate_re = /[àáâãäçèéêëìíîïñòóôõöùúûüýÿÀÁÂÃÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝ]/g;
+		var translate = 'aaaaaceeeeiiiinooooouuuuyyAAAAACEEEEIIIINOOOOOUUUUY';
+		return (this.replace(translate_re, function(match){
+				return translate.substr(translate_re.source.indexOf(match)-1, 1); })
+		);
+};

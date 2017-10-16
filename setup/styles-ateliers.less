@@ -1,0 +1,18 @@
+// main: ../main.less
+
+.paper.atelier {
+
+	pre {
+		position: absolute;
+		top: @page-margin-top;
+		line-height: 16pt !important;
+		margin: 0;
+	}
+
+  &:nth-child(odd) pre {
+		right: @page-margin-outside;
+	}
+	&:nth-child(even) pre {
+		right: @page-margin-inside;
+	}
+}

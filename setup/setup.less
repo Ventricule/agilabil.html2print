@@ -1,3 +1,5 @@
+// main: ../main.less
+
 /* the geometry of the page */
 @page-width: 160mm;
 @page-height: 220mm;
@@ -24,11 +26,14 @@
 @footer-text: counter(page-counter);
 
 // Text settings
-@font-size: 9.3pt;
-@line-height: 11pt;
+@font-size:10pt;
+@line-height: 12pt;
 @margin-normal: @line-height;
 @margin-small: @line-height / 3;
 @margin-big: @line-height * 1.5;
+
+// Columns
+@column-gap: @line-height * 1.5;
 
 
 
@@ -66,92 +71,9 @@
 }
 
 @font-face {
-  font-family: 'VremenaSerif';
-  src: url(/assets/fonts/vremenabook-webfont.woff) format("woff");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'VremenaSerif';
-  src: url(/assets/fonts/vremenabookitalic-webfont.woff) format("woff");
-  font-weight: 400;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'VremenaSerif';
-  src: url(/assets/fonts/vremenabold-webfont.woff) format("woff");
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'VremenaSerif';
-  src: url(/assets/fonts/vremenabolditalic-webfont.woff) format("woff");
-  font-weight: 700;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'LSFONT';
-  src: url(/assets/fonts/LS-Light.woff) format("woff");
-  font-weight: 200;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LSFONT';
-  src: url(/assets/fonts/LS-Regular.woff) format("woff");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LSFONT';
-  src: url(/assets/fonts/LS-Regular-FauxItalic.woff) format("woff");
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'LSFONT';
-  src: url(/assets/fonts/LS-Bold.woff) format("woff");
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'LSFONT';
-  src: url(/assets/fonts/LS-Bold-FauxItalic.woff) format("woff");
-  font-weight: 700;
-  font-style: italic;
-}
-
-@font-face {
   font-family: 'CMUvariable';
   src: url(/assets/fonts/cmunvi.woff) format("woff");
   font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Certegeska';
-  src: url(/assets/fonts/certegeskabase.woff) format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Certegeska';
-  src: url(/assets/fonts/certegeskastraight.woff) format("woff");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Certegeska';
-  src: url(/assets/fonts/certegeskademi.woff) format("woff");
-  font-weight: bold;
   font-style: normal;
 }
 
@@ -165,34 +87,6 @@
 @font-face {
   font-family: 'ax28';
   src: url(/assets/fonts/ax28script.woff) format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'HKGrotesk';
-  src: url(/assets/fonts/HKGrotesk-Medium.woff) format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'HKGrotesk';
-  src: url(/assets/fonts/HKGrotesk-MediumItalic.woff) format("woff");
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'WorkSans';
-  src: url(/assets/fonts/WorkSans-ExtraBold.woff) format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'kanit';
-  src: url(/assets/fonts/kanit-extrabold.woff) format("woff");
   font-weight: normal;
   font-style: normal;
 }

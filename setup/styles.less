@@ -1,8 +1,10 @@
+// main: ../main.less
+
 /* Here you can put your specific typography, layout styles. */
 
 /* -----  Characters styles  --------------------------------------------- */
 
-article {
+article, .page {
 
 	font-family: 'Archivo Narrow', sans-serif;
 	font-size: @font-size;
@@ -12,7 +14,8 @@ article {
 	h2,
 	h3,
 	h4,
-	h5
+	h5,
+	h6
 	{
 		font-family: "whois";
 		text-transform: uppercase;
@@ -24,17 +27,29 @@ article {
 		text-align: left;
 		text-decoration: none;
 		border-bottom: .5pt solid;
-		display: inline-block;
-		color: red;
+		display: table;
 	}
 
 	h1:first-child,
 	h2:first-child,
 	h3:first-child,
 	h4:first-child,
-	h5:first-child
+	h5:first-child,
+	h6:first-child,
+	.surtitre + h1,
+	.surtitre + h2,
+	.surtitre + h3,
+	.surtitre + h4,
+	.surtitre + h5,
+	.surtitre + h6,
+	hr + h1,
+	hr + h2,
+	hr + h3,
+	hr + h4,
+	hr + h5,
+	hr + h6,
 	{
-		margin-top: 0 !important;;
+		margin-top: 0 !important;
 	}
 
 	h1 {
@@ -46,7 +61,6 @@ article {
 	h2 {
 		font-size: 12pt;
 		line-height: @line-height;
-		display: inline-block;
 		padding: @margin-big;
 		margin-bottom: @margin-big;
 		text-decoration: none;
@@ -59,32 +73,42 @@ article {
 		line-height: 15pt;
 	}
 
-	h4 {
-		font-size: 12pt;
-		line-height: 15pt;
-	}
-
-	h5 {
-		font-size: 12pt;
-		line-height: 15pt;
+	h4, h5, h6 {
+		font-size: 10pt;
+    line-height: 12pt;
+    padding: 2pt 6pt 0pt 6pt;
+    margin-top: @margin-big - 3px;
+    border: 0.5pt solid;
+    border-radius: 12pt;
+		background: #fff;
+		max-width: 66%;
 	}
 
 	h6 {
-		font-size: @font-size;
-		line-height: @line-height;
-		font-weight: bold;
-		margin-top: @margin-normal;
-		margin-bottom: @margin-small;
+		background: none;
+		max-width: 100% !important;
 	}
 
 	p {
 		margin: @margin-small 0;
 	}
 
+	pre, code {
+		font-family: "whois";
+		font-size: 9pt;
+		line-height: @line-height;
+	}
+
+	pre.h4-ateliers {
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+
 	u {
 		font-family: "whois";
     text-decoration: none;
-    border-bottom: .75pt solid;
+    //border-bottom: .5pt solid;
     text-transform: uppercase;
 	}
 
@@ -100,40 +124,76 @@ article {
 	}
 
 	blockquote {
-	    font-family: "ax28", serif;
-	    font-size: 10pt;
-	    line-height: 12pt;
-	    break-inside: avoid;
-	    margin: @margin-normal 0;
+    font-family: "CMUvariable", serif;
+    font-size: 9pt;
+    line-height: 10.8pt;
+    break-inside: avoid;
+    margin: @margin-normal 0;
+		padding-right: @margin-big;
 
-	    p {
-	    	margin: 0;
-	    }
+    p {
+    	margin: 0;
+    }
 
-	    em {
-		    font-style: normal;
-		    border-bottom: .5pt solid;
+    em {
+	    font-style: normal;
+	    border-bottom: .5pt solid;
 		}
 
 	}
 
 	hr {
+		height: 0;
+		padding: 0;
+		margin: 0;
+		visibility: collapse;
 		-webkit-region-break-after: always;
 									 break-after: region;
 	}
 
 	ul, ol {
-		padding-left: 9pt;
+		padding: 0;
+		margin: @margin-small 0 @margin-small @margin-normal;
 	}
 
-	del {
+	.surtitre p {
 	  font-family: 'whois' !important;
 		text-decoration: none;
-		text-align: right;
+	}
+
+	.encart {
+		background: #fff;
+		padding: 8pt 12pt;
+		border-radius: 6pt;
+		margin: 8pt 0;
+		border: .5pt solid;
+		break-inside: avoid;
+	}
+
+	h2.h2-le-pave,
+	h2.h2-a-bras {
+		position: absolute;
+		top: 33%;
+		left: 50%;
+		transform: translate(-50%, -50%) rotate(-20deg);
+		background-color: #fff;
+	}
+
+	h4.h4-ateliers {
+		display: none;
+	}
+
+	h2.h2-inspirations-et {
 		display: block;
-	    font-size: 9pt;
-	    line-height: @line-height * 0.9;
-		margin-bottom: @margin-big;
+	}
+	p.h2-inspirations-et {
+		font-size: 9pt;
+		line-height: 11pt;
+		overflow-wrap: break-word;
+	}
+	p.h2-livret-photo img {
+		width: 62mm;
+		margin-bottom: 7mm;
 	}
 
 }
@@ -145,17 +205,39 @@ article {
 
 .paper {
 
-	.page.atelier {
-		background-color: #ffddda;
+	// COLORS
+	background-color: none !important;
+
+	.page {
+		background-color: #fff;
 	}
 
-	.full-page {
-	    position: absolute;
-	    top: 0;
-	    left: 0;
-	    /*width: 100%;
-	    height: 100%;*/
-	    z-index: -1;
+	&.atelier .page {
+		background-color: #ffff00;
+	}
+
+	&.chapitre .page {
+		background-color: #0051ff;
+	}
+
+	.full-page .body {
+	    padding: 0 !important;
+	}
+
+	.body.two-columns-layout:nth-child(2) {
+		width: ( @page-width - @column-gap ) * .5 ;
+		position: absolute;
+		top: 0;
+		left: 0;
+		padding-right: 0;
+	}
+
+	.body.two-columns-layout:nth-child(3) {
+		width: ( @page-width - @column-gap ) * .5 ;
+		position: absolute;
+		top: 0;
+		right: 0;
+		padding-left: 0;
 	}
 
 	.footer {
@@ -179,7 +261,6 @@ article {
 			font-size: 16pt;
 			line-height: 18pt;
 		}
-
 	}
 
 
@@ -307,17 +388,22 @@ article {
 	// le texte de départ
 	.chemin {
     font-family: 'Whois';
-    font-size: 8pt;
-    line-height: 9.5pt;
+    font-size: 9pt;
+    line-height: @margin-normal;
     position: relative;
-    margin: @margin-normal 0;
-    display: inline-block;
+    margin: @margin-small 0;
+    display: block;
     break-inside: avoid;
     text-indent: 0;
-    border: .5pt solid;
-		padding: 3mm;
-    color: #d19200;
+		padding-left: @margin-normal;
+    color: #ff6363;
+		//border-left: .5pt solid;
 	}
+
+	.chemin.voie-a { color: #ff6363; }
+	.chemin.voie-b { color: #0000bb; }
+	.chemin.voie-c { color: #04b22c; }
+
 	// le numéro de la page
 	a[href^="#"] {
 		display: inline;

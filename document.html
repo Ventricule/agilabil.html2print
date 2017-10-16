@@ -7,8 +7,7 @@
     <!-- Uncomment the line below to reset the CSS and get rid of the browser's default CSS. -->
     <!--<link rel="stylesheet" href="/assets/lib/reset.css" type="text/css" />-->
 
-    <link rel="stylesheet" href="/main.less" type="text/less" media="all" charset="utf-8">
-    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/ls" type="text/css"/>
+    <link rel="stylesheet" href="/main.css" media="all" charset="utf-8">
 		<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">
     <!--<link rel="stylesheet" href="/assets/lib/jquery-ui-1.10.3/css/smoothness/jquery-ui-1.10.3.custom.min.css" type="text/css" media="all" charset="utf-8">-->
 </head>
@@ -27,11 +26,27 @@
                 </div>
             </div>
         </div>
+				<div id="master-page-columns" class="paper">
+            <div class="page">
+                <div class="header"></div>
+
+                <div class="body two-columns-layout recipient"></div>
+                <div class="body two-columns-layout recipient"></div>
+
+                <div class="footer">
+                    <div class="chapter"></div>
+                </div>
+            </div>
+        </div>
     </div>
 
 
     <div id="stories">
         <article id="my-story"></article>
+    </div>
+
+		<div id="dummies">
+        <article id="my-dummy"></article>
     </div>
 
     <!-- JAVASCRIPT -->
@@ -40,7 +55,7 @@
 
     <script type="text/javascript" src="/setup/setup.js"></script>
     <script type="text/javascript" src="/assets/js/html2print.js"></script>
-    <script type="text/javascript" src="/assets/lib/css-regions.min.js"></script>
+    <!--<script type="text/javascript" src="/assets/lib/css-regions.min.js"></script>-->
 
 </body>
 </html>
