@@ -17,17 +17,14 @@ article, .page {
 	h5,
 	h6
 	{
-		font-family: "whois";
-		text-transform: uppercase;
-		font-weight: normal;
+		font-family: "montserrat";
+		text-transform: lowercase;
+		font-weight: 500;
 		margin: 0;
-		margin-top: @margin-big;
-		margin-bottom: @margin-normal;
-		letter-spacing: .4pt;
+		margin-top: @margin-normal;
+		margin-bottom: 6pt;
 		text-align: left;
 		text-decoration: none;
-		border-bottom: .5pt solid;
-		display: table;
 	}
 
 	h1:first-child,
@@ -42,6 +39,12 @@ article, .page {
 	.surtitre + h4,
 	.surtitre + h5,
 	.surtitre + h6,
+	meta + h1,
+	meta + h2,
+	meta + h3,
+	meta + h4,
+	meta + h5,
+	meta + h6,
 	hr + h1,
 	hr + h2,
 	hr + h3,
@@ -53,63 +56,51 @@ article, .page {
 	}
 
 	h1 {
-		font-size: 24pt;
-		margin-bottom: 0rem;
+		font-size: 21pt;
 		line-height: @line-height * 2;
 	}
 
-	h2 {
-		font-size: 12pt;
-		line-height: @line-height;
-		padding: @margin-big;
-		margin-bottom: @margin-big;
-		text-decoration: none;
-		border: .5pt solid;
-		border-radius: 100%;
+	h2, h3 {
+		font-size: 16pt;
+		line-height: @line-height * 1.5;
 	}
 
-	h3 {
-		font-size: 12pt;
-		line-height: 15pt;
+	h4, h5 {
+		font-size: 14pt;
+		line-height: @line-height * 1.25;
+		margin-bottom: 4pt;
 	}
 
-	h4, h5, h6 {
-		font-size: 10pt;
-    line-height: 12pt;
-    padding: 2pt 6pt 0pt 6pt;
-    margin-top: @margin-big - 3px;
-    border: 0.5pt solid;
-    border-radius: 12pt;
-		background: #fff;
-		max-width: 66%;
+	h5.h4-ateliers {
+		font-size: 16pt;
+		line-height: @line-height * 1.5;
 	}
 
 	h6 {
-		background: none;
-		max-width: 100% !important;
+		font-size: 12pt;
+		line-height: @line-height * 1.25;
+		margin-bottom: 4pt;
 	}
 
 	p {
 		margin: @margin-small 0;
 	}
 
+	pre p,
+	.chemin p {
+		margin: 0;
+	}
+
 	pre, code {
 		font-family: "whois";
 		font-size: 9pt;
 		line-height: @line-height;
+		margin: 0;
+		margin-bottom: 6pt;
 	}
 
 	pre.h4-ateliers {
-		position: absolute;
-		top: 0;
-		right: 0;
-	}
 
-	u {
-		font-family: "whois";
-    text-decoration: none;
-    //border-bottom: .5pt solid;
-    text-transform: uppercase;
 	}
 
 	strong {
@@ -121,12 +112,13 @@ article, .page {
 		border-bottom: 0pt solid;
 		font-size: 10pt;
 		text-decoration: underline;
+		word-break: break-all ;
 	}
 
 	blockquote {
     font-family: "CMUvariable", serif;
-    font-size: 9pt;
-    line-height: 10.8pt;
+    font-size: 9.5pt;
+    line-height: 10.5pt;
     break-inside: avoid;
     margin: @margin-normal 0;
 		padding-right: @margin-big;
@@ -137,7 +129,7 @@ article, .page {
 
     em {
 	    font-style: normal;
-	    border-bottom: .5pt solid;
+	    text-decoration: underline;
 		}
 
 	}
@@ -159,24 +151,25 @@ article, .page {
 	.surtitre p {
 	  font-family: 'whois' !important;
 		text-decoration: none;
+		margin-bottom: @margin-big;
 	}
 
 	.encart {
 		background: #fff;
-		padding: 8pt 12pt;
-		border-radius: 6pt;
-		margin: 8pt 0;
-		border: .5pt solid;
+		padding: 6pt 12pt;
+		margin: 6pt 0;
 		break-inside: avoid;
+		border: solid .25pt
 	}
 
 	h2.h2-le-pave,
 	h2.h2-a-bras {
+		font-size: 21pt;
+		line-height: @line-height * 2;
 		position: absolute;
-		top: 33%;
+		bottom: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%) rotate(-20deg);
-		background-color: #fff;
 	}
 
 	h4.h4-ateliers {
@@ -186,14 +179,24 @@ article, .page {
 	h2.h2-inspirations-et {
 		display: block;
 	}
+
 	p.h2-inspirations-et {
 		font-size: 9pt;
 		line-height: 11pt;
 		overflow-wrap: break-word;
 	}
+
 	p.h2-livret-photo img {
 		width: 62mm;
 		margin-bottom: 7mm;
+	}
+
+	.full-page {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: auto;
 	}
 
 }
@@ -212,12 +215,24 @@ article, .page {
 		background-color: #fff;
 	}
 
-	&.atelier .page {
-		background-color: #ffff00;
+	&.atelier:nth-child(odd) .page {
+		background: linear-gradient(to right, yellow 0%, white 20%);
 	}
 
-	&.chapitre .page {
-		background-color: #0051ff;
+	&.atelier:nth-child(even) .page {
+		background: linear-gradient(to left, yellow 0%, white 20%);
+	}
+
+	&.chapitre:nth-child(odd) .page {
+		background: yellow;
+	}
+
+	&.chapitre:nth-child(even) .page {
+		background: yellow;
+	}
+
+	&.chapitre .footer {
+		display: none;
 	}
 
 	.full-page .body {
@@ -244,22 +259,20 @@ article, .page {
 		font-family: 'Whois', monospace;
 		font-size: 8pt;
 		line-height: 11.7pt;
-		top: 5mm;
-		bottom: 5mm;
-		padding: 0 !important;
-		height: auto;
-		width: auto;
-		white-space: nowrap;
+		position: static;
 
 		.chapter,
-		&:after,
-		&:before {
+		&::after,
+		&::before {
 			position: absolute;
 		}
 
 		&:after {
-			font-size: 16pt;
-			line-height: 18pt;
+			font-size: 24pt;
+			line-height: 24pt;
+			text-align: center;
+			font-family: "whois";
+			position: absolute;
 		}
 	}
 
@@ -269,28 +282,29 @@ article, .page {
 
 		.footer {
 
-			left: 5mm;
-
 			// Titre
-			&:before {
-	        	content: @header-text-left-side;
-		        left: 0;
-		        bottom: 0;
-				transform: translate(-100%, 0%) rotate(90deg);
-				transform-origin: 100% 100%;
+			&::before {
+        	content: @header-text-left-side;
+					left: 8mm;
+					top: 50%;
+					transform: translate(-50%, -50%)rotate(90deg);
+					display: none;
 		    }
 
 		    // Pagination
-			&:after {
-				left: 0;
-				padding: 0 1mm;
+			&::after {
+				left: 8mm;
+				top: 50%;
+				transform: translate(-50%, -50%)rotate(90deg);
 			}
 
 			// Chapitre
 			.chapter {
+				left: 8mm;
 				top: 50%;
 				transform-origin: 50% 100%;
-				transform: translate(-50%, -100%) rotate(90deg);
+				transform: translate(-50%, -50%)rotate(90deg);
+				display: none;
 			}
 
 		}
@@ -302,28 +316,28 @@ article, .page {
 
 		.footer {
 
-			right: 5mm;
-
 			// Titre
-			&:before {
-	        	content: @header-text-right-side;
-		        left: 0;
-		        bottom: 0;
-				transform: rotate(-90deg);
-				transform-origin: 0% 100%;
+			&::before {
+        	content: @header-text-left-side;
+					right: 8mm;
+					top: 50%;
+					transform: translate(50%, -50%)rotate(-90deg);
+					display: none;
 		    }
 
 		    // Pagination
-			&:after {
-				right: 0;
-				padding: 0 1mm;
+			&::after {
+				right: 8mm;
+				top: 50%;
+				transform: translate(50%, -50%)rotate(-90deg);
 			}
 
 			// Chapitre
 			.chapter {
+				right: 8mm;
 				top: 50%;
-				transform-origin: 50% 100%;
-				transform: translate(-50%, -100%) rotate(-90deg);
+				transform: translate(50%, -50%)rotate(-90deg);
+				display: none;
 			}
 
 		}
@@ -391,23 +405,35 @@ article {
     font-size: 9pt;
     line-height: @margin-normal;
     position: relative;
-    margin: @margin-small 0;
+    margin: 8pt 0;
     display: block;
     break-inside: avoid;
     text-indent: 0;
-		padding-left: @margin-normal;
+		padding-left: 18pt;
     color: #ff6363;
-		//border-left: .5pt solid;
+	}
+	.chemin::before {
+		content: " ";
+		background: #ff6363;
+		border-radius: 100%;
+		width: 12pt;
+		height: 12pt;
+		position: absolute;
+		left: 0;
+		top: -.5pt;
 	}
 
 	.chemin.voie-a { color: #ff6363; }
+	.chemin.voie-a::before { background-color: #ff6363; }
 	.chemin.voie-b { color: #0000bb; }
+	.chemin.voie-b::before { background-color: #0000bb; }
 	.chemin.voie-c { color: #04b22c; }
+	.chemin.voie-c::before { background-color: #04b22c; }
 
 	// le numéro de la page
 	a[href^="#"] {
 		display: inline;
-		border-bottom: .5pt solid;
+		border-bottom: .25pt solid;
 		text-decoration: none;
 	}
 
@@ -423,10 +449,31 @@ article {
 
 	// Le lien d'arrivée
 	a[id] {
-		text-align: center;
-		display: block;
-		border: none;
+	  width: 0;
+	  height: 0;
+		margin: 0;
 		position: relative;
+	}
+
+	a[id]::after {
+		content: ' ';
+		width: 11pt;
+		height: 11pt;
+		position: absolute;
+		left: -26.5pt;
+		top: -1pt;
+		border-radius: 100%;
+		border: .25pt solid;
+	}
+
+	a[id^=A]::after {
+		border-color: #ff6363;
+	}
+	a[id^=B]::after {
+		border-color: #0000bb;
+	}
+	a[id^=C]::after {
+		border-color: #04b22c;
 	}
 
 	// L'icon d'arrivée

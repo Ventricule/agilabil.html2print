@@ -38,8 +38,6 @@ $(function() {
     if (content) {
       $.get(content, function(data){
 
-				$('.loading').hide();
-
 				$("#my-story").html(data);
 
 				var flow = document.webkitGetNamedFlows().namedItem('myStory');
@@ -66,13 +64,20 @@ $(function() {
 				*/
 
 				// Absolute positionned elements
-				var elements = $('#my-story > [id], #my-story > [class]').filter(function() {
+				var elements = $('#my-story > [id], #my-story > [class], #my-story img').filter(function() {
 				  return $(this).css('position').indexOf('absolute') > -1;
 				});
 				elements.each(function(){
-					$(this).css({ 'position' : 'relative', 'visibility' : 'collapse' });
-					var region = flow.getRegionsByContent(this);
-					$(this).insertBefore($(region)).css({ 'position' : 'absolute', 'visibility' : 'visible' });
+          if( $(this).parent().is("#my-story") ) {
+            var container = this;
+            var content = this;
+          } else {
+            var container = $(this).parent()[0];
+            var content = this;
+          }
+					$(container).css({ 'position' : 'relative', 'visibility' : 'collapse' });
+					var region = flow.getRegionsByContent(container);
+					$(content).insertBefore($(region)).css({ 'position' : 'absolute', 'visibility' : 'visible' });
 				})
 
 				// Fill page header

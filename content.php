@@ -76,14 +76,15 @@ $content = $output->{'text'} ;
 					/*----------- ADD ICONS TO CHEMINS -------------------*/
 
 					$('.chemin').each(function(){
-							var num = Math.floor(Math.random() * 11) + 1  ;
-							$(this).prepend('<img width="11pt" height="11pt" class="icon-chemin icon-chemin-start" src="/assets/images/planes/departure/plane (' + num + ').svg" />');
+							//var num = Math.floor(Math.random() * 11) + 1  ;
+							//$(this).prepend('<img width="11pt" height="11pt" class="icon-chemin icon-chemin-start" src="/assets/images/planes/departure/plane (' + num + ').svg" />');
 							$(this).parent().addClass('pchemin');
 					});
 
 					$('a[id]').each(function(){
-							var num = Math.floor(Math.random() * 9) + 1  ;
-							$(this).html('<img width="11pt" height="11pt" class="icon-chemin icon-chemin-end" src="/assets/images/planes/arrival/plane (' + num + ').svg" />')
+							//var num = Math.floor(Math.random() * 9) + 1  ;
+							//$(this).html('<img width="11pt" height="11pt" class="icon-chemin icon-chemin-end" src="/assets/images/planes/arrival/plane (' + num + ').svg" />')
+							$(this).html('')
 					});
 				</script>
 
