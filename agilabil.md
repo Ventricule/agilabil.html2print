@@ -78,11 +78,11 @@ a
 **Réponses** : Fragments de textes provenant des réponses formulées par les étudiants
 </div>
 
-**Appel : **
+**Appel :**
 
 « Avec l’Agilabil nous voulons formuler les problèmes pédagogiques et les transformer concrètement en source de solutions en partant de difficultés partagées et en procédant par étapes, avec l’idée que l’innovation consiste à faire advenir ce que nous ne sommes pas, précisément, encore en mesure de concevoir. Quelles difficultés rencontrez-vous dans vos apprentissages, comment avez-vous déjà essayé d’y remédier ? Est-ce que ça marche ? »
 
-**Réponses : **
+**Réponses :**
 
 « J’ai toujours eu du mal à préparer des épreuves dans la seule optique de les réussir. J’entends par là le fait de suivre des cours conçus pour qu’on en retienne les leçons seulement en vue d’un examen. »
 
@@ -94,13 +94,13 @@ a
 
 <a id="A5">A5</a>
 
-**Appel : **
+**Appel :**
 
 « Nous souhaitons associer la pédagogie à la recherche, en combinant leurs potentiels respectifs de créativité. Que vous inspire la citation suivante ? »
 >Je pense que l’Université a besoin d’un Institut de Création permanente. C’est là qu’on chercherait la solution des problèmes que les étudiants se développeraient et mûriraient comme bon leur semble. En outre, je pense que sa gestion devrait incomber à des artistes invités (qui agiraient comme des catalyseurs et n’auraient pas d’autre contact avec l’institution universitaire) et aux étudiants. Aucun cours ou diplôme n’y seraient attribués; on peut cependant concevoir qu’un étudiant qui aurait échoué dans les matières traditionnelles, mais ayant pris part à l’activité de l’Institut, pourrait toujours recevoir une lettre de recommandation en cas de besoin.
 >— Robert Filliou, *Enseigner et apprendre, arts vivants*, 1998
 
-**Réponses : **
+**Réponses :**
 
 « Oui, l’université a besoin d’un Institut de Création permanente. L’université doit être un lieu d’expérimentation et d’innovation pédagogiques qui doit profiter, entre autres, aux étudiants et à l’ensemble du système éducatif. La valorisation de ces innovations passe par une communication interne à l’université. Ce lieu devrait permettre aux étudiants “d’avancer” à leurs rythmes. Il doit être un lieu favorisant l’acquisition de compétences grâce à d’autres formes d’expressions. »
 
@@ -109,19 +109,19 @@ Je deviens ainsi à moi-même, ce qu’un archéologue peut être à ses fouille
 
 « L’étudiant n’est aujourd’hui pas considéré comme au centre de l’université, dès lors il n’a pas suffisamment d’autonomie et de prise de décision dans le choix de ses enseignements et leurs contenus. Il n’est pas encouragé à s’engager au sein des processus de la vie universitaire et des apprentissages, n’est pas responsabilisé, c’est-à-dire considéré comme un professionnel ou spécialiste, n’est pas considéré comme un potentiel de créativité, comme un pilier pour améliorer le champ des apprentissages universitaires. »
 
-**Appel : **
+**Appel :**
 
 « En ouvrant le dialogue avec les étudiant.e.s, nous voulons les accompagner vers l’autonomisation et la pensée critique et les guider à la fois dans leur formation et dans leur recherche de débouchés en privilégiant une approche transversale plutôt qu’un ancrage disciplinaire. »
 
-**Réponse : **
+**Réponse :**
 
 « L’Université favorise certains types d’intelligence dites “académiques” et laisse les autres non utilisés. Pourquoi donc ne pas valoriser toutes les compétences, qu’elles soient scolaires ou autres ? »
 
-**Appel : **
+**Appel :**
 
 « Avec Agilabil nous voulons aussi augmenter le plaisir, l’intérêt et le dynamisme des enseignant.e.s, chercheur.e.s et apprenant.e.s engagé.e.s dans le projet en tant que co-créateurs d’une pratique pédagogique renouvelée. »
 
-**Réponses : **
+**Réponses :**
 
 « Dans la ressaisie d’un cours magistral, afin de m’impliquer davantage dans mon rapport aux contenus, je m’attache à trouver des mises en formes singulières du discours dans ma prise de notes. En employant, d’une certaine manière, des techniques issues du mindmapping et de la mise en page, j’essaie de retranscrire graphiquement la dynamique propre à l’argumentaire déployé à l’oral. »
 
@@ -175,19 +175,19 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 **Fiche possible n°1**
 
-**Activateur d’imaginaire : ** l’énigme absolue
+**Activateur d’imaginaire :** l’énigme absolue
 
-**Durée d’activation / nombre de personnes impliquées : ** tout le monde, et ça peut durer longtemps !
+**Durée d’activation / nombre de personnes impliquées :** tout le monde, et ça peut durer longtemps !
 
-**Proposition d’activation : ** alors, qui d’abord : la poule ou l’œuf ? Comment résoudre la question de l’origine ? Ou accepter de ne pas la résoudre ? Comment envisagez-vous le type de questions que l’on se pose à l’Université : spéculatives, appliquées, audacieuses ? Qui a des connaissances en biologie dans une Fac de Sciences humaines et sociales ? Un peu de bon sens ? L’envie de jouer des méninges pour inventer des pistes folles ? Le plaisir de l’abstraction ?
+**Proposition d’activation :** alors, qui d’abord : la poule ou l’œuf ? Comment résoudre la question de l’origine ? Ou accepter de ne pas la résoudre ? Comment envisagez-vous le type de questions que l’on se pose à l’Université : spéculatives, appliquées, audacieuses ? Qui a des connaissances en biologie dans une Fac de Sciences humaines et sociales ? Un peu de bon sens ? L’envie de jouer des méninges pour inventer des pistes folles ? Le plaisir de l’abstraction ?
 
 **Fiche possible n°2**
 
-**Activateur d’imaginaire : ** nourriture
+**Activateur d’imaginaire :** nourriture
 
-**Durée d’activation / nombre de personnes impliquées : ** tout le monde, durée au choix
+**Durée d’activation / nombre de personnes impliquées :** tout le monde, durée au choix
 
-**Proposition d’activation : ** quelle est la fonction de la nourriture à l’Université ? Les poules ont une place importante dans les fermes inspirées de la permaculture, permettant notamment le contrôle des nuisibles ; le désherbage ; la fertilisation des parcelles ; la réduction des déchets organiques ; la préservation de la biodiversité et, bien sûr, la production d’œufs. Où vous procurez-vous la nourriture la plus quotidienne ? Sauriez-vous échanger des recettes ? Qui ose récupérer de la nourriture gratuitement et quelles sont vos techniques ?
+**Proposition d’activation :** quelle est la fonction de la nourriture à l’Université ? Les poules ont une place importante dans les fermes inspirées de la permaculture, permettant notamment le contrôle des nuisibles ; le désherbage ; la fertilisation des parcelles ; la réduction des déchets organiques ; la préservation de la biodiversité et, bien sûr, la production d’œufs. Où vous procurez-vous la nourriture la plus quotidienne ? Sauriez-vous échanger des recettes ? Qui ose récupérer de la nourriture gratuitement et quelles sont vos techniques ?
 
 
 
@@ -203,15 +203,15 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 **Activateur d’imaginaire** : Imagilab
 
-**Durée d’activation / nombre de personnes impliquées : ** à partir d’une seule personne (qui peut retranscrire à l’écrit ce que l’image lui donne à dire) jusqu’à 5/6 personnes. Il faut 1 jeu d’images par personne.
+**Durée d’activation / nombre de personnes impliquées :** à partir d’une seule personne (qui peut retranscrire à l’écrit ce que l’image lui donne à dire) jusqu’à 5/6 personnes. Il faut 1 jeu d’images par personne.
 
-**Désir initial : ** déclencher le dialogue entre des participants qui ne se connaissent pas par la médiation d’une image déclencheur d’histoires/de souvenirs. Mettre en mot un sentiment, une émotion et évaluer ses résonances chez autrui.
+**Désir initial :** déclencher le dialogue entre des participants qui ne se connaissent pas par la médiation d’une image déclencheur d’histoires/de souvenirs. Mettre en mot un sentiment, une émotion et évaluer ses résonances chez autrui.
 
 **Proposition d’activation n°1** : chaque participant a en main le même jeu d’images. À tour de rôle, chacun donne une légende d’une phrase correspondant à une image de son choix en veillant à ne pas décrire les éléments de cette dernière, mais en s’en inspirant. Les autres participants positionnent à la gauche de leur main l’image dont ils pensent qu’il est question et poursuivent l’échange en s’emparant d’une image à sa suite, sans la dévoiler aux autres. À la fin du tour, les participants dévoilent leur main et en comparent les divergences.
 
 **Proposition d’activation n°2** : on tire au hasard une image et on en fait une *lecture* (durée 2 minutes). Les autres joueurs doivent proposer des hypothèses du contenu de l’image en fonction de l’histoire qui leur a été délivrée : pour ce faire, ils dessinent sur un petit support ce qu’ils croient entendre et complètent leur dessin, si besoin, par des remarques plus personnelles (couleurs, sentiments...). Par la suite, le jeu d’images du joueur est dévoilé : les écoutants ont pour objectif de se mettre d’accord sur celle qui semble au mieux correspondre à l’histoire qu’ils viennent d’entendre. Ce faisant, ils doivent débattre du choix de leur version. Avant de découvrir la réponse attendue, ils montrent le dessin qu’ils ont réalisé. Le dessin qui se rapproche le plus de l’image du conteur remporte le tour.
 
-**Atelier associé : ** atelier « L’image en chantier » pensé et animé par Adèle G., voir page [](#l-image-en)
+**Atelier associé :** atelier « L’image en chantier » pensé et animé par Adèle G., voir page [](#l-image-en)
 
 **Note** : les études de la perception ont montré que la première saisie d’une image se fait selon un parcours aléatoire, bien différent de celle que l’on met en œuvre au cours d’une page de lecture par exemple. Il s’agit de se saisir de l’occasion de penser cette absence d’orientation : non seulement pour mieux autoriser d’autres noyaux de signifiance, plus instables, plus flous et moins univoques, mais aussi pour aller plus loin que les légendes qui réfèrent directement, habituellement attendues.
 
@@ -228,17 +228,17 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 *et déjoue.*
 
 
-**Activateur d’imaginaire : ** générateur à langages (traducteur automatique)
+**Activateur d’imaginaire :** générateur à langages (traducteur automatique)
 
-**Durée d’activation / nombre de personnes impliquées : ** comme on veut.
+**Durée d’activation / nombre de personnes impliquées :** comme on veut.
 
-**Désir initial : ** interroger les implicites du langage universitairien
+**Désir initial :** interroger les implicites du langage universitairien
 
-**Proposition d’activation n°1 : ** tournez les cubes de bois et éprouvez la cohérence de chaque proposition, jouez de l’absurde produit par les ruptures de code ou cherchez les lois implicites qui expliquent ce qui fonctionne en situation
+**Proposition d’activation n°1 :** tournez les cubes de bois et éprouvez la cohérence de chaque proposition, jouez de l’absurde produit par les ruptures de code ou cherchez les lois implicites qui expliquent ce qui fonctionne en situation
 
-**Atelier associé : ** atelier « Consignes » pensé et animé par Juliette, voir page [](#consigne)
+**Atelier associé :** atelier « Consignes » pensé et animé par Juliette, voir page [](#consigne)
 
-**Note : ** beaucoup des difficultés à (se) comprendre tiennent à l’existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d’énoncés qui sont acceptables ou non en contexte universitaire.
+**Note :** beaucoup des difficultés à (se) comprendre tiennent à l’existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d’énoncés qui sont acceptables ou non en contexte universitaire.
 
 ***
 
@@ -255,26 +255,26 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 *à plusieurs*
 *on se rapproche,*
 *on se rejoint,*
-*on se réunit : *
+*on se réunit :*
 *alors*
 *c’est un ensemble*
 *qui se crée.*
 
-**Activateur d’imaginaire : ** jeu de construction
+**Activateur d’imaginaire :** jeu de construction
 
-**Description : ** tubes et étoiles en plastique flexible, gougeons de bois et plaque avec perforations
+**Description :** tubes et étoiles en plastique flexible, gougeons de bois et plaque avec perforations
 
-**Désir initial : ** fabriquer ensemble tout en pensant, construire
+**Désir initial :** fabriquer ensemble tout en pensant, construire
 
-**Durée d’activation / nombre de personnes impliquées : ** comme on veut
+**Durée d’activation / nombre de personnes impliquées :** comme on veut
 
-**Proposition d’activation n°1 : ** essayer de fabriquer un habitat temporaire (joindre des plans d’architectures d’urgence), penser à la précarité des logements étudiants.
+**Proposition d’activation n°1 :** essayer de fabriquer un habitat temporaire (joindre des plans d’architectures d’urgence), penser à la précarité des logements étudiants.
 
-**Proposition d’activation n°2 : ** reproduire le campus de son institution et y ajouter un module ou une extension qui fasse maillon avec la cité, imaginer un campus avec un chapiteau.
+**Proposition d’activation n°2 :** reproduire le campus de son institution et y ajouter un module ou une extension qui fasse maillon avec la cité, imaginer un campus avec un chapiteau.
 
-**Atelier associé : ** atelier« l’Université idéale » pensé et animé par Pierre, voir page [](#universite-ideale)
+**Atelier associé :** atelier« l’Université idéale » pensé et animé par Pierre, voir page [](#universite-ideale)
 
-**Proposition d’activation n°3 : ** comment pensez-vous la question de l’habitat pour les migrant.e.s et réfugié.e.s ?
+**Proposition d’activation n°3 :** comment pensez-vous la question de l’habitat pour les migrant.e.s et réfugié.e.s ?
 
 **Notes** : se mettre en relation avec :
 - Le Réseau Études Supérieures et Orientation des Migrant.e.s et des Exilé.e.s (RESOME), constitué par des étudiant.e.s, personnel.le.s et enseignant.e.s de l’EHESS, l’ENSAD, la FEMIS, l’ENS Ulm, d’AgroParisTech, l’ENSCI, l’ENS Lyon, Paris 8 - Saint-Denis, Paris 10 - Nanterre, Paris 7 -- Diderot, de l’ESSEC et les organisations suivantes : association MIGRENS, Voyage au bout de la 11, RUSF Paris-8, InFLEchir : <contact@resome.org>
@@ -420,9 +420,9 @@ Notre projet reposant sur l’élaboration de conditions de possibilité pour pe
 
 Pour préparer cette résidence de recherche-action-création, nous avons imaginé différents ateliers, soigneusement paramétrés en termes de durée, de constitution d’équipe ainsi que de matériel. Nous avons aussi prévu beaucoup de temps à inventer chemin faisant. Cette autogestion souple nous rend curieux de savoir ce qui va advenir, et disponibles pour nous adapter en fonction de l’envie collective et des nécessités pratiques de la situation.
 
-Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapidement nous mettons les pieds dans le plat avec la première étape de l’atelier mobile d’Adèle G. (pour plus de détails sur le fonctionnement de cet atelier voir page $). Il est tôt et il fait froid, mais aussi tellement beau ! L’endroit a des airs de colonie de vacances : un lieu magnifique, des chambres qui sont hospitalières, le café aussi.
+Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapidement nous mettons les pieds dans le plat avec la première étape de l’atelier mobile d’Adèle G. (pour plus de détails sur le fonctionnement de cet atelier voir page [](#l-image-en)). Il est tôt et il fait froid, mais aussi tellement beau ! L’endroit a des airs de colonie de vacances : un lieu magnifique, des chambres qui sont hospitalières, le café aussi.
 
-À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé un atelier pour (re)prendre contact, nous guident de station en station (voir page $ pour avoir un aperçu de l’atelier *One to one*)
+À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé un atelier pour (re)prendre contact, nous guident de station en station (voir page [](#one-to-one) pour avoir un aperçu de l’atelier *One to one*)
 
 #### Ateliers
 
@@ -436,25 +436,25 @@ Atelier pensé et animé par Cécile et Emma
 
 <a id="C2">C2</a>
 
-**Durée : ** 1 heure avec les explications + 15 min retour sur expérience à la fin de l’atelier
+**Durée :** 1 heure avec les explications + 15 min retour sur expérience à la fin de l’atelier
 
-**Nombre de participant.e.s : ** il faut créer le nombre de stations en fonction du nombre de participant.e.s (compter en moyenne 2 personnes par station).
+**Nombre de participant.e.s :** il faut créer le nombre de stations en fonction du nombre de participant.e.s (compter en moyenne 2 personnes par station).
 
-**Préparation : ** quelques heures d’idéation + 15 minutes d’installation. Préparation de différentes stations qui seront ensuite marquées au sol (avec du scotch par exemple). Chaque station invite deux personnes à se rencontrer au travers d’une activité spécifique.
+**Préparation :** quelques heures d’idéation + 15 minutes d’installation. Préparation de différentes stations qui seront ensuite marquées au sol (avec du scotch par exemple). Chaque station invite deux personnes à se rencontrer au travers d’une activité spécifique.
 
-**Matériel nécessaire : ** scotch, coussins, chaises, papiers, stylos, musique et objets communs de la vie de tous les jours (qui sont dans nos sacs/poches par exemple),
+**Matériel nécessaire :** scotch, coussins, chaises, papiers, stylos, musique et objets communs de la vie de tous les jours (qui sont dans nos sacs/poches par exemple),
 
-**Désir : ** atelier à réaliser au début d’une phase de rencontre d’un groupe nouvellement constitué afin d’apprendre à se connaître. L’atelier *one to one* permet à chacun de rencontrer les autres membres du groupe petit à petit autour d’activités ludiques sortant de l’ordinaire. En se rencontrant à travers des objets, des lettres, un regard, une danse, nous déplaçons l’attente de la rencontre formelle, pour accueillir des personnes dans toute leur singularité.
+**Désir :** atelier à réaliser au début d’une phase de rencontre d’un groupe nouvellement constitué afin d’apprendre à se connaître. L’atelier *one to one* permet à chacun de rencontrer les autres membres du groupe petit à petit autour d’activités ludiques sortant de l’ordinaire. En se rencontrant à travers des objets, des lettres, un regard, une danse, nous déplaçons l’attente de la rencontre formelle, pour accueillir des personnes dans toute leur singularité.
 
-**Animation : ** l’atelier se présente sous forme de jeu qui a ses propres règles.
+**Animation :** l’atelier se présente sous forme de jeu qui a ses propres règles.
 
-**Déroulement et règle du jeu : ** La personne responsable présente :
+**Déroulement et règle du jeu :** La personne responsable présente :
 1. Les stations et les activités attachées à chaque station.
 2. Le but : essayer de rencontrer tout le monde.
 3. Le nombre : on ne peut pas être plus de 2 à la fois par station.
 4. Le temps : il faut essayer de ne pas passer plus de 4 min / station.
 
-**Exemples de station/activité : **
+**Exemples de station/activité :**
 
 *1) Regarde-moi te regarder* : Placez-vous l’un en face de l’autre (idéalement sur deux chaises installées à cet effet) et regardez-vous dans les yeux pendant approximativement 4 min.
 
@@ -478,7 +478,7 @@ Atelier pensé et animé par Cécile et Emma
 
 *10) 18/20* : Raconter le meilleur cours que vous ayez jamais eu et pourquoi il vous a plu.
 
-**Note : ** Chaque activité peut être repensée et aménagée en fonction de la spécificité du groupe et de ce qui les amène à être ensemble. Compter 15 minutes en plus pour permettre un feedback du groupe sur les activités proposées et/ou sur les idées qui ont pu émerger de ces rencontres en duo.
+**Note :** Chaque activité peut être repensée et aménagée en fonction de la spécificité du groupe et de ce qui les amène à être ensemble. Compter 15 minutes en plus pour permettre un feedback du groupe sur les activités proposées et/ou sur les idées qui ont pu émerger de ces rencontres en duo.
 
 **Retour sur atelier « One to one » de Cécile et Emma par Alix**
 
@@ -504,26 +504,26 @@ On continue avec la deuxième partie de l’atelier « L’image en chantier » 
 Atelier pensé et animé par Adèle G.
 ~~~
 
-**Durée : ** un trajet en voiture d’1h environ + compte rendu tous ensemble 45min
+**Durée :** un trajet en voiture d’1h environ + compte rendu tous ensemble 45min
 
-**Nombre de participant.e.s : ** tout le monde
+**Nombre de participant.e.s :** tout le monde
 
-**Préparation : ** envoi par la poste aux conducteurs de voiture d’un même groupement de 10 images
+**Préparation :** envoi par la poste aux conducteurs de voiture d’un même groupement de 10 images
 
-**Matériel nécessaire : ** une sélection de 10 images/photos différentes imprimées (le paquet de 10 images est le même pour chacun des groupes, pour chacune des voitures)
+**Matériel nécessaire :** une sélection de 10 images/photos différentes imprimées (le paquet de 10 images est le même pour chacun des groupes, pour chacune des voitures)
 
-**Désir : ** Pour cet exercice, j’ai pensé au jeu de société *Taboo* où on joue avec un paquet de cartes sur lesquelles sont inscrits des mots à faire deviner et une liste de cinq mots interdits. Dans la perspective de travailler sur le langage (scriptural, mais aussi corporel et vocal) à partir d’une même image dont on ne dévoile pas le visuel, je souhaite que ce soit l’occasion de faire une recherche : celle du comment dire, du comment écouter, du comment partager tout en se disant soi-même, en trouvant des échos dans les manières de conceptualiser/penser son environnement comparable entre les participants.
+**Désir :** Pour cet exercice, j’ai pensé au jeu de société *Taboo* où on joue avec un paquet de cartes sur lesquelles sont inscrits des mots à faire deviner et une liste de cinq mots interdits. Dans la perspective de travailler sur le langage (scriptural, mais aussi corporel et vocal) à partir d’une même image dont on ne dévoile pas le visuel, je souhaite que ce soit l’occasion de faire une recherche : celle du comment dire, du comment écouter, du comment partager tout en se disant soi-même, en trouvant des échos dans les manières de conceptualiser/penser son environnement comparable entre les participants.
 
-**Animation : **
-*- Étape 1, en voiture : * Les conducteurs distribuent à l’heure du départ les images aux passagers qui en choisiront 1 ou 2 à légender de trois manières :
+**Animation :**
+*- Étape 1, en voiture :* Les conducteurs distribuent à l’heure du départ les images aux passagers qui en choisiront 1 ou 2 à légender de trois manières :
 
 1. Écriture d’un texte libre à partir de l’image choisie -- ÉCRITURE
 2. Associer un cri / un son / une mélodie à cette même image -- VOIX
 3. Associer une posture fixe -- CORPS
 
-*- Étape 2, à la bergerie : * À l’arrivée, compte-rendu de chacune des légendes qu’on a associées à l’image que l’on a choisie sans dévoiler l’image concernée. Chaque participant tente de retrouver la/les personnes qui ont choisi la même image que lui après avoir écouté son intervention.
+*- Étape 2, à la bergerie :* À l’arrivée, compte-rendu de chacune des légendes qu’on a associées à l’image que l’on a choisie sans dévoiler l’image concernée. Chaque participant tente de retrouver la/les personnes qui ont choisi la même image que lui après avoir écouté son intervention.
 
-**Postulats théoriques : ** Ce que nous pensons d’une image, la lecture immédiate/brute/instinctive que nous en faisons, peut devenir le socle commun à partir duquel nouer un échange. Cela implique d’accepter la valeur relative des savoirs et de leurs supports (C. Freinet). Il faut s’éloigner des exercices types dans lesquels les commentaires d’image, multiples au départ, finissent malheureusement par trouver un chemin unique, une seule langue : le fameux *commentaire de l’image*. Au lieu de cela, je propose de privilégier une approche démocratique de ce médium qui, libéré de toute référence implicite dont on attendrait qu’elle soit trouvée, devient éponge, lieu idéal de « partage du sensible » où les différents discours vont se donner le temps et l’espace de se dire. Dans les termes de Rancière, la « négation de tout rapport de nécessité entre une forme et un contenu déterminé » (*Le Partage du sensible*) permettra alors aux participants, placés sur un même pied d’égalité, de s’instituer en communauté grâce au temps d’un dire de l’image qu’ils ont choisie. En partageant oralement aux autres leur interprétation de l’image sans en donner la source et en se gardant d’en faire une description, les participants retrouveront leur binôme associé à la même image, et ce faisant, cette image sera devenue un facteur de sociabilité.
+**Postulats théoriques :** Ce que nous pensons d’une image, la lecture immédiate/brute/instinctive que nous en faisons, peut devenir le socle commun à partir duquel nouer un échange. Cela implique d’accepter la valeur relative des savoirs et de leurs supports (C. Freinet). Il faut s’éloigner des exercices types dans lesquels les commentaires d’image, multiples au départ, finissent malheureusement par trouver un chemin unique, une seule langue : le fameux *commentaire de l’image*. Au lieu de cela, je propose de privilégier une approche démocratique de ce médium qui, libéré de toute référence implicite dont on attendrait qu’elle soit trouvée, devient éponge, lieu idéal de « partage du sensible » où les différents discours vont se donner le temps et l’espace de se dire. Dans les termes de Rancière, la « négation de tout rapport de nécessité entre une forme et un contenu déterminé » (*Le Partage du sensible*) permettra alors aux participants, placés sur un même pied d’égalité, de s’instituer en communauté grâce au temps d’un dire de l’image qu’ils ont choisie. En partageant oralement aux autres leur interprétation de l’image sans en donner la source et en se gardant d’en faire une description, les participants retrouveront leur binôme associé à la même image, et ce faisant, cette image sera devenue un facteur de sociabilité.
 
 ***
 
@@ -533,15 +533,15 @@ Atelier pensé et animé par Adèle G.
 Atelier pensé et animé par Myriam
 ~~~
 
-**Durée : ** 20 minutes rythmées par des interventions de 30 secondes par personne
+**Durée :** 20 minutes rythmées par des interventions de 30 secondes par personne
 
-**Nombre de participant.e.s : ** tout le monde !
+**Nombre de participant.e.s :** tout le monde !
 
-**Matériel nécessaire : ** chapeau, objets sélectionnés en amont, morceaux de papier, chaises
+**Matériel nécessaire :** chapeau, objets sélectionnés en amont, morceaux de papier, chaises
 
-**Désir : ** L’objectif de cet atelier était double : « briser la glace » par un échauffement ludique et le rappel de nos prénoms d’une part et, d’autre part, installer l’horizon de la *mallette* avec ses objets énigmatiques au centre de notre cercle de travail.
+**Désir :** L’objectif de cet atelier était double : « briser la glace » par un échauffement ludique et le rappel de nos prénoms d’une part et, d’autre part, installer l’horizon de la *mallette* avec ses objets énigmatiques au centre de notre cercle de travail.
 
-**Animation : ** Cinq objets sont disposés au centre du cercle que forment les participant.e.s. Ces objets sont associés chacun à un numéro de 1 à 5. Dans une boîte ou un chapeau, l’organisatrice dispose plusieurs petits morceaux de papier eux-mêmes numérotés de 1 à 5. À tour de rôle, chaque personne tire un papier et décrit l’objet correspondant au numéro qu’elle a pioché.
+**Animation :** Cinq objets sont disposés au centre du cercle que forment les participant.e.s. Ces objets sont associés chacun à un numéro de 1 à 5. Dans une boîte ou un chapeau, l’organisatrice dispose plusieurs petits morceaux de papier eux-mêmes numérotés de 1 à 5. À tour de rôle, chaque personne tire un papier et décrit l’objet correspondant au numéro qu’elle a pioché.
 Il faut respecter deux contraintes : énumérer un à un les prénoms de toutes les personnes ayant pris la parole jusque là et faire tenir le tout (énumération et présentation de l’objet) en 30 secondes.
 
 > Cet atelier permet à chacun de repérer qui est qui et de se familiariser avec le groupe. Il permet plus largement à chacun de se jeter à l'eau sans avoir le temps de trop réfléchir ou de préparer son intervention.
@@ -560,22 +560,22 @@ Il faut respecter deux contraintes : énumérer un à un les prénoms de toutes 
 Atelier pensé et animé par Myriam
 ~~~
 
-**Durée : ** 1h toutes les demi-journées pendant les deux week-ends d’incubation
+**Durée :** 1h toutes les demi-journées pendant les deux week-ends d’incubation
 
-**Nombre de participant.e.s : ** tout le monde !
+**Nombre de participant.e.s :** tout le monde !
 
-**Préparation : ** organiser différents espaces de travail en atelier avec du matériel pour chaque espace.
+**Préparation :** organiser différents espaces de travail en atelier avec du matériel pour chaque espace.
 
-**Matériel nécessaire : ** tout ce que nous avons à disposition (en l’occurrence : du matériel de bureau, d’arts plastiques et de bricolage soit, en vrac, des stylos, du papier, du bois, de l’argile, de la pâte à modeler, de la ficelle, des aimants, etc.).
+**Matériel nécessaire :** tout ce que nous avons à disposition (en l’occurrence : du matériel de bureau, d’arts plastiques et de bricolage soit, en vrac, des stylos, du papier, du bois, de l’argile, de la pâte à modeler, de la ficelle, des aimants, etc.).
 
-**Désir : ** Inspiré des protocoles dits « Agile », le projet Abilabil s’est pensé résolument ouvert et évolutif dans son fonctionnement comme dans la détermination de ses objectifs : il revenait au groupe en travail de déterminer, chemin faisant, les pistes d’investigations comme les résultats escomptés.
+**Désir :** Inspiré des protocoles dits « Agile », le projet Abilabil s’est pensé résolument ouvert et évolutif dans son fonctionnement comme dans la détermination de ses objectifs : il revenait au groupe en travail de déterminer, chemin faisant, les pistes d’investigations comme les résultats escomptés.
 Un horizon, cependant, avait été posé d’emblée : la réalisation d’une *mallette pédagogique*, qui tiendrait tout à la fois de la boîte à surprise, de la malle de magicien, de la caisse à outils et un peu aussi du plateau du Seder (voir note ci-dessous)...
 
-**Animation : ** L’idée était de se doter de supports matériels pour favoriser l’émergence et la formulation de questionnements qui prendraient sens dans l’interaction et la manipulation des formes. Il est difficile de ne pas présupposer les réponses, en matière de pédagogie comme en d’autres domaines. Le détour par un objet concret qui résisterait comme une énigme semblait pouvoir permettre de procéder différemment, en faisant fuser les questions au lieu de chercher une solution.
+**Animation :** L’idée était de se doter de supports matériels pour favoriser l’émergence et la formulation de questionnements qui prendraient sens dans l’interaction et la manipulation des formes. Il est difficile de ne pas présupposer les réponses, en matière de pédagogie comme en d’autres domaines. Le détour par un objet concret qui résisterait comme une énigme semblait pouvoir permettre de procéder différemment, en faisant fuser les questions au lieu de chercher une solution.
 
 <div class="chemin voie-b" markdown="1">Pour vous faire une idée des prototypes d’objets réalisés au moment de ces ateliers, passez directement page [B4](#B4)</div>
 
-**Note sur le plateau de Seder : ** Sept éléments énigmatiques composant le plateau du Seder (on trouve la liste sur Wikipédia) : trois plaques de pain azyme disposées l’une au-dessus de l’autre, des herbes vertes, de l’eau salée, des herbes amères, un mélange fait de dates, de noix, de pommes, d’amandes, de cannelle et de vin, un os et un œuf dur. Voilà qui est fort étrange ! Que vient faire cet œuf dur ? Pourquoi les herbes sont-elles amères ? Évidemment, dans la tradition religieuse, les réponses à ces questions attendues sont déjà connues : chaque objet est programmé. Mais l’ouverture vers d’autres questions existe aussi. De la même manière (encore que totalement différemment), chacun des objets de notre mallette doit intriguer et susciter des questions qui elles, n’ont pas de réponse définie, et encore moins définitive : à quoi ça sert, en quoi puis-je me l’approprier ? Autant de questions qui conduisent vers une interrogation centrale : que faisons-nous à nous poser ces questions et en quoi ces questions interrogent-elles ce que nous voulons et pouvons en faire ensemble ?
+**Note sur le plateau de Seder :** Sept éléments énigmatiques composant le plateau du Seder (on trouve la liste sur Wikipédia) : trois plaques de pain azyme disposées l’une au-dessus de l’autre, des herbes vertes, de l’eau salée, des herbes amères, un mélange fait de dates, de noix, de pommes, d’amandes, de cannelle et de vin, un os et un œuf dur. Voilà qui est fort étrange ! Que vient faire cet œuf dur ? Pourquoi les herbes sont-elles amères ? Évidemment, dans la tradition religieuse, les réponses à ces questions attendues sont déjà connues : chaque objet est programmé. Mais l’ouverture vers d’autres questions existe aussi. De la même manière (encore que totalement différemment), chacun des objets de notre mallette doit intriguer et susciter des questions qui elles, n’ont pas de réponse définie, et encore moins définitive : à quoi ça sert, en quoi puis-je me l’approprier ? Autant de questions qui conduisent vers une interrogation centrale : que faisons-nous à nous poser ces questions et en quoi ces questions interrogent-elles ce que nous voulons et pouvons en faire ensemble ?
 
 > Au tout départ, j'imaginais de ne proposer aucun mode d'emploi dans la mallette, afin de laisser l'imagination entièrement libre et de susciter le débat. Mais il s'est avéré nécessaire de donner un point d'impulsion pour ne pas que la curiosité s'émousse face à trop de perplexité. Comme il est difficile de faire l'éprouve du doute sans conclure à l'échec ! Nous avons donc finalement décidé d'ajouter une puis plusieurs notices pour accompagner chaque objet, suggérant différents modes d'activation possibles. Petit à petit, la collection des énigmes s'est enrichie...
 
@@ -585,25 +585,25 @@ Un horizon, cependant, avait été posé d’emblée : la réalisation d’une *
 Atelier pensé et animé par Hyacinthe
 ~~~
 
-**Durée : ** 1h d’atelier + 15mn d’échanges
+**Durée :** 1h d’atelier + 15mn d’échanges
 
-**Nombre de participant.e.s : ** 5 max
+**Nombre de participant.e.s :** 5 max
 
-**Préparation : ** préparer un diaporama d’images stéréotypées type « Clipart », à chercher dans un moteur de recherche d’internet en y entrant 5 champs lexicaux et formulations standardisées telles que : « construire l’avenir », « apprentissage », « vieillir », « créativité », « montage ».
+**Préparation :** préparer un diaporama d’images stéréotypées type « Clipart », à chercher dans un moteur de recherche d’internet en y entrant 5 champs lexicaux et formulations standardisées telles que : « construire l’avenir », « apprentissage », « vieillir », « créativité », « montage ».
 
-**Matériel nécessaire : ** vidéoprojecteur, moniteur vidéo (ordinateur)
+**Matériel nécessaire :** vidéoprojecteur, moniteur vidéo (ordinateur)
 
-**Désir : ** Partant d’un constat selon lequel les images, dans le cadre scolaire, sont trop généralement employées à des fins illustratives, cet atelier propose un jeu où, d’une certaine manière, les rôles de l’image et du discours sont renversés. Si le discours s’appuie parfois sur des images, comment les images peuvent-elles, à leur tour, s’appuyer sur le discours pour trouver cohérence et légitimité ?
+**Désir :** Partant d’un constat selon lequel les images, dans le cadre scolaire, sont trop généralement employées à des fins illustratives, cet atelier propose un jeu où, d’une certaine manière, les rôles de l’image et du discours sont renversés. Si le discours s’appuie parfois sur des images, comment les images peuvent-elles, à leur tour, s’appuyer sur le discours pour trouver cohérence et légitimité ?
 
-**Animation : ** Chaque participant devra, à tour de rôle, prendre la parole et improviser un discours face aux autres participants. Il s’appuiera à cette fin sur un PowerPoint dont il ne connaît cependant pas le contenu. Il devra s’attacher à donner, dans son discours, une cohérence à la suite d’images qu’il présentera.
+**Animation :** Chaque participant devra, à tour de rôle, prendre la parole et improviser un discours face aux autres participants. Il s’appuiera à cette fin sur un PowerPoint dont il ne connaît cependant pas le contenu. Il devra s’attacher à donner, dans son discours, une cohérence à la suite d’images qu’il présentera.
 
-**Retour sur atelier « Improvisation sur diapositives » de Hyacinthe par Dorothée : ** Une simple consigne : un « jeu de diapositives », cinq ou six images qui défilent, et un spectateur qui doit retrouver le fil logique.
+**Retour sur atelier « Improvisation sur diapositives » de Hyacinthe par Dorothée :** Une simple consigne : un « jeu de diapositives », cinq ou six images qui défilent, et un spectateur qui doit retrouver le fil logique.
 Cependant, la difficulté surgit face à la platitude extrême des images, leur univocité totale, qui les enferme chacune dans un sens et ne permet aucune association de pensée. Chaque slide est une butée. Chaque image une impasse, un bégaiement. La couture, impossible.
 Comme l’atelier est expérimental, on soupçonne tout de suite une erreur : les images sont probablement mal choisies, la consigne bancale. Pourtant, l’intérêt de l’expérience tient au fait qu’on s’essaie surtout à reconstituer le cheminement de pensée de son créateur. C’est moins la logique que le questionnement, dont on reconstitue, doucement, le fil.
 
-**Retour du groupe : ** À l’inverse de l’atelier *image en chantier* conçu par Adèle G. à partir de photographies en vrac où l’on ne se demandait pas vraiment pourquoi elles avaient été choisies plutôt que d’autres, les images ici dans leur sérialité amènent les participants à deux réactions paradoxales : soit les servir, soit se servir de leur apparence schématique pour en faire ce que l’on veut. L’enchaînement contraint le participant. On en vient soit à évacuer l’image, à prendre l’espace que l’on souhaite, soit à ne pas trop réussir à se situer. Hyacinthe est parti de métaphores tapées sur une barre de recherche ou de phrases type « être prisonnier de ses idées » avec un poisson dans une ampoule ou « rouler sa bosse » avec un bousier poussant la terre. Finalement, les participants cherchent à savoir ce qu’a voulu dire l’animateur, le fil de sa pensée à partir du montage qu’il a fait. On se met à la place de celui qui a construit le montage. Globalement, tout le monde avoue ne pas s’être senti libre avec ces images qui disent à la fois tout et rien. Elles renvoient à une certaine vision de l’entreprise. On parle même d’image qui « véhicule une idéologie » ou « qui va à l’efficace ».
+**Retour du groupe :** À l’inverse de l’atelier *image en chantier* conçu par Adèle G. à partir de photographies en vrac où l’on ne se demandait pas vraiment pourquoi elles avaient été choisies plutôt que d’autres, les images ici dans leur sérialité amènent les participants à deux réactions paradoxales : soit les servir, soit se servir de leur apparence schématique pour en faire ce que l’on veut. L’enchaînement contraint le participant. On en vient soit à évacuer l’image, à prendre l’espace que l’on souhaite, soit à ne pas trop réussir à se situer. Hyacinthe est parti de métaphores tapées sur une barre de recherche ou de phrases type « être prisonnier de ses idées » avec un poisson dans une ampoule ou « rouler sa bosse » avec un bousier poussant la terre. Finalement, les participants cherchent à savoir ce qu’a voulu dire l’animateur, le fil de sa pensée à partir du montage qu’il a fait. On se met à la place de celui qui a construit le montage. Globalement, tout le monde avoue ne pas s’être senti libre avec ces images qui disent à la fois tout et rien. Elles renvoient à une certaine vision de l’entreprise. On parle même d’image qui « véhicule une idéologie » ou « qui va à l’efficace ».
 
-**Idées de poursuite et de développement de l’atelier : ** Retrouver la pensée de l’autre. Proposition d’*ice-breaker* en se mettant à la place du professeur pour reconstituer le fil de la pensée : pourquoi tel texte a été découpé à ce mot-là près ? Quelle est la question sous-jacente à ce sujet de dissertation ? Présenter 3 diapositives : quelle logique, construisez un discours à partir d’elles : il y a un fil à trouver, susciter ce réflexe de dégager la logique sous-jacente.
+**Idées de poursuite et de développement de l’atelier :** Retrouver la pensée de l’autre. Proposition d’*ice-breaker* en se mettant à la place du professeur pour reconstituer le fil de la pensée : pourquoi tel texte a été découpé à ce mot-là près ? Quelle est la question sous-jacente à ce sujet de dissertation ? Présenter 3 diapositives : quelle logique, construisez un discours à partir d’elles : il y a un fil à trouver, susciter ce réflexe de dégager la logique sous-jacente.
 
 ***
 
@@ -614,21 +614,21 @@ Atelier pensé et animé par Stéphanie.
 ~~~
 
 
-**Durée : ** 1h d’atelier + 30 minutes de préparation préalable à l’atelier
+**Durée :** 1h d’atelier + 30 minutes de préparation préalable à l’atelier
 
-**Nombre de participant.e.s : ** de 1 à 5 personnes
+**Nombre de participant.e.s :** de 1 à 5 personnes
 
-**Matériel nécessaire : **
+**Matériel nécessaire :**
 - 20 à 50 fiches cartonnées (selon le nombre de participant.e.s), percées sur tous les côtés pour pouvoir nouer des bouts de corde. Fiches sur lesquelles sont préalablement écrits des mots-clés, dans les guides de formation à la *Méthodologie de la recherche documentaire* de l’Université Sorbonne Nouvelle. Cette liste doit être la plus longue possible afin d’offrir le plus grand nombre de combinaisons et de chemins à créer. N’est-ce pas à partir de chacun de ces chemins qu’une telle formation doit s’imaginer ?
-*Liste non exhaustive de mots-clés : * article, audiovisuel, auteur.e, bases de données, bibliographie, bibliothèque, Cairn, chapitre, classement, catalogue, consultation, collection, cote, CTLES, titre, Wikipédia, Zotero, thèses, sujet, source secondaire, source primaire, référence, revue, recherche, presse...
+*Liste non exhaustive de mots-clés :* article, audiovisuel, auteur.e, bases de données, bibliographie, bibliothèque, Cairn, chapitre, classement, catalogue, consultation, collection, cote, CTLES, titre, Wikipédia, Zotero, thèses, sujet, source secondaire, source primaire, référence, revue, recherche, presse...
 - Environ une trentaine de bouts de corde d’environ 15 cm chacun.
 - Ciseaux, bloc-notes pour noter les montages des participants ou encore appareil photo pour en conserver l’image.
 
-**Désir : ** Qui n’a pas déjà souhaité un meilleur maillage avec la documentation, la recherche d’information et les bibliothèques en général, en lien avec son parcours pédagogique ou d’enseignement ? Et qui ne s’est pas déjà heurté au vocabulaire spécialisé, aux applications informatiques compliquées, aux systèmes de classement sibyllins, aux localisations exotiques ? Les bibliothèques, qui demeurent un incontournable dans les études universitaires et un soutien indispensable à l’apprentissage, s’avèrent parfois un laborieux et tortueux chemin.
+**Désir :** Qui n’a pas déjà souhaité un meilleur maillage avec la documentation, la recherche d’information et les bibliothèques en général, en lien avec son parcours pédagogique ou d’enseignement ? Et qui ne s’est pas déjà heurté au vocabulaire spécialisé, aux applications informatiques compliquées, aux systèmes de classement sibyllins, aux localisations exotiques ? Les bibliothèques, qui demeurent un incontournable dans les études universitaires et un soutien indispensable à l’apprentissage, s’avèrent parfois un laborieux et tortueux chemin.
 L’atelier invite à repenser les formations documentaires en fonction des envies, des besoins, des expériences et de l’imagination de chaque chercheur.e en bibliothèque, indépendamment de son statut (étudiant, professoral, autre). Les bibliothécaires cèdent la place aux usagers qui inventent, expérimentent et s’approprient de nouvelles façons de montrer, d’expliquer, d’enseigner, de former, de comprendre la recherche documentaire. *Comment auriez-vous aimé que l’on vous explique la recherche d’information et la bibliothèque, son fonctionnement, ses ressources, son personnel ? *
 Pourquoi pas des enquêtes de détectives, des jeux de pistes, des jeux de société, des jeux vidéo, des capsules en ligne, du théâtre, des récits personnels, du jumelage, des soirées pyjama ? Libre à vous d’élaborer des pistes, d’ouvrir des voies, de lancer des idées vers une autre façon de concevoir et d’aborder ce vaisseau pirate qu’est la bibliothèque universitaire.
 
-**Animation : ** Déposer toutes les fiches et demander aux participants de faire un parcours documentaire avec les mots en les liant avec des bouts de corde. Il peut y avoir des allers-retours. Quels chemins parcourent-ils pour trouver l’information ? Par exemple, certains cherchent d’abord en ligne, depuis la maison, et se repèrent ensuite à la bibliothèque grâce au plan de classement. D’autres se rendent sur place et demandent directement au personnel. Enfin, d’autres encore, font une recherche sur Internet, puis dans le catalogue, puis dans les bases de données, etc. Il n’y a pas de bonnes ni de mauvaises réponses : c’est le chemin qui est intéressant et c’est au facilitateur de récupérer les informations pour présenter de nouveaux parcours de formation.
+**Animation :** Déposer toutes les fiches et demander aux participants de faire un parcours documentaire avec les mots en les liant avec des bouts de corde. Il peut y avoir des allers-retours. Quels chemins parcourent-ils pour trouver l’information ? Par exemple, certains cherchent d’abord en ligne, depuis la maison, et se repèrent ensuite à la bibliothèque grâce au plan de classement. D’autres se rendent sur place et demandent directement au personnel. Enfin, d’autres encore, font une recherche sur Internet, puis dans le catalogue, puis dans les bases de données, etc. Il n’y a pas de bonnes ni de mauvaises réponses : c’est le chemin qui est intéressant et c’est au facilitateur de récupérer les informations pour présenter de nouveaux parcours de formation.
 
 >  Penser autrement l'UniverCité de demain, c'est aussi penser les composantes qui participent de cet apprentissage. La Bibliothèque universitaire est un élément incontournable. Elle invite ou rebute certain.e.s, elle facilite ou complexifie l'accès à l'information pour d'autres, elle tente d'accueillir et de former tous les membres de la communauté universitaire. Ne faudrait-il pas repenser la formation à la recherche documentaire en faisant participer davantage les étudiant.e.s, en suivant au plus près leurs parcours, leurs logiques, leurs inspirations, leurs cheminements singuliers?
 
@@ -638,7 +638,7 @@ L’atelier Biblio Remix portait sur le volet pédagogique de la bibliothèque, 
 
 Au cours de cet atelier, nous étions invité.e.s à retracer le parcours qui est le nôtre lorsque nous faisons une recherche à la bibliothèque, en matérialisant notre cheminement à l’aide de fiches perforées, de fils et de tubes pour les relier. La diversité des entrées s’est avérée remarquable : l’une cherche par mots-clés dans des moteurs de recherche informatiques, l’autre au cours de flâneries entre les rayonnages, un troisième adresse directement ses demandes au personnel -- chaque usage invente sa propre technique !
 
-*Quelques questions et propositions émergent de l’expérience : *
+*Quelques questions et propositions émergent de l’expérience :*
 
 -  Peut-on imaginer une formation qui parte des besoins et des habitudes déjà ancrées des lecteurs et des lectrices ?
 -  Est-il vraiment possible (et souhaitable) de personnaliser chaque parcours d’apprentissage ou faut-il considérer qu’il est aussi important de s’intéresser à quelque chose qui ne part pas de soi ?
@@ -646,7 +646,7 @@ Au cours de cet atelier, nous étions invité.e.s à retracer le parcours qui es
 -  Comment enseigner que chaque recherche suppose l’élaboration d’une langue particulière, le choix de mots spécifiques et d’une grammaire singulière ?
 -  Pourrait-on fabriquer un livre qui contiendrait un dé (à reformer soi-même à partir d’une page à découper, par exemple), des cartes à jouer (indiquant des défis ou des choses à faire), et aussi un plateau (qui se déplierait dans le rabat de la couverture) ?
 
-> Une idée récurrente se dégage de cet atelier comme d'autres discussions (voir ci-dessous le prototype d'objet 11 $) : pourquoi ne pas élaborer une espèce de jeu dont vous êtes le héros, avec des étapes qui seraient laissées à l'invention des joueurs à mesure de leur avancée et des rôles qui seraient interchangeables (on pourrait par exemple passer de "Prof" à "étudiante" ou "administrateur" et inversement) ? Cette même idée inspirera aussi l'une des lectures possibles de l'ouvrage que vous lisez!
+> Une idée récurrente se dégage de cet atelier comme d'autres discussions (voir le prototype d'objet 11 p.[](#objet-11)) : pourquoi ne pas élaborer une espèce de jeu dont vous êtes le héros, avec des étapes qui seraient laissées à l'invention des joueurs à mesure de leur avancée et des rôles qui seraient interchangeables (on pourrait par exemple passer de "Prof" à "étudiante" ou "administrateur" et inversement) ? Cette même idée inspirera aussi l'une des lectures possibles de l'ouvrage que vous lisez!
 
 ***
 
@@ -656,35 +656,35 @@ Au cours de cet atelier, nous étions invité.e.s à retracer le parcours qui es
 Atelier pensé et animé par Maud
 ~~~
 
-**Durée : ** 20 - 30 min
+**Durée :** 20 - 30 min
 
-**Nombre de participant.e.s : ** de 3 à 10
+**Nombre de participant.e.s :** de 3 à 10
 
-**Préparation : **
+**Préparation :**
 Préparer des cartes :
 - trois cartes : +1, +2, +3
 - deux cartes : -1, -2, -3
 - une carte : retour à la case départ, immobilisation et arrivée
 
-**Matériel nécessaire : ** feuilles A4, feutres
+**Matériel nécessaire :** feuilles A4, feutres
 
-**Désir : ** Comment évoquer succès et échecs dans un parcours d’études ? Le jeu de l’oie matérialise ce parcours, dans lequel les joueurs jouent les pions. L’approche ludique permet à chacun de se poser des questions qu’il n’aurait pas su aborder autrement.
+**Désir :** Comment évoquer succès et échecs dans un parcours d’études ? Le jeu de l’oie matérialise ce parcours, dans lequel les joueurs jouent les pions. L’approche ludique permet à chacun de se poser des questions qu’il n’aurait pas su aborder autrement.
 
-**Animation : ** Lorsque c’est son tour de jouer, le participant tire une carte au hasard +1, +2, +3, -1, -2, -3, retour à la case départ, immobilisation ou arrivée (ne mettre la carte *arrivée* dans le jeu qu’après 15 mn de jeu) et se déplace du nombre de cases indiqué. Il doit ensuite formuler ce qui dans son parcours l’a amené à avancer, plus ou moins, à stagner, à avoir l’impression ou l’envie de repartir à zéro.
+**Animation :** Lorsque c’est son tour de jouer, le participant tire une carte au hasard +1, +2, +3, -1, -2, -3, retour à la case départ, immobilisation ou arrivée (ne mettre la carte *arrivée* dans le jeu qu’après 15 mn de jeu) et se déplace du nombre de cases indiqué. Il doit ensuite formuler ce qui dans son parcours l’a amené à avancer, plus ou moins, à stagner, à avoir l’impression ou l’envie de repartir à zéro.
 La formulation orale des réponses permet à chacun d’avoir de nouvelles idées et d’éclairer des aspects de son cursus qu’il n’a pas envisagés, ou d’apprécier rétrospectivement l’impact d’une action. Toutes les réponses sont notées sur des fiches individuelles pour permettre une discussion ultérieure.
 Parce qu’Agilabil donne envie de créer, de nourrir les dispositifs, le jeu a évolué au fil de l’atelier :
 - Tracer des bifurcations dans le jeu pour casser l’aspect trop linéaire que peut prendre le parcours d’études sur le plateau de jeu.
 - Favoriser le changement de rôle, chaque joueur pouvant décider de devenir enseignant, étudiant étranger arrivant à Paris, pourquoi pas personnel administratif en charge des inscriptions, etc.
 - Faire des cases *saynètes* dans lesquelles le joueur doit résoudre un problème par le biais d’une mise en situation dialoguée.
 
-**Exemple : **
+**Exemple :**
 
 - rôle principal : enseignant
 - rôle secondaire : élève.
 
 Les élèves ne lisent jamais les extraits qu’on leur demande de lire. Comment faire pour les inciter à le faire ?
 
-**Note : ** Au cours de l’atelier, le jeu est passé d’une proposition simple à un dispositif complexe permettant une individualisation des parcours, une meilleure prise en compte du faisceau d’impératifs personnels, sociaux et professionnels dans lesquels nous agissons, et une meilleure interactivité dans la façon d’aborder les problèmes, et les succès.
+**Note :** Au cours de l’atelier, le jeu est passé d’une proposition simple à un dispositif complexe permettant une individualisation des parcours, une meilleure prise en compte du faisceau d’impératifs personnels, sociaux et professionnels dans lesquels nous agissons, et une meilleure interactivité dans la façon d’aborder les problèmes, et les succès.
 
 **Retour sur atelier « jeu de l’oie » de Maud par Adèle F.**
 
@@ -729,17 +729,17 @@ On commence la deuxième journée du weekend d’incubation avec un atelier ludi
 Atelier pensé et animé par Pierre
 ~~~
 
-**Durée : ** 1h30
+**Durée :** 1h30
 
-**Nombre de participant(e)s : ** groupes de 3 ou 4
+**Nombre de participant(e)s :** groupes de 3 ou 4
 
-**Préparation : ** Installer la caméra pointant à la verticale vers le bas, filmant une aire de jeu d’environ 60 cm x 40cm. Sur cette aire de jeu, disposer les formes libres, les manipuler, les nommer en écrivant un mot sur chacune.
+**Préparation :** Installer la caméra pointant à la verticale vers le bas, filmant une aire de jeu d’environ 60 cm x 40cm. Sur cette aire de jeu, disposer les formes libres, les manipuler, les nommer en écrivant un mot sur chacune.
 
-**Matériel nécessaire : ** formes libres découpées dans du papier cartonné, caméra sur banc-titre (vue vers le sol), aire de jeu.
+**Matériel nécessaire :** formes libres découpées dans du papier cartonné, caméra sur banc-titre (vue vers le sol), aire de jeu.
 
-**Désir : ** Représenter son université idéale. Idéale au moment de l’atelier, avec l’imaginaire de chacun.e, sans obligation de consensus. Rechercher par petits bouts : chacun.e ou chaque groupe fait émerger un élément de son université idéale, sans se soucier de cohérence ni de faisabilité immédiate.
+**Désir :** Représenter son université idéale. Idéale au moment de l’atelier, avec l’imaginaire de chacun.e, sans obligation de consensus. Rechercher par petits bouts : chacun.e ou chaque groupe fait émerger un élément de son université idéale, sans se soucier de cohérence ni de faisabilité immédiate.
 
-**Animation : ** Chaque groupe décrit une caractéristique de son université idéale : un fonctionnement, un principe pédagogique, un système de notation, un organe, un conseil, une économie, ou toute autre chose qu’il serait possible de concrètement mettre en place (c’est-à-dire des actions, pas des idées vagues, mais sans qu’il soit question de leurs faisabilités immédiates). Pour cette description le groupe dispose d’une série de formes abstraites, chacune nommée ou non par un mot inscrit dessus, et le dispositif de prise de vue et d’enregistrement sonore préalablement mis en place. Les formes sont déplacées avec les mains sous l’œil de la caméra pendant qu’une personne du groupe les anime et les présente en voix off. Le groupe a 30 minutes pour préparer une présentation de 2 minutes.
+**Animation :** Chaque groupe décrit une caractéristique de son université idéale : un fonctionnement, un principe pédagogique, un système de notation, un organe, un conseil, une économie, ou toute autre chose qu’il serait possible de concrètement mettre en place (c’est-à-dire des actions, pas des idées vagues, mais sans qu’il soit question de leurs faisabilités immédiates). Pour cette description le groupe dispose d’une série de formes abstraites, chacune nommée ou non par un mot inscrit dessus, et le dispositif de prise de vue et d’enregistrement sonore préalablement mis en place. Les formes sont déplacées avec les mains sous l’œil de la caméra pendant qu’une personne du groupe les anime et les présente en voix off. Le groupe a 30 minutes pour préparer une présentation de 2 minutes.
 
 **Retour sur atelier « l’Université idéale » de Pierre par Hyacinthe**
 
@@ -767,7 +767,7 @@ Un cercle matinal qu’on tourne pour se donner un programme, pour prendre conta
 
 Des fiches plastiques insérables, construites en forme de cube, pour jouer à (ré)organiser un concept à partir de différents points de départ pour des *scenarii* différents.
 
-**Inspiration : ** L’atelier « biblioremix »
+**Inspiration :** L’atelier « biblioremix »
 
 ###### Objet 3 — Cube pour imaginer l’université idéale
 
@@ -775,7 +775,7 @@ Des fiches plastiques insérables, construites en forme de cube, pour jouer à (
 
 Voici une idée simple pour écouter et rassembler les idées des étudiants et leurs propositions pour construire leur université idéale et... réalisable. Fabriquer un gros cube de couleur en carton solide ou avec une imprimante 3D. Sur chacune des six faces inscrire le nom d’un domaine. Exemples : le site d’un campus, une université lieu de vie, études et travail, une pédagogie interactive, travaux de groupes et enseignement sur projets, du matériel moderne et professionnel, etc. Dans un groupe, chacun lance ce cube (ou dé) et doit ensuite réfléchir à une proposition pour alimenter le domaine sur lequel son cube est tombé.
 
-**Par exemple : **
+**Par exemple :**
 *Qu’est-ce qu’un campus vert ? *
 - un bel espace arboré où l’on a envie de courir, marcher, lire, observer la nature...
 - un espace où l’on peut faire du sport
@@ -790,7 +790,7 @@ Quand tout le groupe a formulé une proposition, on peut le solliciter à nouvea
 
 Classeur de fiches conseils et astuces à utiliser par les étudiants qui veulent faire une prestation orale (jury, exposé, conférence...) pour expérimenter différentes techniques de communication.
 
-**Inspiration : ** jeu de microfiches réalisé par l’Acfas et disponible à l’adresse <https://www.facebook.com/pg/Acfas/photos/?tab=album&album_id=10152689449467808>
+**Inspiration :** jeu de microfiches réalisé par l’Acfas et disponible à l’adresse <https://www.facebook.com/pg/Acfas/photos/?tab=album&album_id=10152689449467808>
 
 ###### Objet 5 — Jeu participatif
 
@@ -800,7 +800,7 @@ Boule de pâte à modeler — « modeler l’université » — jeu à deux bas�
 3. on (d)écrit l’objet
 4. phase de confrontation
 
-**Inspiration : ** L’atelier « one to one »
+**Inspiration :** L’atelier « one to one »
 
 ###### Objet 6 — boîte à œufs
 
@@ -821,7 +821,7 @@ Objet sympathique pour aider à revenir de manière plaisante sur quelque chose 
 
 Filtres de différentes couleurs à appliquer sur les copies qui peuvent être lues selon différents points de vue/filtres. Il s’agit de confronter les différentes perceptions que l’on a sur cette même copie. Cela pourrait aider à transformer la restitution des copies en occasion de revenir sur ses erreurs et non plus seulement comme le résultat d’une évaluation.
 
-**Inspiration : ** le petit livre de la « Cimade » disponible en ligne : <http://www.polysemique.fr/project/decryptages-cimade>
+**Inspiration :** le petit livre de la « Cimade » disponible en ligne : <http://www.polysemique.fr/project/decryptages-cimade>
 
 ###### Objet 9 — Jeu pour se rejoindre (type marelle)
 
@@ -837,15 +837,15 @@ Dé à faces rouges et blanches pour apprendre la perception que les autres ont 
 
 ###### Objet 11 — Attirail du héros à changement de point de vue
 
-**Description : **
+**Description :**
 Deux objets corrélés :
 1. Masque recto-verso (bicolore mais aux rôles non-identifiés) qui permet de changer de point de vue pour affronter un problème (par exemple : se poser la même question en tant qu’administratif et en tant qu’étudiante)
 2. Livre dont vous êtes le héros
 On commence par une épreuve du type « je dois faire un devoir en temps limité ».
 Cela mène à une page du livre. Là on peut choisir de porter le masque soit d’un côté soit de l’autre pour résoudre le problème et avancer dans la quête.
 
-**But : ** Faire émerger des problèmes renouvelés selon la perspective adoptée
-**Principe : ** La résolution d’un problème peut se trouver enrichie par l’adoption d’une autre perspective. Plus encore, c’est le problème lui-même qui se reconfigure, rappelant qu’une partie de la solution réside souvent dans la manière même dont on construit la problématique.
+**But :** Faire émerger des problèmes renouvelés selon la perspective adoptée
+**Principe :** La résolution d’un problème peut se trouver enrichie par l’adoption d’une autre perspective. Plus encore, c’est le problème lui-même qui se reconfigure, rappelant qu’une partie de la solution réside souvent dans la manière même dont on construit la problématique.
 
 <div class="chemin voie-b" markdown="1">Pour suivre le processus de réflexion quant à l’élaboration de la *mallette*, reportez-vous à la fin du premier weekend d’incubation [B5](#B5)</div>
 
@@ -955,20 +955,20 @@ Pour l’atelier d’Auguste, nous devions partager des objets pédagogiques par
 Atelier pensé et animé par Margaux
 ~~~
 
-**Durée : ** 2 mois pour l’apprentissage, 1h pour la restitution et l’atelier
+**Durée :** 2 mois pour l’apprentissage, 1h pour la restitution et l’atelier
 
-**Nombre de participant.e.s : ** max 20
+**Nombre de participant.e.s :** max 20
 
-**Préparation : ** Apporter une liste de thématiques pour l’apprentissage, à distribuer de manière aléatoire le jour de la première rencontre.
+**Préparation :** Apporter une liste de thématiques pour l’apprentissage, à distribuer de manière aléatoire le jour de la première rencontre.
 
-**Désir : ** Documenter une expérience d’apprentissage déployée sur deux mois.
+**Désir :** Documenter une expérience d’apprentissage déployée sur deux mois.
 Il s’agit d’apprendre par cœur une suite complexe de noms autour de thématiques qui ne sont pas en lien avec nos intérêts habituels.
 Avec cette contrainte, il s’agira de tenir un journal où rapporter et documenter, au long des semaines, son processus d’apprentissage, ses méthodes, son implication émotionnelle (découragement, persévérance, facilité, difficultés rencontrées et solutions trouvées).
 
-**Animation : ** Une fois par semaine, il est demandé à chaque participant de faire un rapide compte-rendu (écrit, vidéo, dessin, etc.) de cette expérience. Cette assiduité nous permettra d’observer les évolutions de nos méthodes et de nos implications émotionnelles sur une période de deux mois environ.
+**Animation :** Une fois par semaine, il est demandé à chaque participant de faire un rapide compte-rendu (écrit, vidéo, dessin, etc.) de cette expérience. Cette assiduité nous permettra d’observer les évolutions de nos méthodes et de nos implications émotionnelles sur une période de deux mois environ.
 Les participants découvrent les thématiques lors du premier séjour en incubateur. Chacun doit tirer au sort une liste thématique à apprendre en utilisant les moyens, les méthodes de son propre choix.
 
-**Échéance : ** Lors de notre second séjour en incubateur 2 mois plus tard, le participant devra faire une restitution qui consistera à expliquer sa/ses méthodes d’apprentissage(s), à raconter son expérience et à réciter la liste qu’il devait apprendre.
+**Échéance :** Lors de notre second séjour en incubateur 2 mois plus tard, le participant devra faire une restitution qui consistera à expliquer sa/ses méthodes d’apprentissage(s), à raconter son expérience et à réciter la liste qu’il devait apprendre.
 
 > Cette expérience est l'occasion d'observer si nos discussions dans le cadre d'Agilabil changent ou ne changent pas nos appréhensions d'apprentissages, nos comportements d'apprenants, nos émotions vis à vis de l'apprentissage, etc.
 
@@ -1017,7 +1017,7 @@ Cet atelier suscite un vif débat sur la place de l’apprentissage *par cœur* 
 - L’apprentissage rapide grâce à des phrases mnémotechniques est-il efficace et opérationnel ?
 - Doit-on apprendre pour apprendre ou apprendre pour connaître ?
 
-**Idée de poursuite et de développement de l’atelier : ** Donner le même sujet à plusieurs personnes afin de voir les différences et similitudes sur les apprentissages.
+**Idée de poursuite et de développement de l’atelier :** Donner le même sujet à plusieurs personnes afin de voir les différences et similitudes sur les apprentissages.
 
 **Retour sur l’atelier « Mémoire » de Margaux par Éva**
 
@@ -1033,19 +1033,19 @@ Il est ressorti de cette expérimentation que ceux pour qui le *par cœur* étai
 Atelier pensé et animé par Auguste
 ~~~
 
-**Durée : ** 1ère phase : 55 minutes / seconde phase : 45 minutes
+**Durée :** 1ère phase : 55 minutes / seconde phase : 45 minutes
 
-**Nombre de participant.e.s : ** 20 participants maximum, divisés en groupe de 4.
+**Nombre de participant.e.s :** 20 participants maximum, divisés en groupe de 4.
 
-**Préparation : ** Quelques jours avant le premier atelier, lors d’une pré-rencontre ou par mail, demander à chacun des participants de réfléchir à une problématique pédagogique l’intéressant particulièrement. Cette problématique peut-être d’ordre réflexive (manière de penser un programme) et/ou pratique (manière de gérer une activité).
+**Préparation :** Quelques jours avant le premier atelier, lors d’une pré-rencontre ou par mail, demander à chacun des participants de réfléchir à une problématique pédagogique l’intéressant particulièrement. Cette problématique peut-être d’ordre réflexive (manière de penser un programme) et/ou pratique (manière de gérer une activité).
 
-**Matériel nécessaire : ** papier, stylo, chronomètre, chaises.
+**Matériel nécessaire :** papier, stylo, chronomètre, chaises.
 
-**Désir : ** Comprendre en quoi nos expériences personnelles peuvent offrir un nouvel angle d’approche aux problématiques des autres.
+**Désir :** Comprendre en quoi nos expériences personnelles peuvent offrir un nouvel angle d’approche aux problématiques des autres.
 
-**Animation : ** L’atelier se déroule en deux phases à plusieurs semaines d’intervalles.
+**Animation :** L’atelier se déroule en deux phases à plusieurs semaines d’intervalles.
 
-**Première phase de l’atelier : **
+**Première phase de l’atelier :**
 
 - Chaque participant se définit en un mot, et tente de retenir comment les autres se définissent.
 - Des groupes de 4 se forment, réunissant les personnes dont les mots sont les plus éloignés au niveau du sens.
@@ -1054,7 +1054,7 @@ Atelier pensé et animé par Auguste
 - C’est pendant le temps qui sépare la première de la seconde phase de l’atelier que chaque participant s’approprie la problématique choisie afin d’y trouver une solution concrète, un dispositif matériel ou immatériel.
 - Une plateforme (sur internet par exemple) peut être mise en place afin de poster les « objets » des réponses aux problèmes pédagogiques posés.
 
-**Seconde phase de l’atelier : **
+**Seconde phase de l’atelier :**
 
 - Le groupe entier se réunit en cercle.
 - Chaque membre de l’atelier présente son dispositif (objet) matériel ou immatériel.
@@ -1082,21 +1082,21 @@ Nous sommes déjà en milieu d’après-midi. Le projet *mallette* prend une nou
 
 <a id="C8">C8</a>
 
-**Durée : ** 1h
+**Durée :** 1h
 
-**Nombre de participant.e.s : ** 4 groupes de 5 personnes
+**Nombre de participant.e.s :** 4 groupes de 5 personnes
 
-**Préparation : ** Nous avons pensé l’atelier autour d’un bon thé chez Adèle. On a beaucoup rigolé et échangé des histoires de nos vies et de nos réactions face au stress dans différentes situations.
+**Préparation :** Nous avons pensé l’atelier autour d’un bon thé chez Adèle. On a beaucoup rigolé et échangé des histoires de nos vies et de nos réactions face au stress dans différentes situations.
 
-**Matériel nécessaire : ** un espace par groupe, et autant de papier, carton, scotch, feutres, peinture, fil de fer, mousse, gommettes, plumes, polystyrène, pâte à modeler... que possible
+**Matériel nécessaire :** un espace par groupe, et autant de papier, carton, scotch, feutres, peinture, fil de fer, mousse, gommettes, plumes, polystyrène, pâte à modeler... que possible
 
-**Désir : ** Notre souhait était que chacun d’entre nous puisse réfléchir à la thématique du stress. Ce sujet particulièrement important pour nous fait écho à une difficulté que nous avons du mal à gérer au quotidien et dans le contexte scolaire.
+**Désir :** Notre souhait était que chacun d’entre nous puisse réfléchir à la thématique du stress. Ce sujet particulièrement important pour nous fait écho à une difficulté que nous avons du mal à gérer au quotidien et dans le contexte scolaire.
 
-**Animation : ** L’atelier a pour but la création d’un objet « antistress ». Nous avons formé des groupes de deux ou trois. Chaque personne a réfléchi un long moment à ses expériences de stress et aux stratégies pour s’en débarrasser, l’aimer, le transformer ou le sublimer. Ces réflexions ont été suivies d’une création d’objets dans chaque groupe.
+**Animation :** L’atelier a pour but la création d’un objet « antistress ». Nous avons formé des groupes de deux ou trois. Chaque personne a réfléchi un long moment à ses expériences de stress et aux stratégies pour s’en débarrasser, l’aimer, le transformer ou le sublimer. Ces réflexions ont été suivies d’une création d’objets dans chaque groupe.
 
 <div class="chemin voie-c" markdown="1">Pour voir l’objet antistress phare qui est sorti de cet atelier, passez directement page [C9](#C9)</div>
 
-**Les objets créés lors de l’atelier : **
+**Les objets créés lors de l’atelier :**
 
 **Comment peut-on... prévenir le stress**
 Enlever le filtre du stress. Voir la vie en rose. Mettre une vraie paire de lunettes avec des verres roses. Comme il s’agit de prévenir le stress, faut-il porter les lunettes en permanence ?
@@ -1157,17 +1157,17 @@ Une partie d’entre nous commencera la journée avec l’atelier sur les consig
 Atelier pensé et animé par Juliette
 ~~~
 
-**Durée : ** 1h30
+**Durée :** 1h30
 
-**Nombre de participant.e.s : ** jusqu’à 10
+**Nombre de participant.e.s :** jusqu’à 10
 
-**Préparation : ** recherche de divers exercices avec des consignes difficiles ou particulières.
+**Préparation :** recherche de divers exercices avec des consignes difficiles ou particulières.
 
-**Matériel nécessaire : ** photocopies des consignes à distribuer au début de l’atelier.
+**Matériel nécessaire :** photocopies des consignes à distribuer au début de l’atelier.
 
-**Désir : ** Cet atelier a pour objectif de trouver un moyen d’aider les apprenants à comprendre les différentes consignes qu’ils rencontrent et les professeur.e.s sur la manière qu’ont les apprenants de les comprendre.
+**Désir :** Cet atelier a pour objectif de trouver un moyen d’aider les apprenants à comprendre les différentes consignes qu’ils rencontrent et les professeur.e.s sur la manière qu’ont les apprenants de les comprendre.
 
-**Animation : ** Trois groupes sont formés. Chaque groupe se voit distribuer un énoncé du type :
+**Animation :** Trois groupes sont formés. Chaque groupe se voit distribuer un énoncé du type :
 
 - Objet numéro 1 : Exercice de logique (répondre à une consigne)
 - Objet numéro 2 : Rubik’s cube (comprendre une consigne)
@@ -1183,7 +1183,7 @@ C’était très intéressant, car on peut voir que selon nos habitudes on peut 
 
 **Par exemple, l’énigme du Rubik’s cube**
 
-**Le défi : ** comprendre le fonctionnement du Rubik’s cube à partir de la notice fournie avec l’objet. Deux esprits dynamiques relèvent le défi, mais doivent s’avouer vaincus devant l’hermétisme du document pourtant destiné à de jeunes élèves... Juliette nous fournit un document bien plus explicite, traduit en langage mathématique.
+**Le défi :** comprendre le fonctionnement du Rubik’s cube à partir de la notice fournie avec l’objet. Deux esprits dynamiques relèvent le défi, mais doivent s’avouer vaincus devant l’hermétisme du document pourtant destiné à de jeunes élèves... Juliette nous fournit un document bien plus explicite, traduit en langage mathématique.
 
 <div class="encart" markdown="1">
 C’est dans l’après-midi, entre deux, trois, même quatre moments *mallette* que prendront place le défi marshmallow, la présentation de Samuel et l’atelier *feedback* pour conclure notre dimanche.
@@ -1199,17 +1199,17 @@ C’est dans l’après-midi, entre deux, trois, même quatre moments *mallette*
 Atelier pensé et animé par Dorothée
 ~~~
 
-**Durée : ** 40 min (5 min d’explication, 17 min d’activité, environ 15 min de restitution)
+**Durée :** 40 min (5 min d’explication, 17 min d’activité, environ 15 min de restitution)
 
-**Nombre de participant.e.s : ** minimum 10, pas de maximum, il faut être idéalement pas plus de 5 par équipe.
+**Nombre de participant.e.s :** minimum 10, pas de maximum, il faut être idéalement pas plus de 5 par équipe.
 
-**Préparation : ** préparer les enveloppes pour chaque équipe. Préparer un chronomètre que tout le monde verra. Repartir les équipes sur des tables distinctes. Avoir un mètre enrouleur pour mesurer les hauteurs de tour à la fin.
+**Préparation :** préparer les enveloppes pour chaque équipe. Préparer un chronomètre que tout le monde verra. Repartir les équipes sur des tables distinctes. Avoir un mètre enrouleur pour mesurer les hauteurs de tour à la fin.
 
-**Matériel nécessaire : ** par équipe, il faut dans une enveloppe un marshmallow, 20 spaghettis crus, 1 m de ficelle, 1 m de scotch, et une paire de ciseaux.
+**Matériel nécessaire :** par équipe, il faut dans une enveloppe un marshmallow, 20 spaghettis crus, 1 m de ficelle, 1 m de scotch, et une paire de ciseaux.
 
-**Désir : ** voir le contraste qui naît entre la tension émotionnelle grandissante et l’objet très artisanal à produire.
+**Désir :** voir le contraste qui naît entre la tension émotionnelle grandissante et l’objet très artisanal à produire.
 
-**Animation : ** Donner la consigne : construire la tour la plus haute possible avec le matériel donné, sachant que la tour doit tenir toute seule, sans aide, posée sur table, et qu’elle doit avoir à son sommet le marshmallow.
+**Animation :** Donner la consigne : construire la tour la plus haute possible avec le matériel donné, sachant que la tour doit tenir toute seule, sans aide, posée sur table, et qu’elle doit avoir à son sommet le marshmallow.
 Imposer aux équipes un strict respect du temps. Annoncer le décompte régulièrement, encourager et prendre des notes de ses observations. Discuter à la fin pour demander le ressenti aux équipes et à chacun (comment il s’est senti, s’il a contribué ou non), et si les équipes sont satisfaites du résultat, ce qu’elles auraient pu faire différemment.
 
 <div class="chemin voie-c" markdown="1"> Pour avoir un aperçu du défi en image, passez directement page [C7](#C7)</div>
@@ -1273,15 +1273,15 @@ Atelier pensé et animé par Cécile et Emma
 
 Méthode de feedback *DasArts* utilisée dans le spectacle vivant, adaptée dans ce cadre au fonctionnement de l’université.
 
-**Durée : ** 1 heure + 10 minutes d’explications
+**Durée :** 1 heure + 10 minutes d’explications
 
-**Nombre de participant.e.s : ** tout le monde !
+**Nombre de participant.e.s :** tout le monde !
 
-**Préparation : ** Repenser la structure de la méthode de feedback *DasArts* en fonction du contexte dans lequel on veut l’utiliser. Penser quels sont les modules les plus adéquats.
+**Préparation :** Repenser la structure de la méthode de feedback *DasArts* en fonction du contexte dans lequel on veut l’utiliser. Penser quels sont les modules les plus adéquats.
 
-**Matériel nécessaire : ** Un flipchart (chevalet de conférence) + 5/6 feuilles A0 + un marqueur
+**Matériel nécessaire :** Un flipchart (chevalet de conférence) + 5/6 feuilles A0 + un marqueur
 
-**Animation : ** Une personne doit être en charge de l’atelier, organise la prise de parole et prend des notes sur le flipchart.
+**Animation :** Une personne doit être en charge de l’atelier, organise la prise de parole et prend des notes sur le flipchart.
 
 **Première partie : le sujet — durée : 10 min**
 
@@ -1293,17 +1293,17 @@ Discussion par groupe de 2 sur cette présentation, ce qui a été dit, échange
 
 La personne ayant présenté s’éloigne des groupes de discussion afin de ne pas limiter la liberté de leurs échanges.
 
-**Troisième partie : **
+**Troisième partie :**
 
 Différents modules sont proposés par la personne en charge de l’atelier, chaque module dure environ 10 minutes. Une nouvelle feuille est utilisée pour chaque module sur laquelle le modérateur prend des notes. Les participants sont assis en cercle. Tous les modules n’ont pas à être utilisés, certains modules ont plus de sens en fonction du stade de développement de la recherche.
 
-**Règles générales : **
+**Règles générales :**
 
 - Les idées exprimées doivent être synthétiques et aller droit au but (afin de pouvoir être notées en une ligne par le modérateur)
 - Afin d’éviter les répétitions, si un membre du groupe partage l’avis exprimé par une autre personne, il lève la main et modérateur écrit le nombre de +1 à côté de la proposition.
 - Le but de cette méthode est d’aider la personne qui a présenté à avancer dans sa réflexion et non pas d’essayer de la mettre en difficulté. Le feedback est comme un cadeau, ce qui ne doit pas empêcher d’être critique, mais la critique doit être constructive.
 
-**Liste des différents modules possibles : **
+**Liste des différents modules possibles :**
 
 1. Feedback affirmatif
 Chaque avis doit commencer par « Ce qui fonctionne pour moi c’est... »
@@ -1555,7 +1555,7 @@ Rancière Jacques, *Le Maître ignorant : cinq leçons sur l’émancipation int
 
 Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratiques collectives*, Paris, Les Prairies ordinaires, 2011 [2007].
 
-**Sources d’inspiration pour les outils à développer et expériences déjà menées : **
+**Sources d’inspiration pour les outils à développer et expériences déjà menées :**
 
 -   <http://www.surgissantes.com/>
 -   <http://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?artist=2>
