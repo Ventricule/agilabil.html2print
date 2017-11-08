@@ -112,7 +112,7 @@ article, .page {
 		border-bottom: 0pt solid;
 		font-size: 10pt;
 		text-decoration: underline;
-		word-break: break-all ;
+		word-wrap: break-word ;
 	}
 
 	blockquote {
@@ -215,20 +215,36 @@ article, .page {
 		background-color: #fff;
 	}
 
-	&.atelier:nth-child(odd) .page {
-		background: linear-gradient(to right, yellow 0%, white 20%);
+	&.atelier {
+		.page::before {
+			content: " ";
+			position: absolute;
+			top: -5mm;
+			bottom: -5mm;
+			left: -5mm;
+			right: -5mm;
+		}
+
+		&:nth-child(odd) .page::before {
+			background: linear-gradient(to right, yellow 5mm, white 20%);
+		}
+
+		&:nth-child(even) .page::before {
+			background: linear-gradient(to left, yellow 5mm, white 20%);
+		}
+
 	}
 
-	&.atelier:nth-child(even) .page {
-		background: linear-gradient(to left, yellow 0%, white 20%);
-	}
-
-	&.chapitre:nth-child(odd) .page {
-		background: yellow;
-	}
-
-	&.chapitre:nth-child(even) .page {
-		background: yellow;
+	&.chapitre {
+		.page::before {
+			content: " ";
+			position: absolute;
+			top: -5mm;
+			bottom: -5mm;
+			left: -5mm;
+			right: -5mm;
+			background: yellow;
+		}
 	}
 
 	&.chapitre .footer {

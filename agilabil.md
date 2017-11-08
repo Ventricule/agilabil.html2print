@@ -72,7 +72,7 @@ Par ailleurs, les financements de l’Université et de la recherche sont aujour
 Amorcée par un noyau initial composée de collègues et d’étudiant.e.s membres d’USPC, la constitution de l’équipe se fait par la diffusion d’un appel à candidatures (au début de l’année universitaire 2015-2016) qui invite à rejoindre le projet et à continuer de l’élaborer ensemble. Cet appel est l’occasion de préciser les objectifs du projet, tout en les gardant ouverts et... agiles.
 
 Les étudiant.es qui ont répondu à l’appel mettent en lumière leurs difficultés liées à l’apprentissage et les solutions qu’ils ont inventées. Ils et elles expriment leurs intérêts quant à l’expérience Agilabil, partageant une même curiosité pour les diverses formes de pédagogies.
-a
+
 <div class="encart" markdown="1">
 **Appel** : Fragments de textes provenant de l’appel à candidature ou des mails échangés lors de sa rédaction
 **Réponses** : Fragments de textes provenant des réponses formulées par les étudiants
@@ -167,7 +167,7 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 #### J’abstrais le _
 
-<div class="surtitre" markdown="1">(aussi appelé "La boîte à œuf")</div>
+<div class="surtitre" markdown="1">(aussi appelé « La boîte à œuf »)</div>
 
 *Qu’il soit plat ou brouillé,*
 *monde clôt ou éclot,*
@@ -193,7 +193,7 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 #### J’imagine les_
 
-<div class="surtitre" markdown="1">(aussi appelé "Les images reliées entre elles")</div>
+<div class="surtitre" markdown="1">(aussi appelé « Les images reliées entre elles »)</div>
 
 *J’accueille une image*
 *au creux de ma main*
@@ -218,7 +218,7 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 #### J’apprivoise le_
 
-<div class="surtitre" markdown="1">(aussi appelé "le genre de rumixcube")</div>
+<div class="surtitre" markdown="1">(aussi appelé « le genre de rumixcube »)</div>
 
 *À l’université*
 *on parle* universitairien.
@@ -244,7 +244,7 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 
 #### Je bâtis avec_
 
-<div class="surtitre" markdown="1">(aussi appelé "Le jeu de construction")</div>
+<div class="surtitre" markdown="1">(aussi appelé « Le jeu de construction »)</div>
 
 *On construit,*
 *on fabrique,*
@@ -422,7 +422,7 @@ Pour préparer cette résidence de recherche-action-création, nous avons imagin
 
 Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapidement nous mettons les pieds dans le plat avec la première étape de l’atelier mobile d’Adèle G. (pour plus de détails sur le fonctionnement de cet atelier voir page [](#l-image-en)). Il est tôt et il fait froid, mais aussi tellement beau ! L’endroit a des airs de colonie de vacances : un lieu magnifique, des chambres qui sont hospitalières, le café aussi.
 
-À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé un atelier pour (re)prendre contact, nous guident de station en station (voir page [](#one-to-one) pour avoir un aperçu de l’atelier *One to one*)
+À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé un atelier pour (re)prendre contact, nous guident de station en station (voir page [](#one-to) pour avoir un aperçu de l’atelier *One to one*)
 
 #### Ateliers
 
@@ -458,7 +458,7 @@ Atelier pensé et animé par Cécile et Emma
 
 *1) Regarde-moi te regarder* : Placez-vous l’un en face de l’autre (idéalement sur deux chaises installées à cet effet) et regardez-vous dans les yeux pendant approximativement 4 min.
 
-*2) « Lie to me baby »* : Présentez-vous sans dire la vérité. Soyez audacieux, mentez à votre propos sans gêne ! Une personne parle pendant que l’autre écoute et vice versa.
+*2) Lie to me baby* : Présentez-vous sans dire la vérité. Soyez audacieux, mentez à votre propos sans gêne ! Une personne parle pendant que l’autre écoute et vice versa.
 
 <div class="chemin voie-c" markdown="1">Pour être les témoins d’une pensée en mouvement, qui offre parfois à lire une idée et plus tard son contraire, passez directement page [C3](#C3)</div>
 
@@ -646,7 +646,7 @@ Au cours de cet atelier, nous étions invité.e.s à retracer le parcours qui es
 -  Comment enseigner que chaque recherche suppose l’élaboration d’une langue particulière, le choix de mots spécifiques et d’une grammaire singulière ?
 -  Pourrait-on fabriquer un livre qui contiendrait un dé (à reformer soi-même à partir d’une page à découper, par exemple), des cartes à jouer (indiquant des défis ou des choses à faire), et aussi un plateau (qui se déplierait dans le rabat de la couverture) ?
 
-> Une idée récurrente se dégage de cet atelier comme d'autres discussions (voir le prototype d'objet 11 p.[](#objet-11)) : pourquoi ne pas élaborer une espèce de jeu dont vous êtes le héros, avec des étapes qui seraient laissées à l'invention des joueurs à mesure de leur avancée et des rôles qui seraient interchangeables (on pourrait par exemple passer de "Prof" à "étudiante" ou "administrateur" et inversement) ? Cette même idée inspirera aussi l'une des lectures possibles de l'ouvrage que vous lisez!
+> Une idée récurrente se dégage de cet atelier comme d'autres discussions (voir le prototype d'objet 11 page [](#objet-11)) : pourquoi ne pas élaborer une espèce de jeu dont vous êtes le héros, avec des étapes qui seraient laissées à l'invention des joueurs à mesure de leur avancée et des rôles qui seraient interchangeables (on pourrait par exemple passer de "Prof" à "étudiante" ou "administrateur" et inversement) ? Cette même idée inspirera aussi l'une des lectures possibles de l'ouvrage que vous lisez!
 
 ***
 

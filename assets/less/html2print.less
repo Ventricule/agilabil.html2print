@@ -55,6 +55,7 @@
             top: 0;
             left: 0;
             pointer-events: none;
+            mix-blend-mode: multiply;
 
             div {
                 border-style: solid;
@@ -111,7 +112,6 @@
         height: @page-height;
         position: relative;
         box-sizing: border-box;
-        overflow: hidden;
         z-index: 0;
     }
 
@@ -128,6 +128,9 @@
         }
         .paper:first-child {
             margin-left: @page-width;
+        }
+        .page {
+          overflow: hidden;
         }
     }
 }
