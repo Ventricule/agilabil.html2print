@@ -1569,14 +1569,9 @@ Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratiqu
 
 <div class="ours" markdown="1">
 
-## Ours
+## livre.html
 
-Ce livre a été mis en page avec html2print, un outil du collectif Open Source Publishing. Il utilise quelque-uns des langages les plus courant sur internet : html, php, css, javascript et markdown. 
-Le contenu existe sous forme d'un fichier markdown.
-
-Le livre Agilalabil a été conçu avec des logiciels libres. Il a été mis en page dans un navigateur web et codé en HTML, CSS et javascript avec l’aide de l’outil HTML2print développé par le collectif Open Source Prublishing. Plutôt que de séparer la phase d’écriture et la phase de mise en page ce fonctionnement a permis de réaliser les deux en parallèle.
-Caractère distribué du web (feuille de style, contenu, structure)
-Les typographies utilisés...
+Dans la continuité des expériences sur les formes de travail à plusieurs, ce livre a été mis en page par Pierre Tandille avec html2print, un outil libre du collectif Open Source Publishing. Cet outil parti des langages et des outils conçu pour internet et les appliquent à l'imprimerie. Ainsi, le contenu du livre provient d'un document partagé sur classeur.io et la mise en page a été faite comme celle d'un site internet. L'ensemble de cette édition, le contenu comme la mise en page, est disponible sous forme de fichiers html, css, javascript et markdown sur github.com/Ventricule/agilabil.html2print.
 
 </div>
 
@@ -1609,7 +1604,7 @@ Les typographies utilisés...
 
 ![photo cahier dessins *mallette* et autre *mallettes*](assets/images/Cahier4.jpg)
 
-<div class="chemin voie-b" markdown="1">Pour avoir accès au concept final de la *mallette* Agilabil ainsi qu’à son mode de fonctionnement, passez directement page [B7](#B7)</div>
+<div class="chemin voie-b" markdown="1">Pour avoir accès au concept final de la *mallette* Agilabil ainsi qu’à son mode de fonctionnement, passez page [B7](#B7)</div>
 
 <a id="B8">B8</a>
 
