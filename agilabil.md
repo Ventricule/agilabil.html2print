@@ -579,6 +579,8 @@ Un horizon, cependant, avait été posé d’emblée : la réalisation d’une *
 
 > Au tout départ, j'imaginais de ne proposer aucun mode d'emploi dans la mallette, afin de laisser l'imagination entièrement libre et de susciter le débat. Mais il s'est avéré nécessaire de donner un point d'impulsion pour ne pas que la curiosité s'émousse face à trop de perplexité. Comme il est difficile de faire l'éprouve du doute sans conclure à l'échec ! Nous avons donc finalement décidé d'ajouter une puis plusieurs notices pour accompagner chaque objet, suggérant différents modes d'activation possibles. Petit à petit, la collection des énigmes s'est enrichie...
 
+***
+
 ##### Improvisation sur diapositives
 
 ~~~
