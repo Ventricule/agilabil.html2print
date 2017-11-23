@@ -1567,12 +1567,14 @@ Vercauteren David, *Micropolitiques des groupes. Pour une écologie des pratiqu
 -   <http://www.futur-en-seine.fr/fens2014/projet/eduhacktion-tv/>
 -   <http://pedagogieagile.com/>
 
-***
+<div class="ours" markdown="1">
 
 ## Ours
 Le livre Agilalabil a été conçu avec des logiciels libres. Il a été mis en page dans un navigateur web et codé en HTML, CSS et javascript avec l’aide de l’outil HTML2print développé par le collectif Open Source Prublishing. Plutôt que de séparer la phase d’écriture et la phase de mise en page ce fonctionnement a permis de réaliser les deux en parallèle.
 Caractère distribué du web (feuille de style, contenu, structure)
 Les typographies utilisés...
+
+</div>
 
 ***
 

@@ -186,11 +186,6 @@ article, .page {
 		overflow-wrap: break-word;
 	}
 
-	p.h2-livret-photo img {
-		width: 62mm;
-		margin-bottom: 7mm;
-	}
-
 	.full-page {
 		position: absolute;
 		top: 0;
@@ -360,10 +355,26 @@ article, .page {
 
 	}
 
-	p.h2-livret-photo {
+	// Livret photo
+	.chemin.h2-livret-photo {
+		padding: 0;
 		margin: 0;
+	}
 
+	.chemin.h2-livret-photo::before {
+		display: none;
+	}
+
+	h2.h2-livret-photo {
+		display: none;
+	}
+
+	p.h2-livret-photo {
+		margin: 5mm 0;
 		img {
+			margin: 0;
+			width: 62mm;
+			margin-bottom: 7mm;
 			max-height: 190mm;
 		}
 	}
@@ -445,6 +456,8 @@ article {
 	.chemin.voie-b::before { background-color: #0000bb; }
 	.chemin.voie-c { color: #04b22c; }
 	.chemin.voie-c::before { background-color: #04b22c; }
+
+
 
 	// le numéro de la page
 	a[href^="#"] {
