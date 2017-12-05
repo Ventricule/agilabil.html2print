@@ -45,13 +45,12 @@ $(function() {
 				// Cross-reference connections
 				$('#my-story a[href^="#"]').each(function(){
 						var anchor = $(this).attr('href').substr(1);
-						var target = $("#my-story [id^='" + anchor + "']");
+						var target = $("#my-story [id^='" + anchor + "']").parent();
 						var $this = $(this);
 						if(target.size()) {
 							// Get region by content
 							var region = flow.getRegionsByContent(target[0]);
 							var pagenum = $(region).closest('.paper').index() + 1;
-							//pagenum = pagenum.substr(5);
 							$this.html(pagenum);
 						}
 				});
@@ -88,14 +87,15 @@ $(function() {
 					page.find('.footer .chapter').html(chapter);
 				});
 
-				$('.paper:nth-child(n+21):nth-child(-n+35)').addClass('atelier');
+        // Particular page backgrounds
+				/*$('.paper:nth-child(n+21):nth-child(-n+35)').addClass('atelier');
 				$('.paper:nth-child(n+42):nth-child(-n+54)').addClass('atelier');
 
 				$('.paper:nth-child(13)').addClass('full-page');
 				$('.paper:nth-child(16)').addClass('full-page');
 
 				$('.paper:nth-child(17)').addClass('chapitre');
-				$('.paper:nth-child(39)').addClass('chapitre');
+				$('.paper:nth-child(39)').addClass('chapitre');*/
 
 			});
 

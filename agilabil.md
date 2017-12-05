@@ -67,22 +67,19 @@ Par ailleurs, les financements de l’Université et de la recherche sont aujour
 
 ***
 
-### L’écho des questions et des désirs : rencontre avec les étudiant.e.s
+### L’écho des questions et des désirs : <br> rencontre avec les étudiant.e.s
 
 Amorcée par un noyau initial composée de collègues et d’étudiant.e.s membres d’USPC, la constitution de l’équipe se fait par la diffusion d’un appel à candidatures (au début de l’année universitaire 2015-2016) qui invite à rejoindre le projet et à continuer de l’élaborer ensemble. Cet appel est l’occasion de préciser les objectifs du projet, tout en les gardant ouverts et... agiles.
 
 Les étudiant.es qui ont répondu à l’appel mettent en lumière leurs difficultés liées à l’apprentissage et les solutions qu’ils ont inventées. Ils et elles expriment leurs intérêts quant à l’expérience Agilabil, partageant une même curiosité pour les diverses formes de pédagogies.
 
+Fragments de textes provenant de l’appel à candidature ou des mails échangés lors de sa rédaction suivis des réponses formulées par les étudiants :
+
 <div class="encart" markdown="1">
-**Appel** : Fragments de textes provenant de l’appel à candidature ou des mails échangés lors de sa rédaction
-**Réponses** : Fragments de textes provenant des réponses formulées par les étudiants
+
+Avec l’Agilabil nous voulons formuler les problèmes pédagogiques et les transformer concrètement en source de solutions en partant de difficultés partagées et en procédant par étapes, avec l’idée que l’innovation consiste à faire advenir ce que nous ne sommes pas, précisément, encore en mesure de concevoir. Quelles difficultés rencontrez-vous dans vos apprentissages, comment avez-vous déjà essayé d’y remédier ? Est-ce que ça marche ?
+
 </div>
-
-**Appel :**
-
-« Avec l’Agilabil nous voulons formuler les problèmes pédagogiques et les transformer concrètement en source de solutions en partant de difficultés partagées et en procédant par étapes, avec l’idée que l’innovation consiste à faire advenir ce que nous ne sommes pas, précisément, encore en mesure de concevoir. Quelles difficultés rencontrez-vous dans vos apprentissages, comment avez-vous déjà essayé d’y remédier ? Est-ce que ça marche ? »
-
-**Réponses :**
 
 « J’ai toujours eu du mal à préparer des épreuves dans la seule optique de les réussir. J’entends par là le fait de suivre des cours conçus pour qu’on en retienne les leçons seulement en vue d’un examen. »
 
@@ -92,15 +89,18 @@ Les étudiant.es qui ont répondu à l’appel mettent en lumière leurs difficu
 
 « Mes plus grandes difficultés sont les questions que je me posais à chaque apprentissage : “À quoi ça sert ?” et aussi l’incompréhension face à l’énoncé d’un exercice. J’ai cherché à résoudre le premier problème, tout d’abord en cessant de me poser cette question, puis en arrêtant d’apprendre pour avoir de bonnes notes, mais plutôt pour le plaisir que j’avais à utiliser ces connaissances. Ce qui a engendré un nouveau problème : un ennui quand la matière ne m’intéresse pas. Le second problème me pose encore beaucoup de difficultés. S’il s’agit d’une question fermée et sans implicite alors je m’en sors en définissant chaque terme ; mais s’il s’agit d’une question ouverte avec des sous-entendus, soit j’ai tendance à répondre à la question au premier degré, soit j’énonce toutes les possibilités. Dans les deux cas ce n’est pas la réponse attendue. »
 
+***
+
 <a id="A5">A5</a>
 
-**Appel :**
+<div class="encart" markdown="1">
 
-« Nous souhaitons associer la pédagogie à la recherche, en combinant leurs potentiels respectifs de créativité. Que vous inspire la citation suivante ? »
->Je pense que l’Université a besoin d’un Institut de Création permanente. C’est là qu’on chercherait la solution des problèmes que les étudiants se développeraient et mûriraient comme bon leur semble. En outre, je pense que sa gestion devrait incomber à des artistes invités (qui agiraient comme des catalyseurs et n’auraient pas d’autre contact avec l’institution universitaire) et aux étudiants. Aucun cours ou diplôme n’y seraient attribués; on peut cependant concevoir qu’un étudiant qui aurait échoué dans les matières traditionnelles, mais ayant pris part à l’activité de l’Institut, pourrait toujours recevoir une lettre de recommandation en cas de besoin.
->— Robert Filliou, *Enseigner et apprendre, arts vivants*, 1998
+Nous souhaitons associer la pédagogie à la recherche, en combinant leurs potentiels respectifs de créativité. Que vous inspire la citation suivante :
 
-**Réponses :**
+</div>
+
+> Je pense que l’Université a besoin d’un Institut de Création permanente. C’est là qu’on chercherait la solution des problèmes que les étudiants se développeraient et mûriraient comme bon leur semble. En outre, je pense que sa gestion devrait incomber à des artistes invités (qui agiraient comme des catalyseurs et n’auraient pas d’autre contact avec l’institution universitaire) et aux étudiants. Aucun cours ou diplôme n’y seraient attribués; on peut cependant concevoir qu’un étudiant qui aurait échoué dans les matières traditionnelles, mais ayant pris part à l’activité de l’Institut, pourrait toujours recevoir une lettre de recommandation en cas de besoin.
+> — Robert Filliou, *Enseigner et apprendre, arts vivants*, 1998
 
 « Oui, l’université a besoin d’un Institut de Création permanente. L’université doit être un lieu d’expérimentation et d’innovation pédagogiques qui doit profiter, entre autres, aux étudiants et à l’ensemble du système éducatif. La valorisation de ces innovations passe par une communication interne à l’université. Ce lieu devrait permettre aux étudiants “d’avancer” à leurs rythmes. Il doit être un lieu favorisant l’acquisition de compétences grâce à d’autres formes d’expressions. »
 
@@ -109,19 +109,19 @@ Je deviens ainsi à moi-même, ce qu’un archéologue peut être à ses fouille
 
 « L’étudiant n’est aujourd’hui pas considéré comme au centre de l’université, dès lors il n’a pas suffisamment d’autonomie et de prise de décision dans le choix de ses enseignements et leurs contenus. Il n’est pas encouragé à s’engager au sein des processus de la vie universitaire et des apprentissages, n’est pas responsabilisé, c’est-à-dire considéré comme un professionnel ou spécialiste, n’est pas considéré comme un potentiel de créativité, comme un pilier pour améliorer le champ des apprentissages universitaires. »
 
-**Appel :**
+<div class="encart" markdown="1">
 
 « En ouvrant le dialogue avec les étudiant.e.s, nous voulons les accompagner vers l’autonomisation et la pensée critique et les guider à la fois dans leur formation et dans leur recherche de débouchés en privilégiant une approche transversale plutôt qu’un ancrage disciplinaire. »
 
-**Réponse :**
+</div>
 
 « L’Université favorise certains types d’intelligence dites “académiques” et laisse les autres non utilisés. Pourquoi donc ne pas valoriser toutes les compétences, qu’elles soient scolaires ou autres ? »
 
-**Appel :**
+<div class="encart" markdown="1">
 
 « Avec Agilabil nous voulons aussi augmenter le plaisir, l’intérêt et le dynamisme des enseignant.e.s, chercheur.e.s et apprenant.e.s engagé.e.s dans le projet en tant que co-créateurs d’une pratique pédagogique renouvelée. »
 
-**Réponses :**
+</div>
 
 « Dans la ressaisie d’un cours magistral, afin de m’impliquer davantage dans mon rapport aux contenus, je m’attache à trouver des mises en formes singulières du discours dans ma prise de notes. En employant, d’une certaine manière, des techniques issues du mindmapping et de la mise en page, j’essaie de retranscrire graphiquement la dynamique propre à l’argumentaire déployé à l’oral. »
 
@@ -130,164 +130,10 @@ Je deviens ainsi à moi-même, ce qu’un archéologue peut être à ses fouille
 « Ayant suivi tout mon cursus dans l’enseignement public traditionnel, je m’y sens aujourd’hui à l’aise bien que je sois convaincue que celui-ci puisse être nettement amélioré. Je suis aujourd’hui très influencée par les pédagogies alternatives, notamment par la méthode Montessori, et je pense que la pédagogie traditionnelle mériterait de s’y intéresser davantage. »
 
 <div class="chemin voie-a" markdown="1">Pour découvrir le fonctionnement singulier du département de danse et de performance de l’Université d’art de Berlin, passez directement page [A6](#A6)</div>
-
-***
-
-### La *mallette* : le fil rouge du projet Agilabil
-
-<a id="B2">B2</a>
-
-Pour matérialiser notre travail et le prolonger par-delà son année d’exercice, nous constituons une *mallette* pédagogique autant qu’énigmatique. Cette *mallette* s’inspire moins des kits didactiques disponibles dans le commerce que des « ouvroirs d’esprit » inventés par Robert Filliou dans le mouvement Fluxus, avec pour devise : « l’art est ce qui rend la vie plus intéressante que l’art ». En termes de pédagogie, cela revient à susciter du désir et des situations : l’enjeu n’est pas tant de s’interroger sur la manière de transmettre des contenus de savoirs que de se demander, ensemble ici et maintenant, ce que l’Université a pour nous vocation à (nous) apprendre.
-
-<div class="chemin voie-b" markdown="1">Pour découvrir la Fiche atelier **main à la pâte** qui a donné l’impulsion pour inventer les objets de la *mallette*, passez directement page [B3](#B3)</div>
-
-<a id="B7">B7</a>
-
-Chaque objet de la *mallette*, imaginé avec audace et fabriqué avec soin, constitue une énigme. Le collectif réuni autour de la *mallette* a pour objectif d’activer cette énigme non pour la résoudre, mais pour explorer les possibles qu’elle suscite : quelles questions, quelles disputes, quelles propositions sont générées dans le groupe par la prise en main de cet objet ? L’Agilabilitatrice ou l’Agilabilitateur qui facilite la prise en main de cette mallette et l’activation des situations n’a aucune solution à vous apporter. Sa fonction de médiation consiste plutôt à (re)lancer le questionnement.
-
-Les boîtes contenant des fiches (activation et atelier) peuvent servir de relais au besoin, mais l’idée est surtout d’explorer !
-
-<div class="chemin voie-b" markdown="1">Pour voir à quoi ressemble la *mallette* en vrai, passez directement page [B8](#B8)</div>
-
-Pour activer la mallette, le protocole prévoit de réunir une équipe de 10 personnes. Idéalement, chaque équipe comprendra les différents corps de métier et statuts de l’UniverCité (étudiant.e.s, enseignant.e.s-chercheur.e.s, et chercheur.e.s sans charge d’enseignement, vacataires, personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, etc.) et une personne qui facilite l’activation de la *mallette* et qui sera appelée Agilabilatateur ou Agilabilitatrice. Chacun.e des membres de l’Agilab est susceptible d’endosser cette fonction, puis d’accréditer toute personne ayant participé à une session *mallette*. Une session se compose de 3 séances de 3h et peut se prolonger par un feed-back au moyen de l’onglet « contribuer » du site <u>agilabil.tumblr.com</u> tandis que la plateforme Insight (<http://www.resurgences.eu/les-projets/article/insight>) développée par l’agence Résurgences permettra un travail de visualisation graphique en mouvement des différentes données ainsi que de leurs interactions.
-
-La *mallette* a été conçue par le collectif Agilabil et réalisée par Margaux Ribeaucourt et Hyacinthe Lesecq.
-
-***
-
-### Quatre des huit objets contenus dans la *mallette*
-
-<a id="B9">B9</a>
-
-Présentation de quatre des objets se trouvant dans la *mallette* et de quelques fiches d’activation qui s’y rattachent. Chacune de ces fiches est combinable avec n’importe lequel des objets — et modifiable au gré des idées et des envies qui émergeront. Si vous ne comprenez pas tout de suite (ou pas du tout) quoi faire des objets (ou des fiches) ne paniquez pas — au contraire, c’est le signe que ça marche ! Tout l’intérêt est de savoir ce que nous ferons ensemble de cette incertitude...
-
-![Portraits](assets/images/dessins-mallette.jpg)
-
-***
-
-#### J’abstrais le _
-
-<div class="surtitre" markdown="1">(aussi appelé « La boîte à œuf »)</div>
-
-*Qu’il soit plat ou brouillé,*
-*monde clôt ou éclot,*
-*on n’en fait jamais le tour.*
-
-**Fiche possible n°1**
-
-**Activateur d’imaginaire :** l’énigme absolue
-
-**Durée d’activation / nombre de personnes impliquées :** tout le monde, et ça peut durer longtemps !
-
-**Proposition d’activation :** alors, qui d’abord : la poule ou l’œuf ? Comment résoudre la question de l’origine ? Ou accepter de ne pas la résoudre ? Comment envisagez-vous le type de questions que l’on se pose à l’Université : spéculatives, appliquées, audacieuses ? Qui a des connaissances en biologie dans une Fac de Sciences humaines et sociales ? Un peu de bon sens ? L’envie de jouer des méninges pour inventer des pistes folles ? Le plaisir de l’abstraction ?
-
-**Fiche possible n°2**
-
-**Activateur d’imaginaire :** nourriture
-
-**Durée d’activation / nombre de personnes impliquées :** tout le monde, durée au choix
-
-**Proposition d’activation :** quelle est la fonction de la nourriture à l’Université ? Les poules ont une place importante dans les fermes inspirées de la permaculture, permettant notamment le contrôle des nuisibles ; le désherbage ; la fertilisation des parcelles ; la réduction des déchets organiques ; la préservation de la biodiversité et, bien sûr, la production d’œufs. Où vous procurez-vous la nourriture la plus quotidienne ? Sauriez-vous échanger des recettes ? Qui ose récupérer de la nourriture gratuitement et quelles sont vos techniques ?
-
-
-
-#### J’imagine les_
-
-<div class="surtitre" markdown="1">(aussi appelé « Les images reliées entre elles »)</div>
-
-*J’accueille une image*
-*au creux de ma main*
-*et l’apprivoise.*
-*Elle se diffracte alors*
-*en plusieurs sens.*
-
-**Activateur d’imaginaire** : Imagilab
-
-**Durée d’activation / nombre de personnes impliquées :** à partir d’une seule personne (qui peut retranscrire à l’écrit ce que l’image lui donne à dire) jusqu’à 5/6 personnes. Il faut 1 jeu d’images par personne.
-
-**Désir initial :** déclencher le dialogue entre des participants qui ne se connaissent pas par la médiation d’une image déclencheur d’histoires/de souvenirs. Mettre en mot un sentiment, une émotion et évaluer ses résonances chez autrui.
-
-**Proposition d’activation n°1** : chaque participant a en main le même jeu d’images. À tour de rôle, chacun donne une légende d’une phrase correspondant à une image de son choix en veillant à ne pas décrire les éléments de cette dernière, mais en s’en inspirant. Les autres participants positionnent à la gauche de leur main l’image dont ils pensent qu’il est question et poursuivent l’échange en s’emparant d’une image à sa suite, sans la dévoiler aux autres. À la fin du tour, les participants dévoilent leur main et en comparent les divergences.
-
-**Proposition d’activation n°2** : on tire au hasard une image et on en fait une *lecture* (durée 2 minutes). Les autres joueurs doivent proposer des hypothèses du contenu de l’image en fonction de l’histoire qui leur a été délivrée : pour ce faire, ils dessinent sur un petit support ce qu’ils croient entendre et complètent leur dessin, si besoin, par des remarques plus personnelles (couleurs, sentiments...). Par la suite, le jeu d’images du joueur est dévoilé : les écoutants ont pour objectif de se mettre d’accord sur celle qui semble au mieux correspondre à l’histoire qu’ils viennent d’entendre. Ce faisant, ils doivent débattre du choix de leur version. Avant de découvrir la réponse attendue, ils montrent le dessin qu’ils ont réalisé. Le dessin qui se rapproche le plus de l’image du conteur remporte le tour.
-
-**Atelier associé :** atelier « L’image en chantier » pensé et animé par Adèle G., voir page [](#l-image-en)
-
-**Note** : les études de la perception ont montré que la première saisie d’une image se fait selon un parcours aléatoire, bien différent de celle que l’on met en œuvre au cours d’une page de lecture par exemple. Il s’agit de se saisir de l’occasion de penser cette absence d’orientation : non seulement pour mieux autoriser d’autres noyaux de signifiance, plus instables, plus flous et moins univoques, mais aussi pour aller plus loin que les légendes qui réfèrent directement, habituellement attendues.
-
-
-#### J’apprivoise le_
-
-<div class="surtitre" markdown="1">(aussi appelé « le genre de rumixcube »)</div>
-
-*À l’université*
-*on parle* universitairien.
-*Cette langue impose*
-*une grammaire*
-*que l’analyse logique joue*
-*et déjoue.*
-
-
-**Activateur d’imaginaire :** générateur à langages (traducteur automatique)
-
-**Durée d’activation / nombre de personnes impliquées :** comme on veut.
-
-**Désir initial :** interroger les implicites du langage universitairien
-
-**Proposition d’activation n°1 :** tournez les cubes de bois et éprouvez la cohérence de chaque proposition, jouez de l’absurde produit par les ruptures de code ou cherchez les lois implicites qui expliquent ce qui fonctionne en situation
-
-**Atelier associé :** atelier « Consignes » pensé et animé par Juliette, voir page [](#consigne)
-
-**Note :** beaucoup des difficultés à (se) comprendre tiennent à l’existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d’énoncés qui sont acceptables ou non en contexte universitaire.
-
-***
-
-#### Je bâtis avec_
-
-<div class="surtitre" markdown="1">(aussi appelé « Le jeu de construction »)</div>
-
-*On construit,*
-*on fabrique,*
-*on bricole,*
-*on bidouille.*
-*En faisant*
-*les choses*
-*à plusieurs*
-*on se rapproche,*
-*on se rejoint,*
-*on se réunit :*
-*alors*
-*c’est un ensemble*
-*qui se crée.*
-
-**Activateur d’imaginaire :** jeu de construction
-
-**Description :** tubes et étoiles en plastique flexible, gougeons de bois et plaque avec perforations
-
-**Désir initial :** fabriquer ensemble tout en pensant, construire
-
-**Durée d’activation / nombre de personnes impliquées :** comme on veut
-
-**Proposition d’activation n°1 :** essayer de fabriquer un habitat temporaire (joindre des plans d’architectures d’urgence), penser à la précarité des logements étudiants.
-
-**Proposition d’activation n°2 :** reproduire le campus de son institution et y ajouter un module ou une extension qui fasse maillon avec la cité, imaginer un campus avec un chapiteau.
-
-**Atelier associé :** atelier« l’Université idéale » pensé et animé par Pierre, voir page [](#universite-ideale)
-
-**Proposition d’activation n°3 :** comment pensez-vous la question de l’habitat pour les migrant.e.s et réfugié.e.s ?
-
-**Notes** : se mettre en relation avec :
-- Le Réseau Études Supérieures et Orientation des Migrant.e.s et des Exilé.e.s (RESOME), constitué par des étudiant.e.s, personnel.le.s et enseignant.e.s de l’EHESS, l’ENSAD, la FEMIS, l’ENS Ulm, d’AgroParisTech, l’ENSCI, l’ENS Lyon, Paris 8 - Saint-Denis, Paris 10 - Nanterre, Paris 7 -- Diderot, de l’ESSEC et les organisations suivantes : association MIGRENS, Voyage au bout de la 11, RUSF Paris-8, InFLEchir : <contact@resome.org>
-- Le *School of Architecture and Planning spring studio* de Queen City, dont les membres font d’un projet de réhabilitation d’un bâtiment industriel en hébergement pour les migrant.e.s leur projet d’étude. Contact : <davidhil@buffalo.edu>
-- Le programme *Universidade Sem Fronteiras* (aka *extension*) de l’État du Parana, Brésil
-
-<div class="chemin voie-b" markdown="1">Pour mieux vous imaginer les objets de la mallette, passez directement page [B10](#B10)</div>
 ***
 ![Portraits](assets/images/portraits/portraits1.jpg){.full-page}
 ***
 ## Présentation des Agilabien.ne.s
-
-<div class="chemin voie-a" markdown="1"> Pour voir nos autres traits de visages, passez directement page [A3](#A3)</div>
 
 <a id="A2">A2</a>
 
@@ -330,6 +176,9 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 **Dorothée Lintner** *Responsable formation chez ENGIE et chargée de cours à l’université.* — *Agilabilienne agréée* « Expérimenter collectivement des innovations pédagogiques afin de repenser l’enseignement universitaire. »
 
 **Adèle Godefroy** *Photographe, enseignante et chercheuse en littérature générale et comparée (LGC) qui réfléchit à de nouvelles méthodes pédagogiques de transmission du texte littéraire par le biais des images.* — *Agilabilienne agréée* « Moins une “expérience de plus” pour alimenter mes découvertes de tel ou tel pédagogue, mais l’expérience, d’autant plus émancipatrice qu’elle doit son effectuation au bon vouloir de ses porteurs. »
+
+
+<div class="chemin voie-a" markdown="1"> Pour voir nos autres traits de visages, passez directement page [A3](#A3)</div>
 
 ***
 
@@ -377,9 +226,9 @@ Pour nous, l’expérience Agilabil c’est :
 - Un autre regard sur la pédagogie en dansant ?!
 - Faire émerger des idées neuves pour enseigner sans ennuyer
 
-###### B. Nœud du projet : être concret, réaliser quelque chose, avoir un impact.
-
 <a id="A9">A9</a>
+
+###### B. Nœud du projet : être concret, réaliser quelque chose, avoir un impact.
 
 - Aborder l’apprentissage par les sens, par l’expérience
 - Utiliser le corps, la danse
@@ -393,9 +242,9 @@ Pour nous, l’expérience Agilabil c’est :
 
 <div class="chemin voie-a" markdown="1">Pour être témoin de l’impact du projet Agilabil sur chaque participant.e après l’avoir vécu, passez directement page [A10](#A10)</a></div>
 
-###### C. Mémoire du projet : prolonger l’expérience. Comment transmettra-t-on notre expérience et à qui ?
-
 <a id="C4">C4</a>
+
+###### C. Mémoire du projet : prolonger l’expérience. Comment transmettra-t-on notre expérience et à qui ?
 
 - Avec des supports visuels
 - Avec de l’optimisme
@@ -422,17 +271,21 @@ Pour préparer cette résidence de recherche-action-création, nous avons imagin
 
 Nous quittons la capitale à bord de nos voitures, en petits groupes. Très rapidement nous mettons les pieds dans le plat avec la première étape de l’atelier mobile d’Adèle G. (pour plus de détails sur le fonctionnement de cet atelier voir page [](#l-image-en)). Il est tôt et il fait froid, mais aussi tellement beau ! L’endroit a des airs de colonie de vacances : un lieu magnifique, des chambres qui sont hospitalières, le café aussi.
 
-À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé un atelier pour (re)prendre contact, nous guident de station en station (voir page [](#one-to) pour avoir un aperçu de l’atelier *One to one*)
+À l’arrivée nous faisons un petit débriefing du voyage qui nous a emmenés jusqu’à la bergerie de Villarceaux. Certains ont répondu à la consigne de l’atelier mobile d’Adèle, d’autres ont déjà longuement débattu sur les problèmes liés à l’université. Une troisième voiture a inventé des histoires... Ensuite, nous faisons un rapide tour des propositions émises en amont de la journée. Ce récapitulatif fait déjà naître de nouvelles idées. Emma et Cécile, qui ont proposé l'atelier *One to one* pour (re)prendre contact, nous guident de station en station.
 
 #### Ateliers
 
 ***
 
+<div class="cartouche" markdown="1">
+
 ##### One to One
 
 ~~~
-Atelier pensé et animé par Cécile et Emma
+Pensé et animé par Cécile et Emma
 ~~~
+
+</div>
 
 <a id="C2">C2</a>
 
@@ -546,8 +399,6 @@ Il faut respecter deux contraintes : énumérer un à un les prénoms de toutes 
 
 > Cet atelier permet à chacun de repérer qui est qui et de se familiariser avec le groupe. Il permet plus largement à chacun de se jeter à l'eau sans avoir le temps de trop réfléchir ou de préparer son intervention.
 
-<a id="B3">B3</a>
-
 <div class="encart" markdown="1">
 À la fin de cette matinée, tout le monde commence à prendre ses marques. Myriam introduit la *mallette* dont la réalisation évoluera et nous accompagnera tout au long de l’année. Nous entrons dans le monde des objets à fabriquer. L’idée, à ce moment-là, est de rythmer chaque demi-journée par un atelier « main à la pâte » qui suscite une création d’objets. L’hypothèse était que le collectif pourrait réfléchir différemment en matérialisant des outils/objets à partir de concepts, qui s’incarnent concrètement et peuvent alors circuler. Après avoir brisé la glace, nous sommes donc invité.e.s à mettre une première fois la main à la pâte.
 </div>
@@ -559,6 +410,8 @@ Il faut respecter deux contraintes : énumérer un à un les prénoms de toutes 
 ~~~
 Atelier pensé et animé par Myriam
 ~~~
+
+<a id="B3">B3</a>
 
 **Durée :** 1h toutes les demi-journées pendant les deux week-ends d’incubation
 
@@ -771,9 +624,9 @@ Des fiches plastiques insérables, construites en forme de cube, pour jouer à (
 
 **Inspiration :** L’atelier « biblioremix »
 
-###### Objet 3 — Cube pour imaginer l’université idéale
-
 <a id="A8">A8</a>
+
+###### Objet 3 — Cube pour imaginer l’université idéale
 
 Voici une idée simple pour écouter et rassembler les idées des étudiants et leurs propositions pour construire leur université idéale et... réalisable. Fabriquer un gros cube de couleur en carton solide ou avec une imprimante 3D. Sur chacune des six faces inscrire le nom d’un domaine. Exemples : le site d’un campus, une université lieu de vie, études et travail, une pédagogie interactive, travaux de groupes et enseignement sur projets, du matériel moderne et professionnel, etc. Dans un groupe, chacun lance ce cube (ou dé) et doit ensuite réfléchir à une proposition pour alimenter le domaine sur lequel son cube est tombé.
 
@@ -912,14 +765,14 @@ Le dernier temps de la réunion est consacré à la *mallette* et aux objets à 
 
 ***
 
-### Préparation du second week-end d’incubation
+### Être de retour
 
 <div class="surtitre" markdown="1">
 19 janvier 2016
 Réunion 3
 </div>
 
-Une bonne partie de la réunion a servi à organiser le second séjour qui arrivait à grands pas. Nous avons alors discuté des points logistiques.
+Une bonne partie de la réunion a servi à préparer le second séjour qui arrivait à grands pas. Nous avons alors discuté des points logistiques.
 
 Pour comparer notre travail à celui que d’autres groupes proposent, Alix nous a expliqué comment fonctionne l’« Aide à la réussite » de Paris 3, et Maud a parlé du projet « Talent Campus » auquel elle a participé. Cela nous a permis de nous redéfinir encore un peu plus, en regard de ces projets.
 
@@ -1039,7 +892,7 @@ Atelier pensé et animé par Auguste
 
 **Nombre de participant.e.s :** 20 participants maximum, divisés en groupe de 4.
 
-**Préparation :** Quelques jours avant le premier atelier, lors d’une pré-rencontre ou par mail, demander à chacun des participants de réfléchir à une problématique pédagogique l’intéressant particulièrement. Cette problématique peut-être d’ordre réflexive (manière de penser un programme) et/ou pratique (manière de gérer une activité).
+**Préparation :** Demander à chacun des participants de choisir une problématique pédagogique. Cette problématique peut-être d’ordre réflexive (manière de penser un programme) et/ou pratique (manière de gérer une activité).
 
 **Matériel nécessaire :** papier, stylo, chronomètre, chaises.
 
@@ -1060,13 +913,19 @@ Atelier pensé et animé par Auguste
 
 - Le groupe entier se réunit en cercle.
 - Chaque membre de l’atelier présente son dispositif (objet) matériel ou immatériel.
-- Une discussion en petit groupe et dans le grand groupe peut s’engager pour partager les expériences.
+- Une discussion s’engage pour partager les expériences.
 
 **Retour sur atelier « faire ensemble » d’Auguste par Maud**
 
 L’atelier d’Auguste s’inscrit au cœur du dispositif agilabilien : utiliser le détour du collectif pour envisager un problème et améliorer une idée en vue de passer de la conception à la réalisation.
+Au sein d’un groupe de quatre personnes, chacun.E propose un objet à étudier : un polycopié de cours à rendre interactif, un set d’images à transformer en jeu visuel, un emploi du temps à organiser... La confrontation à un nouveau regard permet une meilleure formulation des problèmes rencontrés, une prise de distance, un nouvel angle d’approche et des pistes de résolution.
 
-Au sein d’un groupe de quatre personnes, chacun.E propose un objet à étudier : un polycopié de cours à rendre interactif, un set d’images à transformer en jeu visuel, un emploi du temps à organiser, un journal à faire faire aux élèves, une façon de mémoriser des exercices physiques, une difficulté à se mettre au travail... La confrontation à un nouveau regard permet une meilleure formulation des problèmes rencontrés, une prise de distance, un nouvel angle d’approche et des pistes de résolution.
+
+<div class="encart" markdown="1">
+
+Nous sommes déjà en milieu d’après-midi. Le projet *mallette* prend une nouvelle forme en se mariant à un atelier sur une thématique précise : le stress. Animé par Sonia et Adèle F., cet atelier mène notamment à l’élaboration d’objets conçus pour mieux faire face à certaines formes de stress.
+
+</div>
 
 ***
 
@@ -1075,12 +934,6 @@ Au sein d’un groupe de quatre personnes, chacun.E propose un objet à étudier
 ~~~
 Atelier pensé et animé par Sonia et Adèle F.
 ~~~
-
-<div class="encart" markdown="1">
-
-Nous sommes déjà en milieu d’après-midi. Le projet *mallette* prend une nouvelle forme en se mariant à un atelier sur une thématique précise : le stress. Animé par Sonia et Adèle F., cet atelier mène notamment à l’élaboration d’objets conçus pour mieux faire face à certaines formes de stress.
-
-</div>
 
 <a id="C8">C8</a>
 
@@ -1115,24 +968,19 @@ Penser à ce qui nous a stressés dans le passé et dont nous pouvons tirer part
 Les cartes *expression* sont centrées sur nos émotions. Choisir avec le post-it des émotions différentes pendant le jeu. Écrire comment utiliser ce stress positivement dans les situations quotidiennes.
 
 **Comment peut-on... transformer le stress**
-Jeu de dés en argile en nombre variable.
-
-- 1 dé qui permet de tirer la situation initiale à l’origine du stress (il s’agit d’interpréter les symboles)
-- 2 dés qui permettent de tirer des péripéties
-- 1 dé qui permet d’interpréter l’issue de la situation stressante.
+Jeu de dés en argile en nombre variable :
+- 1 dé pour tirer la situation initiale à l’origine du stress
+- 2 dés pour tirer des péripéties
+- 1 dé pour interpréter l’issue de la situation stressante.
 
 Exemple :
-- image stressante sur Facebook
-- péripétie 1 : musique douce qui calme qui rappelle mon enfance
-- péripétie 2 : j’ai sur le feu l’un de mes plats préférés
-- situation d’arrivée : (^ _ ^)
+image stressante sur Facebook → péripétie 1 : musique douce qui calme qui rappelle mon enfance → péripétie 2 : j’ai sur le feu l’un de mes plats préférés → situation d’arrivée : (^ _ ^)
 
-C’est du storytelling. On n’est pas obligé de le faire en vrai. Eh puis si ça t’énerve, bhen... t’écrases le dé.
+C’est du storytelling. On n’est pas obligé de le faire en vrai. Eh puis si ça t’énerve, bhen t’écrases le dé.
 
 **Retour sur atelier « Stress » de Sonia et Adèle par Cécile**
 
-Cet atelier a permis de partager des situations concrètes liées au vécu.
-Le but de l’Agilabil n’étant pas de fournir des réponses préfabriquées pouvant être réappliquées sans réflexion par la suite, l’atelier n’a pas fait ressortir de solution miracle face au stress. Chaque groupe (de 4 personnes) a plutôt réfléchi à un artefact reflétant les discussions et synthétisant souvent de manière humoristique un type de solution, des lunettes changeant la perception, un dé exprimant des situations sans paroles... Cette stratégie a sûrement permis d’éviter d’exposer des discussions intimes qui n’ont par ailleurs pas eu lieu dans tous les groupes et d’abstraire des situations trop personnelles.
+Cet atelier a permis de partager des situations concrètes liées au vécu. Le but de l’Agilabil n’étant pas de fournir des réponses préfabriquées pouvant être réappliquées sans réflexion par la suite, l’atelier n’a pas fait ressortir de solution miracle face au stress. Chaque groupe a plutôt réfléchi à un artefact reflétant les discussions et synthétisant souvent de manière humoristique un type de solution, des lunettes changeant la perception, un dé exprimant des situations sans paroles... Cette stratégie a sûrement permis d’éviter d’exposer des discussions intimes qui n’ont par ailleurs pas eu lieu dans tous les groupes et d’abstraire des situations trop personnelles.
 
 Laisser de la place à l’expression de sujets sensibles, que chacun a vécus à un moment ou un autre dans sa vie, demande une ouverture et une confiance qui n’aurait pas été possible au sein du groupe dans son ensemble. La mixité générationnelle des groupes a également permis d’étudier des phénomènes à différents stades de développement et de revenir sur des stratégies et des décisions individuelles qui ont eu des répercussions personnelles et professionnelles fortes.
 
@@ -1142,12 +990,7 @@ Comment, dès lors, faire face au stress qui peut être ressenti à l’Universi
 Pour aller plus loin : Marie Buscatto, Marc Loriol, Jean-Marc Weller (dir.), *Au-delà du stress au travail. Une sociologie des agents publics au contact des usagers*, Paris, Erès, « Clinique du travail », 2008, 287 p.
 
 <div class="encart" markdown="1">
-C’est ainsi que notre première journée du week-end se termine.
-
-À la Bergerie un super bon repas nous attend. Puis une soirée longue en jeux et en discussions. L’ensemble des espaces (réfectoire, salons, dortoirs, jardin) est pensé pour favoriser le travail coopératif et en intégrer les différents aspects : logistiques, intellectuels, pratiques, plaisants...
-
-Le lendemain, nous devons terminer nos objets pour la *mallette*, faire un premier retour sur l’expérience Agilabil et prendre des décisions quant à la suite de l’aventure.
-
+C’est ainsi que notre première journée du week-end se termine. À la Bergerie un bon repas nous attend et la soirée se prolonge en jeux et en discussions. Le lendemain, nous devrons terminer nos objets pour la *mallette*, faire un premier retour sur l’expérience Agilabil et prendre des décisions quant à la suite de l’aventure.
 Une partie d’entre nous commencera la journée avec l’atelier sur les consignes de Juliette.
 </div>
 
@@ -1403,6 +1246,8 @@ Hyacinthe a fait des dessins de mallette-type qu’il nous soumet.
 
 Chacun.e est venu.e avec au moins un objet sous la forme de prototype. Nous installons les tables de sorte à former une paillasse expérimentale pour tester chacun de ces prototypes pendant 15 min, en équipes roulantes. L’écriture d’une carte postale par Agilabilien.ne et par test permet un retour sur les qualités et les améliorations possibles, tout en fournissant des idées pour les fiches d’activations. Un goûter accompagne l’expérience pour nourrir aussi les estomacs... Nous éprouvons malgré tout une véritable différence dans l’atmosphère de travail : le campus Censier n’est décidément pas la Bergerie !
 
+<a id="C5">C5</a>
+
 ### Éclairage sur les objectifs du livre et de la mallette
 
 <div class="surtitre" markdown="1">
@@ -1410,13 +1255,163 @@ Chacun.e est venu.e avec au moins un objet sous la forme de prototype. Nous inst
 Réunion 5
 </div>
 
-<a id="C5">C5</a>
-
 Ce n’est qu’approchant de la dernière réunion officielle du projet Agilabil que l’existence de l’édition-archive se confirme avec Emma à la conception du livre et Pierre à sa mise en page.
 
 Du coup, plus besoin pour la *mallette* d’être un espace d’archivage de l’année parcourue. Malgré leur différence d’objectif, ces deux outils (*la mallette* et le *Livre Agilabil*) se rejoignent. La *mallette* offre avec les objets qu’elle contient une possibilité d’expérimentation directe tout en étant une sorte de mémoire condensée du parcours Agilabilien. Le livre, quant à lui, se veut l’archivage doux d’une expérience piquante, tout en gardant l’esprit du jeu et de la prise de décision avec son profil « livre dont vous êtes le héros ». L’enjeu est double : offrir à d’autres la liberté d’inventer leur propre expérience et garder vive une mémoire qu’on ne veut ni perdre ni fossiliser.
 
 <div class="chemin voie-c" markdown="1"> Pour faire l’expérience du doux et du piquant au même moment, passez directement page [C6](#C6)</div>
+
+***
+
+### La *mallette* : le fil rouge du projet Agilabil
+
+<a id="B2">B2</a>
+
+Pour matérialiser notre travail et le prolonger par-delà son année d’exercice, nous constituons une *mallette* pédagogique autant qu’énigmatique. Cette *mallette* s’inspire moins des kits didactiques disponibles dans le commerce que des « ouvroirs d’esprit » inventés par Robert Filliou dans le mouvement Fluxus, avec pour devise : « l’art est ce qui rend la vie plus intéressante que l’art ». En termes de pédagogie, cela revient à susciter du désir et des situations : l’enjeu n’est pas tant de s’interroger sur la manière de transmettre des contenus de savoirs que de se demander, ensemble ici et maintenant, ce que l’Université a pour nous vocation à (nous) apprendre.
+
+<div class="chemin voie-b" markdown="1">Pour découvrir la Fiche atelier **main à la pâte** qui a donné l’impulsion pour inventer les objets de la *mallette*, passez directement page [B3](#B3)</div>
+
+<a id="B7">B7</a>
+
+Chaque objet de la *mallette*, imaginé avec audace et fabriqué avec soin, constitue une énigme. Le collectif réuni autour de la *mallette* a pour objectif d’activer cette énigme non pour la résoudre, mais pour explorer les possibles qu’elle suscite : quelles questions, quelles disputes, quelles propositions sont générées dans le groupe par la prise en main de cet objet ? L’Agilabilitatrice ou l’Agilabilitateur qui facilite la prise en main de cette mallette et l’activation des situations n’a aucune solution à vous apporter. Sa fonction de médiation consiste plutôt à (re)lancer le questionnement.
+
+Les boîtes contenant des fiches (activation et atelier) peuvent servir de relais au besoin, mais l’idée est surtout d’explorer !
+
+<div class="chemin voie-b" markdown="1">Pour voir à quoi ressemble la *mallette* en vrai, passez directement page [B8](#B8)</div>
+
+Pour activer la mallette, le protocole prévoit de réunir une équipe de 10 personnes. Idéalement, chaque équipe comprendra les différents corps de métier et statuts de l’UniverCité (étudiant.e.s, enseignant.e.s-chercheur.e.s, et chercheur.e.s sans charge d’enseignement, vacataires, personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, etc.) et une personne qui facilite l’activation de la *mallette* et qui sera appelée Agilabilatateur ou Agilabilitatrice. Chacun.e des membres de l’Agilab est susceptible d’endosser cette fonction, puis d’accréditer toute personne ayant participé à une session *mallette*. Une session se compose de 3 séances de 3h et peut se prolonger par un feed-back au moyen de l’onglet « contribuer » du site <u>agilabil.tumblr.com</u> tandis que la plateforme Insight (<http://www.resurgences.eu/les-projets/article/insight>) développée par l’agence Résurgences permettra un travail de visualisation graphique en mouvement des différentes données ainsi que de leurs interactions.
+
+La *mallette* a été conçue par le collectif Agilabil et réalisée par Margaux Ribeaucourt et Hyacinthe Lesecq.
+
+***
+
+### Quatre des huit objets contenus dans la *mallette*
+
+<a id="B9">B9</a>
+
+Présentation de quatre des objets se trouvant dans la *mallette* et de quelques fiches d’activation qui s’y rattachent. Chacune de ces fiches est combinable avec n’importe lequel des objets — et modifiable au gré des idées et des envies qui émergeront. Si vous ne comprenez pas tout de suite (ou pas du tout) quoi faire des objets (ou des fiches) ne paniquez pas — au contraire, c’est le signe que ça marche ! Tout l’intérêt est de savoir ce que nous ferons ensemble de cette incertitude...
+
+![Portraits](assets/images/dessins-mallette.jpg)
+
+***
+
+#### J’abstrais le _
+
+<div class="surtitre" markdown="1">(aussi appelé « La boîte à œuf »)</div>
+
+*Qu’il soit plat ou brouillé,*
+*monde clôt ou éclot,*
+*on n’en fait jamais le tour.*
+
+**Fiche possible n°1**
+
+**Activateur d’imaginaire :** l’énigme absolue
+
+**Durée d’activation / nombre de personnes impliquées :** tout le monde, et ça peut durer longtemps !
+
+**Proposition d’activation :** alors, qui d’abord : la poule ou l’œuf ? Comment résoudre la question de l’origine ? Ou accepter de ne pas la résoudre ? Comment envisagez-vous le type de questions que l’on se pose à l’Université : spéculatives, appliquées, audacieuses ? Qui a des connaissances en biologie dans une Fac de Sciences humaines et sociales ? Un peu de bon sens ? L’envie de jouer des méninges pour inventer des pistes folles ? Le plaisir de l’abstraction ?
+
+**Fiche possible n°2**
+
+**Activateur d’imaginaire :** nourriture
+
+**Durée d’activation / nombre de personnes impliquées :** tout le monde, durée au choix
+
+**Proposition d’activation :** quelle est la fonction de la nourriture à l’Université ? Les poules ont une place importante dans les fermes inspirées de la permaculture, permettant notamment le contrôle des nuisibles ; le désherbage ; la fertilisation des parcelles ; la réduction des déchets organiques ; la préservation de la biodiversité et, bien sûr, la production d’œufs. Où vous procurez-vous la nourriture la plus quotidienne ? Sauriez-vous échanger des recettes ? Qui ose récupérer de la nourriture gratuitement et quelles sont vos techniques ?
+
+
+
+#### J’imagine les_
+
+<div class="surtitre" markdown="1">(aussi appelé « Les images reliées entre elles »)</div>
+
+*J’accueille une image*
+*au creux de ma main*
+*et l’apprivoise.*
+*Elle se diffracte alors*
+*en plusieurs sens.*
+
+**Activateur d’imaginaire** : Imagilab
+
+**Durée d’activation / nombre de personnes impliquées :** à partir d’une seule personne (qui peut retranscrire à l’écrit ce que l’image lui donne à dire) jusqu’à 5/6 personnes. Il faut 1 jeu d’images par personne.
+
+**Désir initial :** déclencher le dialogue entre des participants qui ne se connaissent pas par la médiation d’une image déclencheur d’histoires/de souvenirs. Mettre en mot un sentiment, une émotion et évaluer ses résonances chez autrui.
+
+**Proposition d’activation n°1** : chaque participant a en main le même jeu d’images. À tour de rôle, chacun donne une légende d’une phrase correspondant à une image de son choix en veillant à ne pas décrire les éléments de cette dernière, mais en s’en inspirant. Les autres participants positionnent à la gauche de leur main l’image dont ils pensent qu’il est question et poursuivent l’échange en s’emparant d’une image à sa suite, sans la dévoiler aux autres. À la fin du tour, les participants dévoilent leur main et en comparent les divergences.
+
+**Proposition d’activation n°2** : on tire au hasard une image et on en fait une *lecture* (durée 2 minutes). Les autres joueurs doivent proposer des hypothèses du contenu de l’image en fonction de l’histoire qui leur a été délivrée : pour ce faire, ils dessinent sur un petit support ce qu’ils croient entendre et complètent leur dessin, si besoin, par des remarques plus personnelles (couleurs, sentiments...). Par la suite, le jeu d’images du joueur est dévoilé : les écoutants ont pour objectif de se mettre d’accord sur celle qui semble au mieux correspondre à l’histoire qu’ils viennent d’entendre. Ce faisant, ils doivent débattre du choix de leur version. Avant de découvrir la réponse attendue, ils montrent le dessin qu’ils ont réalisé. Le dessin qui se rapproche le plus de l’image du conteur remporte le tour.
+
+**Atelier associé :** atelier « L’image en chantier » pensé et animé par Adèle G., voir page [](#l-image-en)
+
+**Note** : les études de la perception ont montré que la première saisie d’une image se fait selon un parcours aléatoire, bien différent de celle que l’on met en œuvre au cours d’une page de lecture par exemple. Il s’agit de se saisir de l’occasion de penser cette absence d’orientation : non seulement pour mieux autoriser d’autres noyaux de signifiance, plus instables, plus flous et moins univoques, mais aussi pour aller plus loin que les légendes qui réfèrent directement, habituellement attendues.
+
+
+#### J’apprivoise le_
+
+<div class="surtitre" markdown="1">(aussi appelé « le genre de rumixcube »)</div>
+
+*À l’université*
+*on parle* universitairien.
+*Cette langue impose*
+*une grammaire*
+*que l’analyse logique joue*
+*et déjoue.*
+
+
+**Activateur d’imaginaire :** générateur à langages (traducteur automatique)
+
+**Durée d’activation / nombre de personnes impliquées :** comme on veut.
+
+**Désir initial :** interroger les implicites du langage universitairien
+
+**Proposition d’activation n°1 :** tournez les cubes de bois et éprouvez la cohérence de chaque proposition, jouez de l’absurde produit par les ruptures de code ou cherchez les lois implicites qui expliquent ce qui fonctionne en situation
+
+**Atelier associé :** atelier « Consignes » pensé et animé par Juliette, voir page [](#consigne)
+
+**Note :** beaucoup des difficultés à (se) comprendre tiennent à l’existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d’énoncés qui sont acceptables ou non en contexte universitaire.
+
+***
+
+#### Je bâtis avec_
+
+<div class="surtitre" markdown="1">(aussi appelé « Le jeu de construction »)</div>
+
+*On construit,*
+*on fabrique,*
+*on bricole,*
+*on bidouille.*
+*En faisant*
+*les choses*
+*à plusieurs*
+*on se rapproche,*
+*on se rejoint,*
+*on se réunit :*
+*alors*
+*c’est un ensemble*
+*qui se crée.*
+
+**Activateur d’imaginaire :** jeu de construction
+
+**Description :** tubes et étoiles en plastique flexible, gougeons de bois et plaque avec perforations
+
+**Désir initial :** fabriquer ensemble tout en pensant, construire
+
+**Durée d’activation / nombre de personnes impliquées :** comme on veut
+
+**Proposition d’activation n°1 :** essayer de fabriquer un habitat temporaire (joindre des plans d’architectures d’urgence), penser à la précarité des logements étudiants.
+
+**Proposition d’activation n°2 :** reproduire le campus de son institution et y ajouter un module ou une extension qui fasse maillon avec la cité, imaginer un campus avec un chapiteau.
+
+**Atelier associé :** atelier« l’Université idéale » pensé et animé par Pierre, voir page [](#universite-ideale)
+
+**Proposition d’activation n°3 :** comment pensez-vous la question de l’habitat pour les migrant.e.s et réfugié.e.s ?
+
+**Notes** : se mettre en relation avec :
+- Le Réseau Études Supérieures et Orientation des Migrant.e.s et des Exilé.e.s (RESOME), constitué par des étudiant.e.s, personnel.le.s et enseignant.e.s de l’EHESS, l’ENSAD, la FEMIS, l’ENS Ulm, d’AgroParisTech, l’ENSCI, l’ENS Lyon, Paris 8 - Saint-Denis, Paris 10 - Nanterre, Paris 7 -- Diderot, de l’ESSEC et les organisations suivantes : association MIGRENS, Voyage au bout de la 11, RUSF Paris-8, InFLEchir : <contact@resome.org>
+- Le *School of Architecture and Planning spring studio* de Queen City, dont les membres font d’un projet de réhabilitation d’un bâtiment industriel en hébergement pour les migrant.e.s leur projet d’étude. Contact : <davidhil@buffalo.edu>
+- Le programme *Universidade Sem Fronteiras* (aka *extension*) de l’État du Parana, Brésil
+
+<div class="chemin voie-b" markdown="1">Pour mieux vous imaginer les objets de la mallette, passez directement page [B10](#B10)</div>
 
 ***
 
