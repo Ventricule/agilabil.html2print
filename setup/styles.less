@@ -149,10 +149,33 @@ article, .page {
 		margin: @margin-small 0 @margin-small @margin-normal;
 	}
 
-	.surtitre p {
-	  font-family: 'whois' !important;
+	.surtitre {
+		font-family: 'whois' !important;
 		text-decoration: none;
 		margin-bottom: @margin-big;
+		position: relative;
+		font-size: 8pt;
+		line-height: 12pt;
+
+		span {
+			border: .25pt solid;
+			position: absolute;
+			top: 0;
+			left: 0;
+			padding: 2pt 6pt;
+			display: block;
+			white-space: nowrap;
+			border-radius: 12pt;
+
+			&:last-child {
+				left: auto;
+				right: 0;
+				border-color: transparent transparent black transparent;
+				border-radius: 0;
+				padding: 2pt 0pt;
+				width: auto;
+			}
+		}
 	}
 
 	.encart {
@@ -162,16 +185,27 @@ article, .page {
 		break-inside: avoid;
 		border: .25pt solid;
 	}
-	.encart.h3-l-echo-des {
-		border: 0;
-		background: none;
+	.appel {
+		padding: 6pt 12pt;
+		margin: 6pt 0;
+		break-inside: avoid;
 		font-weight: bold;
+	}
+	.appel::before {
+		content: "appel";
+		position: absolute;
+		transform: rotate(90deg) translate(-0%, -0%);
+		transform-origin: 0% 0%;
+		font-family: "whois";
+		font-weight: normal;
+		padding: 3pt 6pt;
+		font-size: 9pt;
+		line-height: 12pt;
 	}
 	.cartouche {
 		border: .25pt solid;
 		padding: 4pt 12pt;
 		position: relative;
-		top: 0.25pt;
 		margin-bottom: @margin-normal;
 	}
 	.cartouche pre {
@@ -204,6 +238,33 @@ article, .page {
 		padding: 0 12pt;
 	}
 
+	.columns {
+		column-gap: @margin-big;
+
+		&.col-2 {
+			columns: 2;
+		}
+
+		&.col-3 {
+			columns: 3;
+		}
+
+		p {
+			break-inside: avoid;
+			display: inline-block;
+		}
+	}
+
+	h2 strong,
+	h3 strong,
+	h4 strong,
+	h5 strong,
+	h6 strong {
+		border: .25pt solid;
+		border-radius: 50%;
+		padding: 0 6pt;
+	}
+
 	h2.h2-le-pave,
 	h2.h2-a-bras {
 		font-size: 21pt;
@@ -226,6 +287,10 @@ article, .page {
 		font-size: 9pt;
 		line-height: 11pt;
 		overflow-wrap: break-word;
+	}
+
+	.h3-quatre-des p img {
+		width: 95%
 	}
 
 	.full-page {
