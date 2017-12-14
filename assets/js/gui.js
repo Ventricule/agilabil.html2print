@@ -26,6 +26,7 @@ $(function() {
             } else {
                 doc.removeClass("spread");
             }
+            console.log($(this).is(":checked"));
         });
 
         //$('[name="hi-res"]').change(function() {
