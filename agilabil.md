@@ -1,3 +1,10 @@
+![One to One](assets/images/one2one-02.jpg)
+
+***
+
+&nbsp;
+
+***
 
 ## Introduction
 
@@ -75,7 +82,6 @@ Par ailleurs, les financements de l’Université et de la recherche sont aujour
 
 > L'absence de résultats annoncés n'induit pas la stérilité d'un projet, bien au contraire. C'est ce que vient prouver cet ouvrage dont la réalisation n'était pas prévue au départ. Innover, ce n'est pas créer du neuf à tout prix, c'est s'enseigner les uns les autres à regarder autrement - y compris pour considérer comme un «résultat» quelque chose qui émerge et qui n'était pas programmé.
 
-***
 
 ### L’écho des questions et des désirs : <br> rencontre avec les étudiant.e.s
 
@@ -98,8 +104,6 @@ Avec l’Agilabil nous voulons formuler les problèmes pédagogiques et les tran
 « La difficulté que j’ai rencontrée tout au long de mes études vient du fait que je déteste être évaluée. Déjà petite j’avais des maux de ventre insupportables avant les contrôles (rien que ce mot m’agace). Et puis je suis entrée en classes préparatoires où l’évaluation était omniprésente, et c’est devenu très difficile. »
 
 « Mes plus grandes difficultés sont les questions que je me posais à chaque apprentissage : “À quoi ça sert ?” et aussi l’incompréhension face à l’énoncé d’un exercice. J’ai cherché à résoudre le premier problème, tout d’abord en cessant de me poser cette question, puis en arrêtant d’apprendre pour avoir de bonnes notes, mais plutôt pour le plaisir que j’avais à utiliser ces connaissances. Ce qui a engendré un nouveau problème : un ennui quand la matière ne m’intéresse pas. Le second problème me pose encore beaucoup de difficultés. S’il s’agit d’une question fermée et sans implicite alors je m’en sors en définissant chaque terme ; mais s’il s’agit d’une question ouverte avec des sous-entendus, soit j’ai tendance à répondre à la question au premier degré, soit j’énonce toutes les possibilités. Dans les deux cas ce n’est pas la réponse attendue. »
-
-***
 
 <a id="A5">A5</a>
 
@@ -141,8 +145,7 @@ Je deviens ainsi à moi-même, ce qu’un archéologue peut être à ses fouille
 
 <div class="chemin voie-a" markdown="1">Pour découvrir le fonctionnement singulier du département de danse et de performance de l’Université d’art de Berlin, passez directement page [A6](#A6)</div>
 ***
-![Portraits](assets/images/portraits/portraits1.jpg){.full-page}
-***
+
 ## Présentation des Agilabien.ne.s
 
 <a id="A2">A2</a>
@@ -192,17 +195,16 @@ Je deviens ainsi à moi-même, ce qu’un archéologue peut être à ses fouille
 
 ***
 
-&nbsp ;
-![Portraits](assets/images/portraits/portraits2.jpg){.full-page}
-
-***
-
 <div class="surtitre" markdown="1">
  <span>12 octobre au 7 décembre 2015</span>
  <span>Première phase</span>
 </div>
 
 ## Le pavé dans la mare
+
+***
+
+&nbsp;
 
 ***
 
@@ -485,8 +487,6 @@ Comme l’atelier est expérimental, on soupçonne tout de suite une erreur : le
 **Retour du groupe :** À l’inverse de l’atelier *image en chantier* conçu par Adèle G. à partir de photographies en vrac où l’on ne se demandait pas vraiment pourquoi elles avaient été choisies plutôt que d’autres, les images ici dans leur sérialité amènent les participants à deux réactions paradoxales : soit les servir, soit se servir de leur apparence schématique pour en faire ce que l’on veut. L’enchaînement contraint le participant. On en vient soit à évacuer l’image, à prendre l’espace que l’on souhaite, soit à ne pas trop réussir à se situer. Hyacinthe est parti de métaphores tapées sur une barre de recherche ou de phrases type « être prisonnier de ses idées » avec un poisson dans une ampoule ou « rouler sa bosse » avec un bousier poussant la terre. Finalement, les participants cherchent à savoir ce qu’a voulu dire l’animateur, le fil de sa pensée à partir du montage qu’il a fait. On se met à la place de celui qui a construit le montage. Globalement, tout le monde avoue ne pas s’être senti libre avec ces images qui disent à la fois tout et rien. Elles renvoient à une certaine vision de l’entreprise. On parle même d’image qui « véhicule une idéologie » ou « qui va à l’efficace ».
 
 **Idées de poursuite et de développement de l’atelier :** Retrouver la pensée de l’autre. Proposition d’*ice-breaker* en se mettant à la place du professeur pour reconstituer le fil de la pensée : pourquoi tel texte a été découpé à ce mot-là près ? Quelle est la question sous-jacente à ce sujet de dissertation ? Présenter 3 diapositives : quelle logique, construisez un discours à partir d’elles : il y a un fil à trouver, susciter ce réflexe de dégager la logique sous-jacente.
-
-***
 
 <div class="cartouche" markdown="1">
 
@@ -792,14 +792,14 @@ Le dernier temps de la réunion est consacré à la *mallette* et aux objets à 
 
 ***
 
-***
-
 <div class="surtitre" markdown="1">
  <span>du 19 janvier 2016 à juillet 2016</span>
  <span>Seconde phase</span>
 </div>
 
 ## À bras le corps
+
+***
 
 ***
 
@@ -969,7 +969,7 @@ Au sein d’un groupe de quatre personnes, chacun.E propose un objet à étudier
 
 <div class="encart" markdown="1">
 
-Nous sommes déjà en milieu d’après-midi. Le projet *mallette* prend une nouvelle forme en se mariant à un atelier sur une thématique précise : le stress. Animé par Sonia et Adèle F., cet atelier mène notamment à l’élaboration d’objets conçus pour mieux faire face à certaines formes de stress.
+Nous sommes déjà en milieu d’après-midi. Le projet *mallette* prend une nouvelle forme en se mariant à un atelier animé par Sonia et Adèle F. qui nous mène à l’élaboration d’objets conçus pour mieux faire face à certaines formes de stress.
 
 </div>
 
@@ -1037,7 +1037,7 @@ Laisser de la place à l’expression de sujets sensibles, que chacun a vécus �
 **Après-coup : retour sur atelier « stress » de Sonia et Adèle par Myriam**
 La question du stress, récurrente avec les étudiant.e.s comme dans l’efflorescence des conseils de développement personnel et autres conseils de *management*, m’intéresse surtout en regard des usages sociaux qui l’accompagnent. Pour le dire autrement : la dimension individuelle et psychologique ne doit pas occulter, à mon sens, un enjeu structurel et collectif. Le diagnostic de stress s’avère en effet souvent utilisé pour faire porter une défaillance à un seul individu, comme s’il s’agissait d’une difficulté personnelle, d’une incapacité intime et non du symptôme d’un dysfonctionnement d’ensemble.
 Comment, dès lors, faire face au stress qui peut être ressenti à l’Université — que l’on soit étudiant, prof, administratif ou vacataire, personnel plus ou moins précaire de la recherche ou de la santé ? En appliquant des techniques, sans doute, en travaillant davantage pour se mettre à la hauteur des situations, sans doute aussi, mais surtout en abordant frontalement la question de savoir pourquoi nous sommes ici et ce que nous voulons en faire : l’enjeu est bien plutôt de s’impliquer pour faire de l’UniverCité l’endroit où nous voulons être.
-Pour aller plus loin : Marie Buscatto, Marc Loriol, Jean-Marc Weller (dir.), *Au-delà du stress au travail. Une sociologie des agents publics au contact des usagers*, Paris, Erès, « Clinique du travail », 2008, 287 p.
+Pour aller plus loin : Marie Buscatto, Marc Loriol, Jean-Marc Weller (dir.), *Au-delà du stress au travail. Une sociologie des agents publics au contact des usagers*, Paris, Erès, « Clinique du travail », 2008
 
 <div class="encart" markdown="1">
 C’est ainsi que notre première journée du week-end se termine. À la Bergerie un bon repas nous attend et la soirée se prolonge en jeux et en discussions. Le lendemain, nous devrons terminer nos objets pour la *mallette*, faire un premier retour sur l’expérience Agilabil et prendre des décisions quant à la suite de l’aventure.
@@ -1328,6 +1328,17 @@ Ce n’est qu’approchant de la dernière réunion officielle du projet Agilabi
 Du coup, plus besoin pour la *mallette* d’être un espace d’archivage de l’année parcourue. Malgré leur différence d’objectif, ces deux outils (*la mallette* et le *Livre Agilabil*) se rejoignent. La *mallette* offre avec les objets qu’elle contient une possibilité d’expérimentation directe tout en étant une sorte de mémoire condensée du parcours Agilabilien. Le livre, quant à lui, se veut l’archivage doux d’une expérience piquante, tout en gardant l’esprit du jeu et de la prise de décision avec son profil « livre dont vous êtes le héros ». L’enjeu est double : offrir à d’autres la liberté d’inventer leur propre expérience et garder vive une mémoire qu’on ne veut ni perdre ni fossiliser.
 
 <div class="chemin voie-c" markdown="1"> Pour faire l’expérience du doux et du piquant au même moment, passez directement page [C6](#C6)</div>
+
+***
+
+<div class="surtitre" markdown="1">
+ <span>de juillet à octobre 2016 ???</span>
+ <span>prolongements</span>
+</div>
+
+## Lendemains qui chantent
+
+***
 
 ***
 
@@ -1648,20 +1659,27 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="chemin voie-a" markdown="1">Pour savoir ce qu’on venait de conclure au moment de la prise de cette photo, passez directement page [A4](#A4)</div>
 
-![À table](assets/images/table.jpg)
+<div class="columns col-2" markdown="1">
 
+  ![À table](assets/images/table.jpg)
 
-![Atelier maquette](assets/images/atelier-maquette.jpg)
+  ![Atelier maquette](assets/images/atelier-maquette.jpg)
 
-![Atelier parole](assets/images/atelier-parole.jpg)
+  ![Atelier parole](assets/images/atelier-parole.jpg)
 
-![Groupe en cercle](assets/images/cercle-groupe.jpg)
+  ![Groupe en cercle](assets/images/cercle-groupe.jpg)
 
-<a id="A7">A7</a>
+  <a id="A7">A7</a
 
-![affiche recrutement](assets/images/A7.jpg)
+</div>
 
-<div class="chemin voie-a" markdown="1">Pour découvrir un objet-outil qui permet de penser l’Université idéale, passez directement page [A8](#A8)</div>
+<div class="columns col-3" markdown="1">
+
+  ![affiche recrutement](assets/images/A7.jpg)
+
+  <div class="chemin voie-a" markdown="1">Pour découvrir un objet-outil qui permet de penser l’Université idéale, passez directement page [A8](#A8)</div>
+
+</div>
 
 <a id="B6">B6</a>
 

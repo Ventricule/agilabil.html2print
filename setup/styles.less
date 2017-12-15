@@ -266,7 +266,8 @@ article, .page {
 	}
 
 	h2.h2-le-pave,
-	h2.h2-a-bras {
+	h2.h2-a-bras,
+	h2.h2-lendemains-qui {
 		font-size: 21pt;
 		line-height: @line-height * 2;
 		position: absolute;
@@ -289,7 +290,7 @@ article, .page {
 		overflow-wrap: break-word;
 	}
 
-	.h3-quatre-des p img {
+	.h3-quatre-des img {
 		width: 95%
 	}
 
@@ -320,7 +321,7 @@ article, .page {
 		margin: 0;
 		img {
 			margin: 0;
-			width: 62mm;
+			//width: 62mm;
 			margin-bottom: 6.5mm;
 			max-height: 190mm;
 			display: block;
@@ -632,26 +633,6 @@ article {
 	    position: absolute;
 	    top: 0;
 	    display: none;
-	}
-
-}
-
-.paper {
-
-	// left pages
-	&:nth-child(even) {
-		.icon-chemin-end {
-			left: -@page-margin-outside/2;
-			transform: translateX(-50%);
-		}
-	}
-
-	// right pages
-	&:nth-child(odd) {
-		.icon-chemin-end {
-			right: -@page-margin-outside/2;
-			transform: translateX(50%);
-		}
 	}
 
 }

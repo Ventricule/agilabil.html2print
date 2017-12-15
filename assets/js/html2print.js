@@ -15,13 +15,12 @@ $(function() {
 
 		// Defining specifics masters
 		var master = {
-			"58" : "columns",
 			"59" : "columns",
 			"60" : "columns",
-			"61" : "columns",
+			/*"61" : "columns",
 			"62" : "columns",
 			"63" : "columns",
-			"64" : "columns"
+			"64" : "columns"*/
 		};
 
     // Cloning the master page
