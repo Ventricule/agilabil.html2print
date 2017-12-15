@@ -1370,8 +1370,6 @@ La *mallette* a été conçue par le collectif Agilabil et réalisée par Margau
 
 Présentation de quatre des objets se trouvant dans la *mallette* et de quelques fiches d’activation qui s’y rattachent. Chacune de ces fiches est combinable avec n’importe lequel des objets — et modifiable au gré des idées et des envies qui émergeront. Si vous ne comprenez pas tout de suite (ou pas du tout) quoi faire des objets (ou des fiches) ne paniquez pas — au contraire, c’est le signe que ça marche ! Tout l’intérêt est de savoir ce que nous ferons ensemble de cette incertitude...
 
-![Portraits](assets/images/dessins-malette.jpg)
-
 ***
 
 #### J’abstrais le _
@@ -1448,8 +1446,6 @@ Présentation de quatre des objets se trouvant dans la *mallette* et de quelques
 **Atelier associé :** atelier « Consignes » pensé et animé par Juliette, voir page [](#consigne)
 
 **Note :** beaucoup des difficultés à (se) comprendre tiennent à l’existence de codes qui restent implicites et se précipitent ou se cristallisent dans des manières de dire, de formuler. La méthodologie commence avec le type d’énoncés qui sont acceptables ou non en contexte universitaire.
-
-***
 
 #### Je bâtis avec _
 
@@ -1665,7 +1661,9 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
   ![Atelier maquette](assets/images/atelier-maquette.jpg)
 
-  ![Atelier parole](assets/images/atelier-parole.jpg)
+  ***
+
+  ![photo des lunettes roses de Cécile](assets/images/C9.jpg)
 
   ![Groupe en cercle](assets/images/cercle-groupe.jpg)
 
@@ -1673,11 +1671,31 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 </div>
 
-<div class="columns col-3" markdown="1">
+***
+
+<div class="columns col-2" markdown="1">
 
   ![affiche recrutement](assets/images/A7.jpg)
 
   <div class="chemin voie-a" markdown="1">Pour découvrir un objet-outil qui permet de penser l’Université idéale, passez directement page [A8](#A8)</div>
+
+  ***
+
+  ![créativité](assets/images/02.jpg)
+
+</div>
+
+![Atelier parole](assets/images/atelier-parole.jpg)
+
+***
+
+<div class="columns col-2" markdown="1">
+
+  ![malette-fluxus](assets/images/fluxus.jpg)
+
+  ***
+
+  ![malette-froebel](assets/images/froebel.jpg)
 
 </div>
 
@@ -1687,23 +1705,34 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="chemin voie-b" markdown="1">Pour avoir accès au concept final de la *mallette* Agilabil ainsi qu’à son mode de fonctionnement, passez page [B7](#B7)</div>
 
-<a id="B8">B8</a>
-
-![photo de la *mallette*](assets/images/B8a.jpg)
-
-![photo de la *mallette*](assets/images/B8b.jpg)
-
-<div class="chemin voie-b" markdown="1">Pour avoir un aperçu des objets et de leur possible activation, passez directement page [B9](#B9)</div>
+***
 
 <a id="B10">B10</a>
 
-![Les images reliées entre elles](assets/images/B10a.jpg)
+![Malette mains](assets/images/malette-mains.jpg)
 
-![Le rumixcube](assets/images/B10b.jpg)
+<div class="columns col-2" markdown="1">
 
-![La boîte à œuf](assets/images/B10c.jpg)
+  ![objet](assets/images/B10a.jpg)
 
-<div class="chemin voie-b" markdown="1">Bravo vous êtes à la fin du chemin de lecture bleu</div>
+  ![objet](assets/images/B10b.jpg)
+
+  ***
+
+  ![objet](assets/images/B10c.jpg)
+
+  <a id="B8">B8</a>
+
+  ![photo de la *mallette*](assets/images/B8a.jpg)
+
+  <div class="chemin voie-b" markdown="1">Pour avoir un aperçu des objets et de leur possible activation, passez directement page [B9](#B9)</div>
+
+  <div class="chemin voie-b" markdown="1">Bravo vous êtes à la fin du chemin de lecture bleu</div>
+
+</div>
+
+***
+
 
 <a id="C7">C7</a>
 
@@ -1713,12 +1742,6 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <a id="C9">C9</a>
 
-![photo des lunettes roses de Cécile](assets/images/C9.jpg)
-
 <div class="chemin voie-c" markdown="1">Pour prendre la mesure de notre décision quant à la publication d’une trace du projet, fermez le *Livre Agilabil* que vous tenez dans vos mains, mettez-le à distance pendant quelques secondes. Vous pouvez également le regarder de profil, sa tranche, par devant ou derrière, n’oubliez pas de revenir directement page $ [C10](#C10)</div>
 
 <div class="chemin voie-c" markdown="1">Bravo vous êtes à la fin du chemin de lecture vert.</div>
-
-
-+ Capture d’écran de la plateforme
-+ Capture du tumblr
