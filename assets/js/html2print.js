@@ -16,16 +16,12 @@ $(function() {
 		// Defining specifics masters
 		var master = {
 			"59" : "columns",
-			"60" : "columns",
-			/*"61" : "columns",
-			"62" : "columns",
-			"63" : "columns",
-			"64" : "columns"*/
+			"60" : "columns"
 		};
 
     // Cloning the master page
-    for (i = 1; i < nb_page; i++){
-			if ( master[i] != null) {
+    for (i = 1; i <= nb_page; i++){
+			if ( master[i] != null && master[i] != false ) {
 				$("#master-page-" + master[i]).clone().attr("id","page-"+i).insertBefore($("#master-page")).addClass(master[i]);
 			} else {
         $("#master-page").clone().attr("id","page-"+i).insertBefore($("#master-page"));
