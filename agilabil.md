@@ -1671,6 +1671,12 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 </div>
 
+<div class="caption" markdown="1">
+
+  1. Le groupe Agilabil • 2. Le groupe attablé à la bergerie Villarceaux • 3. L'atelier maquette • 4. Les lunettes roses de Cécile créé lors de l'atelier Stress • 5. Le groupe réunit autour d'une première ébauche de le mallette
+
+</div>
+
 ***
 
 <div class="columns col-2" markdown="1">
@@ -1686,6 +1692,12 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 </div>
 
 ![Atelier parole](assets/images/atelier-parole.jpg)
+
+<div class="caption" markdown="1">
+
+  1. Appel à participation destiné aux étudiants • 2. Silhouette d'une Agilabienne face au penseur de Rodin vidéoprojeté dans un diaporama proposé lors de l'atelier ??? • 3. Dispositif tricéphale vu lors de l'atelier One to One.
+
+</div>
 
 ***
 
@@ -1705,6 +1717,12 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="chemin voie-b" markdown="1">Pour avoir accès au concept final de la *mallette* Agilabil ainsi qu’à son mode de fonctionnement, passez page [B7](#B7)</div>
 
+<div class="caption" markdown="1">
+
+  1. Mallette • 2. Mallette • 3. Croquis préparatoires de Hyacinthe
+
+</div>
+
 ***
 
 <a id="B10">B10</a>
@@ -1713,21 +1731,27 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="columns col-2" markdown="1">
 
-  ![objet](assets/images/B10a.jpg)
-
-  ![objet](assets/images/B10b.jpg)
-
-  ***
-
-  ![objet](assets/images/B10c.jpg)
-
   <a id="B8">B8</a>
 
   ![photo de la *mallette*](assets/images/B8a.jpg)
 
+  ![objet](assets/images/B10a.jpg)
+
   <div class="chemin voie-b" markdown="1">Pour avoir un aperçu des objets et de leur possible activation, passez directement page [B9](#B9)</div>
 
+  ***
+
+  ![objet](assets/images/B10b.jpg)
+
+  ![objet](assets/images/B10c.jpg)
+
   <div class="chemin voie-b" markdown="1">Bravo vous êtes à la fin du chemin de lecture bleu</div>
+
+</div>
+
+<div class="caption" markdown="1">
+
+  1. Le contenu de la mallette • 2. 3. et 4. Objets présents dans la mallette • 5. La mallette repliée
 
 </div>
 
@@ -1737,6 +1761,12 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 <a id="C7">C7</a>
 
 ![Défi marshmallow](assets/images/C7.jpg)
+
+<div class="caption" markdown="1">
+
+  1. Défi marshmallow
+
+</div>
 
 <div class="chemin" markdown="1">Pour savoir comment gérer son stress lorsqu’on est confronté au défi Marshmallow, ou en général, passez directement page [C8](#C8)</div>
 

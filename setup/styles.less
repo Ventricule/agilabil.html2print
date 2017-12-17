@@ -251,12 +251,27 @@ article, .page {
 
 		p {
 			break-inside: avoid;
-			display: inline-block;
+			display: block;
 		}
 
 		hr {
 			break-after: column;
 		}
+	}
+
+	.caption {
+		position: absolute;
+		bottom: @page-margin-bottom;
+		left: @page-margin-outside;
+		right: @page-margin-inside;
+
+		p {
+			font-size: 9pt;
+			line-height: 11pt;
+			opacity: .5;
+			margin: 0;
+		}
+
 	}
 
 	h2 strong,
@@ -307,15 +322,6 @@ article, .page {
 	}
 
 	// Livret photo
-	.chemin.h2-livret-photo {
-		padding: 0;
-		margin: 0;
-		margin-bottom: 6.5mm;
-	}
-
-	.chemin.h2-livret-photo::before {
-		display: none;
-	}
 
 	h2.h2-livret-photo {
 		display: none;
@@ -323,16 +329,38 @@ article, .page {
 
 	p.h2-livret-photo {
 		margin: 0;
+	}
+
+	.h2-livret-photo {
+
+		p {
+			margin: 0;
+		}
+
 		img {
 			margin: 0;
 			//width: 62mm;
-			margin-bottom: 6.5mm;
+			margin-bottom: 18pt;
 			max-height: 190mm;
 			display: block;
 		}
+
 		a[id]::after {
 			left: -15pt !important;
 		}
+
+		&.chemin::before,
+		.chemin::before {
+			display: none;
+		}
+
+		&.chemin,
+		.chemin {
+			padding: 0;
+			margin: 0;
+			margin-bottom: 18pt;
+		}
+
 	}
 
 	// Ours
