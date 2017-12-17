@@ -15,12 +15,12 @@ $(function() {
 
 		// Defining specifics masters
 		var master = {
-			"59" : "columns",
-			"60" : "columns"
+			"58" : "columns",
+			"59" : "columns"
 		};
 
     // Cloning the master page
-    for (i = 1; i <= nb_page; i++){
+    for (i = 1; i < nb_page; i++){
 			if ( master[i] != null && master[i] != false ) {
 				$("#master-page-" + master[i]).clone().attr("id","page-"+i).insertBefore($("#master-page")).addClass(master[i]);
 			} else {

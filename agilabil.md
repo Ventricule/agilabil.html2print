@@ -1370,8 +1370,6 @@ La *mallette* a été conçue par le collectif Agilabil et réalisée par Margau
 
 Présentation de quatre des objets se trouvant dans la *mallette* et de quelques fiches d’activation qui s’y rattachent. Chacune de ces fiches est combinable avec n’importe lequel des objets — et modifiable au gré des idées et des envies qui émergeront. Si vous ne comprenez pas tout de suite (ou pas du tout) quoi faire des objets (ou des fiches) ne paniquez pas — au contraire, c’est le signe que ça marche ! Tout l’intérêt est de savoir ce que nous ferons ensemble de cette incertitude...
 
-***
-
 #### J’abstrais le _
 
 <div class="surtitre" markdown="1">(aussi appelé « La boîte à œuf »)</div>
@@ -1665,15 +1663,15 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
   ![photo des lunettes roses de Cécile](assets/images/C9.jpg)
 
-  ![Groupe en cercle](assets/images/cercle-groupe.jpg)
+  <a id="A7">A7</a>
 
-  <a id="A7">A7</a
+  ![Groupe en cercle](assets/images/cercle-groupe.jpg)
 
 </div>
 
 <div class="caption" markdown="1">
 
-  1. Le groupe Agilabil • 2. Le groupe attablé à la bergerie Villarceaux • 3. L'atelier maquette • 4. Les lunettes roses de Cécile créé lors de l'atelier Stress • 5. Le groupe réunit autour d'une première ébauche de le mallette
+  1.&nbsp;Le groupe Agilabil • 2. Le groupe attablé à la bergerie Villarceaux • 3. L'atelier maquette • 4. Les lunettes roses de Cécile créé lors de l'atelier Stress • 5. Le groupe réunit autour d'une première ébauche de le mallette
 
 </div>
 
@@ -1695,7 +1693,7 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="caption" markdown="1">
 
-  1. Appel à participation destiné aux étudiants • 2. Silhouette d'une Agilabienne face au penseur de Rodin vidéoprojeté dans un diaporama proposé lors de l'atelier ??? • 3. Dispositif tricéphale vu lors de l'atelier One to One.
+  1.&nbsp;Appel à participation destiné aux étudiants • 2. Silhouette d'une Agilabienne face au penseur de Rodin vidéoprojeté dans un diaporama proposé lors de l'atelier ??? • 3. Dispositif tricéphale vu lors de l'atelier One to One.
 
 </div>
 
@@ -1719,7 +1717,7 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="caption" markdown="1">
 
-  1. Mallette • 2. Mallette • 3. Croquis préparatoires de Hyacinthe
+  1.&nbsp;Mallette • 2. Mallette • 3. Croquis préparatoires de Hyacinthe
 
 </div>
 
@@ -1751,7 +1749,7 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="caption" markdown="1">
 
-  1. Le contenu de la mallette • 2. 3. et 4. Objets présents dans la mallette • 5. La mallette repliée
+  1.&nbsp;Le contenu de la mallette • 2. 3. et 4. Objets présents dans la mallette • 5. La mallette repliée
 
 </div>
 
@@ -1764,7 +1762,7 @@ Dans la continuité des expériences sur les formes de travail à plusieurs, ce 
 
 <div class="caption" markdown="1">
 
-  1. Défi marshmallow
+  1.&nbsp;Défi marshmallow
 
 </div>
 
